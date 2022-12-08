@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 ,La voz de Maria canal 1
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w495468268.m3u8
+
+#EXTINF:-1 ,Teleantilla canal 2
+https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2pj234zfqk_FgXdxaQyAQjwcGSimzwwTa9MSGvl0XIfF)/dm/3/x809r6i/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1 ,TV Plata Canal 3
+https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w296257382.m3u8
+
+#EXTINF:-1 ,Certv Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 ,Telemicro Canal 5
+https://playback.akamaized.net/streams/27456795_10633780_lsixv0abby27238rcth_1/media/27456795_10633780_lsixv0abby27238rcth_1@628000p.m3u8?dw=14400&ts=1670443200&hdnts=exp=1670616983~acl=/streams/27456795_10633780_lsixv0abby27238rcth_1/media*~hmac=c9edc49ca5b263bf07d9b2fb047ab2feecf0b3af2c588767e600af1d6c660c3f
+
+#EXTINF:-1 ,Ready TV Canal 6
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1403063659.m3u8
+
+#EXTINF:-1 ,Antena 7 Canal 7
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
+
+
+#EXTINF:-1 ,Telenol Canal 8
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1793776764.m3u8
+
+#EXTINF:-1 ,ColorVision Canal 9
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYyt5tLxVWc4gVHqGtbFFmbSwLS-UwZ2UlvnF0spUPLr1)/dm/3/x7gy059/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 ,Telenol Canal 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
+
+#EXTINF:-1 ,Telesistema Canal 11
+https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rRehCOreXKrUk4Hz1URwBeOE03Tb2hpOgBjuHtWAdj0)/dm/3/x80ac48/s/live-3.m3u8#cell=lcore
+
+#EXTINF:-1 , Telecentro Canal 13
+https://playback.akamaized.net/streams/27456795_10501048_lsiuxbo5nt8l9un0bul_1/media/27456795_10501048_lsiuxbo5nt8l9un0bul_1@2756000p.m3u8?dw=14400&ts=1670446800&hdnts=exp=1670620528~acl=/streams/27456795_10501048_lsiuxbo5nt8l9un0bul_1/media*~hmac=2d02508cd56e44da67688ead50eba99488f02f40a04a2dac6eacaea0589cb44c
+
+#EXTINF:-1 , Digital 15 Canal 15
+https://playback.akamaized.net/streams/27456795_10633798_lsijm5ym3zu4eqjol06_1/media/27456795_10633798_lsijm5ym3zu4eqjol06_1@2756000p.m3u8?dw=14400&ts=1670446800&hdnts=exp=1670620875~acl=/streams/27456795_10633798_lsijm5ym3zu4eqjol06_1/media*~hmac=4b0bb27b94e161f248a1d1f1da4938e8fbcf2c90974d97f55059510a8519557a
+
+#EXTINF:-1 , Teleunio Canal 16
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w644576908.m3u8
+
+#EXTINF:-1 , RTVD Canal 17
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1461202102_b3203072.m3u8
+
+#EXTINF:-1 , Cinevisión Canal 19
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
+#EXTINF:-1 , Nexxo TV Canal 20
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+#EXTINF:-1 , Xtremo Vision Canal 22
+https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
+
+#EXTINF:-1 , Telefuturo Canal 23
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+
+#EXTINF:-1 , Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1 , Carivision Canal 26
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+
+#EXTINF:-1 , RNN Canal 27
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1 , TeleCanal 28 Canal 28
+https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 , Teleuniverso Canal 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 , CTN TV Canal 30
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
+
+#EXTINF:-1 , Hermanas Mirabal Canal 33
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
+
+#EXTINF:-1 , Teleradio Canal 45
+https://live.teledom.info:3625/live/tra45live.m3u8
+
+#EXTINF:-1 , CDN Canal 37
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1670455373&e=1670455493&h=b6e1e6901ce6c2d7e1242487a0e992e0
+
+
+
+Novelas
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Undefined",Bolivisión (480p)
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+
+
+
+
+#EXTINF:-1 Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/NXIG1He.png" group-title="Undefined",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png" group-title="Undefined",Telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/x5O42NQ.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
+RELIGION
+
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Religious",Avivamiento TV (1080p) [Not 24/7]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us" tvg-logo="https://i.imgur.com/9Brfh2M.png" group-title="Religious",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
+http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuraPalabra.pr" tvg-logo="https://storage.snappages.site/7C4753/assets/images/3505471_1024x1024_500.png" group-title="Undefined",Pura Palabra (718p) [Not 24/7]
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+
+MUSICA 
+
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/4kxxSCq.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTVTendencias.pe" tvg-logo="https://www.radiotvtendencias.com/wp-content/uploads/2022/06/radio-tv-tendencias-logo.jpg" group-title="Music",Radio TV Tendencias [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
+ENTRETENIMIENTO
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmayaTV.py" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="Undefined",AlmayaTV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (720p)
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-logo="https://anzoategui.tv/wp2/wp-content/uploads/2022/03/anz-tv-white.png" group-title="Undefined",Anzoátegui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Asomavision.ec" tvg-logo="https://www.asomavision.com/wp-content/uploads/elementor/thumbs/logo-plmdacsiyvbjg8u0c09hltx6cm1h0q2unv4vmd17as.png" group-title="Undefined",Asomavisión
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="Telenord.ar" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="Undefined",Telenord
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/teletur.png" group-title="Travel",Teletur
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+
+
