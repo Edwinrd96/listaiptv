@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,La voz de Maria canal 1
+#EXTINF:-1 ,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanalesdominicanosenvivo.com%2Fla-voz-de-maria-la-vega%2F&psig=AOvVaw0SBuuavqKoHdJb-GLk5vnw&ust=1670636041736000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjo4K-y6_sCFQAAAAAdAAAAABAI",La voz de Maria canal 1
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w495468268.m3u8
 
 #EXTINF:-1 ,Teleantilla canal 2
