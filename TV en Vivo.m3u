@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png", La Voz de Maria Canal 1 
+#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religious", La Voz de Maria Canal 1 
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w495468268.m3u8
+
+#EXTINF:-1 tvg-id="teleantillas.com.do" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2022/09/logoTeleantillas122x90.png" group-title="General",Teleantillas Canal 2
+https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mdoR0mEoUHZ_WUQq3igjJNGg3zvxCFa5vKW8I-6c3NZ)/dm/3/x809r6i/s/live-0.m3u8#cell=lcore
 
 #EXTINF:-1 ,TV Plata Canal 3
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w296257382.m3u8
@@ -8,8 +11,8 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w296257382.m3u8
 #EXTINF:-1 ,Certv Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1 ,Telemicro Canal 5
-https://playback.akamaized.net/streams/27456795_10633780_lsixv0abby27238rcth_1/media/27456795_10633780_lsixv0abby27238rcth_1@628000p.m3u8?dw=14400&ts=1670443200&hdnts=exp=1670616983~acl=/streams/27456795_10633780_lsixv0abby27238rcth_1/media*~hmac=c9edc49ca5b263bf07d9b2fb047ab2feecf0b3af2c588767e600af1d6c660c3f
+#EXTINF:-1 tvg-id="telemicro.com.do" tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_3.png" group-title="General",Telemicro Canal 5
+https://playback.akamaized.net/streams/27456795_10633780_lsihkvthccfmfrowemg_1/media/27456795_10633780_lsihkvthccfmfrowemg_1@628000p.m3u8?dw=14400&ts=1670526000&hdnts=exp=1670700712~acl=/streams/27456795_10633780_lsihkvthccfmfrowemg_1/media*~hmac=8c524af040891112b5b423b4cc9b038d7abf69221010b4242dbbfbcd2265e8cf
 
 #EXTINF:-1 ,Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1403063659.m3u8
@@ -30,11 +33,11 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
 #EXTINF:-1 ,Telesistema Canal 11
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rRehCOreXKrUk4Hz1URwBeOE03Tb2hpOgBjuHtWAdj0)/dm/3/x80ac48/s/live-3.m3u8#cell=lcore
 
-#EXTINF:-1 , Telecentro Canal 13
-https://playback.akamaized.net/streams/27456795_10501048_lsi05100dhqwfjbg1kl_1/media/27456795_10501048_lsi05100dhqwfjbg1kl_1@628000p.m3u8?dw=14400&ts=1670551200&hdnts=exp=1670725529~acl=/streams/27456795_10501048_lsi05100dhqwfjbg1kl_1/media*~hmac=d73fb60efbd724ab621196b2a2dad918c97eb0bfb1ea8a47a5cc100eb49bbb90
+#EXTINF:-1 tvg-id="telemicro.com.do" tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_2.png" group-title="General", Telecentro Canal 13
+https://playback.akamaized.net/streams/27456795_10501048_lsi05100dhqwfjbg1kl_1/media/27456795_10501048_lsi05100dhqwfjbg1kl_1@2756000p.m3u8?dw=14400&ts=1670554800&hdnts=exp=1670729673~acl=/streams/27456795_10501048_lsi05100dhqwfjbg1kl_1/media*~hmac=093b6b911b5643d046ee9204e7fa1f9381d49a5ced8a03518ed50795347421c5
 
-#EXTINF:-1 , Digital 15 Canal 15
-https://playback.akamaized.net/streams/27456795_10633798_lsijm5ym3zu4eqjol06_1/media/27456795_10633798_lsijm5ym3zu4eqjol06_1@2756000p.m3u8?dw=14400&ts=1670446800&hdnts=exp=1670620875~acl=/streams/27456795_10633798_lsijm5ym3zu4eqjol06_1/media*~hmac=4b0bb27b94e161f248a1d1f1da4938e8fbcf2c90974d97f55059510a8519557a
+#EXTINF:-1 tvg-id="telemicro.com.do" tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_1.png" group-title="General", Digital 15 Canal 15
+https://playback.akamaized.net/streams/27456795_10633798_lsixg7wmlxzs1cdjxhx_1/media/27456795_10633798_lsixg7wmlxzs1cdjxhx_1@1756000p.m3u8?dw=14400&ts=1670554800&hdnts=exp=1670729482~acl=/streams/27456795_10633798_lsixg7wmlxzs1cdjxhx_1/media*~hmac=80d2973464b378ef120956fcc191813e0e0d495139dd98bc7cad91d9572b2914
 
 #EXTINF:-1 , Teleunio Canal 16
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w644576908.m3u8
@@ -83,7 +86,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 
 
 
-Novelas
+
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Undefined",Bolivisión (480p)
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
@@ -155,4 +158,6 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/teletur.png" group-title="Travel",Teletur
 https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+
+
 
