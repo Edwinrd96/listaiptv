@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanalesdominicanosenvivo.com%2Fla-voz-de-maria-la-vega%2F&psig=AOvVaw0SBuuavqKoHdJb-GLk5vnw&ust=1670636041736000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjo4K-y6_sCFQAAAAAdAAAAABAI",La voz de Maria canal 1EXTINF:-1 ,tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png/v1/fill/w_106,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png",La voz de Maria canal 1
+#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png", La Voz de Maria Canal 1 
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w495468268.m3u8
-
-#EXTINF:-1 ,Teleantilla canal 2
-https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2pj234zfqk_FgXdxaQyAQjwcGSimzwwTa9MSGvl0XIfF)/dm/3/x809r6i/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 ,TV Plata Canal 3
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w296257382.m3u8
@@ -34,7 +31,7 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
 https://stream-04.ix7.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rRehCOreXKrUk4Hz1URwBeOE03Tb2hpOgBjuHtWAdj0)/dm/3/x80ac48/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1 , Telecentro Canal 13
-https://playback.akamaized.net/streams/27456795_10501048_lsiuxbo5nt8l9un0bul_1/media/27456795_10501048_lsiuxbo5nt8l9un0bul_1@2756000p.m3u8?dw=14400&ts=1670446800&hdnts=exp=1670620528~acl=/streams/27456795_10501048_lsiuxbo5nt8l9un0bul_1/media*~hmac=2d02508cd56e44da67688ead50eba99488f02f40a04a2dac6eacaea0589cb44c
+https://playback.akamaized.net/streams/27456795_10501048_lsi05100dhqwfjbg1kl_1/media/27456795_10501048_lsi05100dhqwfjbg1kl_1@628000p.m3u8?dw=14400&ts=1670551200&hdnts=exp=1670725529~acl=/streams/27456795_10501048_lsi05100dhqwfjbg1kl_1/media*~hmac=d73fb60efbd724ab621196b2a2dad918c97eb0bfb1ea8a47a5cc100eb49bbb90
 
 #EXTINF:-1 , Digital 15 Canal 15
 https://playback.akamaized.net/streams/27456795_10633798_lsijm5ym3zu4eqjol06_1/media/27456795_10633798_lsijm5ym3zu4eqjol06_1@2756000p.m3u8?dw=14400&ts=1670446800&hdnts=exp=1670620875~acl=/streams/27456795_10633798_lsijm5ym3zu4eqjol06_1/media*~hmac=4b0bb27b94e161f248a1d1f1da4938e8fbcf2c90974d97f55059510a8519557a
@@ -110,7 +107,6 @@ https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 https://servilive.com:3176/live/cineclublive.m3u8
 
 
-RELIGION
 
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Religious",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
@@ -121,7 +117,7 @@ http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PuraPalabra.pr" tvg-logo="https://storage.snappages.site/7C4753/assets/images/3505471_1024x1024_500.png" group-title="Undefined",Pura Palabra (718p) [Not 24/7]
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 
-MUSICA 
+
 
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
@@ -135,8 +131,6 @@ https://s1.tvdatta.com:3950/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-
-ENTRETENIMIENTO
 
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -161,5 +155,4 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/teletur.png" group-title="Travel",Teletur
 https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
-
 
