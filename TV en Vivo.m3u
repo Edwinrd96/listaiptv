@@ -280,8 +280,9 @@ https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="LOCALES",ZTV Canal 85
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="VARIEDADES",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
 
 
 
