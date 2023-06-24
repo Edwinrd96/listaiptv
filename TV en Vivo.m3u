@@ -26,7 +26,7 @@ https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
 https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w17523527.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9inz7ZfWtZ4/YPbIYbxbKyI/AAAAAAAAP7A/h28L7DuXOaookbjoe58t3uaS-ZNxyAU-wCLcBGAsYHQ/s16000/Color%2BVision%2Bcanal%2B9%2BDominicano%2Ben%2Bvivo%2B%25281%2529.png" group-title="LOCALES",Color Visión Canal 9
-https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=xjebV-apRJr_opuYeko6x11q8XU5E73sVdOr-K6nqZ4Z25sgxEnqH2a1bNQJVOpp&dmTs=749982&dmV1st=120b07ae-38e4-45ed-a459-6d9c7c531f08
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w253799559.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/microvision_do.png" group-title="LOCALES",Microvisión Canal 10
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w761022265.m3u8
@@ -38,7 +38,7 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w2537995
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxpcXVpZC50ZWxlc2lzdGVtYV9pY29uXzE1NTQ1MDYwNTdfMDI1/icon.png?fakeurl=1&h=240&type=webp" group-title="LOCALES",Telesistema Canal 11
-https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2mHJNrPaEuAYbuoBpUfokdYo91CQgb_EVDUDg6Z3y6BV)/dm/3/x80ac48/s/live-3.m3u8#cell=lnyc
+http://51.81.106.157:8084/hls/tsistemas.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-294x165-FFFFFF.jpg" group-title="LOCALES",Telecanal Canal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
@@ -280,8 +280,12 @@ https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="LOCALES",ZTV Canal 85
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="LOCALES",SEO7 TV  Canal 86
+https://live.seo.tv.bo/live/7SEO.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="VARIEDADES",Platzi TV
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/647101bf042584086ee61125/playout/index-v1-a1.m3u8?aid=512e13acaca1ebcd2f000279&pid=UJEc6naVM93fxE6F3a700521KsVkthUR&sid=sNfceUWAkN0XOygvX0SH1D5kI1AOaA5L&uid=hhxDmXNbRQ7ZvMJog7snlTyuqUDSR3fP&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1687706270765&ot=FbdnUY3iDMZdEBnqOz_LOg&proto=https&pz=u
+
 
 
 
