@@ -26,7 +26,7 @@ https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
 https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w17523527.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9inz7ZfWtZ4/YPbIYbxbKyI/AAAAAAAAP7A/h28L7DuXOaookbjoe58t3uaS-ZNxyAU-wCLcBGAsYHQ/s16000/Color%2BVision%2Bcanal%2B9%2BDominicano%2Ben%2Bvivo%2B%25281%2529.png" group-title="LOCALES",Color Visión Canal 9
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w253799559.m3u8
+http://51.81.93.29:8084/hls/colorv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/microvision_do.png" group-title="LOCALES",Microvisión Canal 10
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w761022265.m3u8
