@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religiosa", La Voz de María Canal 1 
+#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religión", La Voz de María Canal 1 
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w495468268.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleantillas.com.do/wp-content/uploads/2018/11/logoTeleantillas.png" group-title="LOCALES",Teleantillas canal 2
@@ -353,7 +353,7 @@ http://playhispano.org:8080/userlw/led5120/90194
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="MX | HBO Signature" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="PELICULAS",HBO Signature
 http://playhispano.org:8080/userlw/led5120/90195
 
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="MX | SyFy" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title=" TV | CINE LATINO  (HD)",MX | SyFy
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="MX | SyFy" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title=" PELICULAS",SyFy
 http://playhispano.org:8080/userlw/led5120/90197
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c625b3229148e396fb831025874dc8ea.gif" group-title="PELICULAS,SONY CHANNEL PREMIUN
@@ -494,13 +494,13 @@ http://playhispano.org:8080/userlw/led5120/88244
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="NOVELAS",Telemundonovelas
 http://playhispano.org:8080/userlw/led5120/111455
 
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON" tvg-logo="" group-title="TV | MEXICO (FHD,HD,SD)",AZTECA CORAZON
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON" tvg-logo="https://3.bp.blogspot.com/-I4m8ueM04Io/WkMHOF_JynI/AAAAAAAABDE/GhtqkOkbjIsRNIMKdmYAvciEggrXu8FQQCLcBGAs/s1600/az-corazon-en-vivo.png" group-title="NOVELAS",AZTECA CORAZON
 http://playhispano.org:8080/userlw/led5120/86968
 
 #EXTINF:-1 tvg-id="" tvg-name="COL| RCN NACIONAL HD" tvg-logo="http://playhispano.org:8080/images/8abaac40562eeee5d7f9d1a9b41f0e5b.png" group-title="NOVELAS",RCN NACIONAL 
 http://playhispano.org:8080/userlw/led5120/86332
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="NOVELAS",SEO TV Novelas
 https://live.seo.tv.bo/live/3SEO.m3u8	
 https://live.seo.tv.bo/live/3SEO.m3u8
 
@@ -662,7 +662,7 @@ http://playhispano.org:8080/userlw/led5120/86979
 http://playhispano.org:8080/userlw/led5120/86980
 #EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif" group-title="DEPORTES",FOX CHANNEL
 http://playhispano.org:8080/userlw/led5120/86982
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://www.elfinanciero.com.mx/resizer/t4vHRoheiNbROq-ojIXjdXjLZIg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="TV | MEXICO (FHD,HD,SD)",FOX SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://www.elfinanciero.com.mx/resizer/t4vHRoheiNbROq-ojIXjdXjLZIg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES",FOX SPORTS 
 http://playhispano.org:8080/userlw/led5120/86988
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://iptvglobal.site:25461/images/d61377c7a5bc13f8669a6346fb547eec.png" group-title="DEPORTES",FOX SPORTS 2
 http://playhispano.org:8080/userlw/led5120/86989
@@ -764,7 +764,7 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/02a36bdaed8d449bae35208a64241ab8a81fb5064c9d1d1c7cf8b14bfdf76355.png" group-title="VARIEDADES",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA" tvg-logo="" group-title="TV | VARIEDADES",AZTECA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA" tvg-logo="" group-title="VARIEDADES",AZTECA CINEMA
 http://playhispano.org:8080/userlw/led5120/86967
 
 #EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="VARIEDADES",BITME
@@ -789,8 +789,5 @@ http://playhispano.org:8080/userlw/led5120/86333
 #EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CANAL UNO (p)" tvg-logo="http://iptvglobal.site:25461/images/0200abb799a26158456f814660ab30eb.png" group-title="VARIEDADES",CANAL UNO
 http://playhispano.org:8080/userlw/led5120/125766
 
-#EXTINF:-1 tvg-id="" tvg-name="LA KALLE COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="TV | COLOMBIA",LA KALLE COLOMBIA
-http://playhispano.org:8080/userlw/led5120/172276
-
-#EXTINF:-1 tvg-id="" tvg-name="LA KALLE COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="V",LA KALLE
+#EXTINF:-1 tvg-id="" tvg-name="LA KALLE COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="VARIEDADES",LA KALLE
 http://playhispano.org:8080/userlw/led5120/172276
