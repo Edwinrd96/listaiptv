@@ -791,3 +791,9 @@ http://playhispano.org:8080/userlw/led5120/125766
 
 #EXTINF:-1 tvg-id="" tvg-name="LA KALLE COLOMBIA" tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="VARIEDADES",LA KALLE
 http://playhispano.org:8080/userlw/led5120/172276
+
+#EXTINF:-1 tvg-id="" tvg-name="IZMX | Univision" tvg-logo="" group-title="VARIEDADES",IZMX | Univision
+http://playhispano.org:8080/userlw/led5120/163336
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION EAST HD" tvg-logo="https://i.picasion.com/pic92/f0a850c9be4b014a70bf917b31a07603.gif" group-title=" TV VARIEDADES",UNIVISION EAST HD
+http://playhispano.org:8080/userlw/led5120/131093
