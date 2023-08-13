@@ -21,8 +21,7 @@ https://tunzilla.com/http://51.81.93.239:8084/hls/tmicro.m3u8
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="LOCALES",Antena Canal 7
-https://pc-17.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dfa661663a68f40a05d15e13df45fa0f/EP.0.2.v1.1691245466.m3u8#DO
-https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
+https://pc-17.peliscdnmx.pro:443/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dfa661663a68f40a05d15e13df45fa0f/EP.0.2.v1.1691245466.1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="LOCALES",Constanza Canal 8
 https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w17523527.m3u8
