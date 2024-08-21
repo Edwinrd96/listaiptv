@@ -1,9 +1,37 @@
 #EXTM3U
+
+RELIGIOSOS
+
 #EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religión", La Voz de María Canal 1 
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w495468268.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/tv-plata.jpeg" group-title="LOCALES",TV Plata canal 3
-https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1005389152.m3u8
+#EXTINF:-1 tvg-logo="https://ewtn.es/wp-content/uploads/2023/01/ewtn.png" group-title="Religión", EWTN España
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/480/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="Religión", RTVD Diocesana 
+https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/3/6/6/366-large_default.jpg" group-title="Religión", Maria Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png" group-title="Religión", TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1728626184.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TVCA_El_Salvador_2015.png/revision/latest?cb=20210621025948&path-prefix=es" group-title="Religión", TVCA
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8?fm=hls
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g2g0uTQNsekvn8GQ3DqLYoPtcsUzNz1eO3lB4hItUB-8vyfaE6-x0KxzptKnI03LJg" group-title="Religión", Monte Maria
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://diocesisdecelaya.files.wordpress.com/2018/12/bb8a1-logo_pax_tv255B1255D.jpg" group-title="Religión", Pax Television
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
+
+
+
+LOCALES
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="LOCALES",TV HISPANIC Canal 72
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="LOCALES",RTVD Canal 4 
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w728471709_b863840.m3u8
@@ -54,13 +82,13 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal18tvrd.com/static/media/logo192.739e8877.png" group-title="LOCALES",Sima Vision Canal 18
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/cinevision-canal-19-do.png" group-title="LOCALES",Cinevisión Canal 19  
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a-/AD_cMMTR4KlhKu1aScaEbmrWH7aQPEl0O7grp6E2-Npd=w60-h60-p-rp-mo-br100" group-title="LOCALES",Dimelo TV
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image86765552592.jpg" group-title="LOCALES",Antena Canal 21  
 https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8
@@ -72,13 +100,13 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w719910685.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="LOCALES" group-title="LOCALES",Alegre TV
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="LOCALES",Telemedio Canal 25 
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w366368988.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="LOCALES",RNN Canal 27 
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://lavozdeltropico.online/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-1.png" group-title="LOCALES",La Voz del Tropico
 https://ss2.domint.net:3226/vttv_str/tropicotv/chunklist_w1832586441.m3u8
@@ -93,7 +121,7 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/chunklist_w1469329619.m3u8
 
 #EXTINF:-1 tvg-logo="https://mf.b37mrtl.ru/actualidad/public_images/2022.06/article/629770b659bf5b3feb7017f7.jpg" group-title="LOCALES",TRA2
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/3d1a16d7a34541a3b12a08c6c7bd6d32/chunklist_b4628000.m3u8?p=79&s=1724209308&e=1724209428&h=3389cdbf94478fccf7f575f38a272f0b
 
 #EXTINF:-1 tvg-logo="https://vtvcanal32.com.do/wp-content/uploads/2019/06/VTV-Logo-horizontal.png" ,VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
@@ -119,9 +147,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.morrodigital.com/wp-content/uploads/2022/02/cropped-photo_2022-02-10_09-46-23.jpg" group-title="LOCALES",MorroTV
 https://soportedvb.click:3257/live/morrotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-294x165-FFFFFF.jpg" group-title="LOCALES",Cibaena TV Canal 41
-https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="LOCALES",TVO Canal 42
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
 
@@ -135,7 +160,7 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w586425801.m3u8
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w774856337.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvdom.unremedio.com/images/23483_live.png" group-title="LOCALES",Somos Topo Point TV
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tni51online.com/images/tni_logo_web.jpg" group-title="LOCALES",TNI Canal 51
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w512647117.m3u8
@@ -144,10 +169,37 @@ https://ss5.domint.net:3188/tni_str/tni51/chunklist_w512647117.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1071742067.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/luna-tv-do.jpeg" group-title="LOCALES",LunaTV Canal 53 
-https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ready-tv.png" group-title="LOCALES",Ready TV Canal 54
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1403063659.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/TV-Montana-Canal-10.jpg" group-title="LOCALES",FV3 TV Canal 55
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6905d1d23b7032346b727e04f91e52985cd1dfdd4d4b26aaee89e0305c25d64c.png" group-title="LOCALES",HAY TV Canal 57 
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="LOCALES",Agenda 56 Canal 58
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2217-294x165-FFFFFF.jpg" group-title="LOCALES",LA MIA TV Canal 59
+https://ss5.domint.net:3184/mia_str/lamiatv/chunklist_w1631887095.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2866-294x165-FFFFFF.jpg" group-title="LOCALES",Claro TV Dominicana Canal 60
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/fuego-tv.png" group-title="LOCALES",Fuego TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w462423881.m3u8
+
+#EXTINF:-1 tvg-logo="http://sensaciontvdigital.com/images/sensacion_tv_logo_2017_sm.png" group-title="LOCALES",Sensación TV Canal 76
+https://ss5.domint.net:3002/stv_str/sensaciontv/chunklist_w564759008.m3u8
+
+#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="LOCALES",ZTV Canal 85
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="LOCALES",SEO TV  Canal 86
+https://seo.tv.bo/tv/SEO-TV-1.m3u8
