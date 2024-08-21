@@ -99,6 +99,9 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/telefuturo_canal23.png" group-title="LOCALES",Telefuturo Canal 23 
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w719910685.m3u8
 
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="LOCALES",Entelevision
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="LOCALES" group-title="LOCALES",Alegre TV
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 
@@ -203,3 +206,21 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="LOCALES",SEO TV  Canal 86
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="LOCALES",Red Social Codi
+https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="LOCALES",BellaVision
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-294x165-FFFFFF.jpg" group-title="LOCALES",Cromtv
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+
+INTERNACIONALES:
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-294x165-FFFFFF.jpg" group-title="LOCALES",ecuavisas
+
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?dpssid=b285344692766c5712692f61&sid=ba5t1l1xb2168828752566c5718fd4caf&ndvc=0https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?dpssid=b285344692766c5712692f61&ndvc=0&sid=ba5t1l1xb2163971441766c57308dde4a
