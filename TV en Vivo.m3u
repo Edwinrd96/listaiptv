@@ -57,7 +57,7 @@ https://rdn.essastream.com:3170/live/telenord8live.m3u8
 https://fl1002.bozztv.com/ssh101/0009/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="LOCALES",VegaTV
-https://kali.vdopanel.com:3396/live/arseniolive.m3u8
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
 
 #EXTINF:-1 tvg-id="TeleAntillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/logoTeleantillas-1-1.png" group-title="Variado",TeleAntillas
 https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
