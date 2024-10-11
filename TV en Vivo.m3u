@@ -47,11 +47,20 @@ https://5790d294af2dc.streamlock.net/sol65/sol65/chunklist_w1415558301.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="LOCALES",Antena Canal 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
 
+#EXTINF:-1 tvg-id="constanzatv" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="Variado",constanzatv
+https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w1963580257.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/bb/Telenordcom_Logo_Oficial-04-bb000634.webp" group-title="LOCALES",Telenord canal 8
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 
+#EXTINF:-1 tvg-id="colorvision" tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Variado",colorvision
+https://fl1002.bozztv.com/ssh101/0009/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="LOCALES",VegaTV
 https://kali.vdopanel.com:3396/live/arseniolive.m3u8
+
+#EXTINF:-1 tvg-id="TeleAntillas" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/logoTeleantillas-1-1.png" group-title="Variado",TeleAntillas
+https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/bb/Telenordcom_Logo_Oficial-04-bb000634.webp" group-title="LOCALES",Telenord canal 10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
@@ -68,6 +77,15 @@ https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-294x165-FFFFFF.jpg" group-title="LOCALES",Telecanal Canal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
+#EXTINF:-1 tvg-id="Telesistema" tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="Variado", Telesistema
+https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="afortunadastv" tvg-logo="https://www.afortunadastv.com/wp-content/uploads/2022/03/AFOTUNADASTVLOGO-svg.svg" group-title="Variado",Afortunadastv
+https://cloudvideo.servers10.com:8081/8108/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecentro" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhK1Jod6HjU1XHPEc9uudbjgnaD75uzugMY3N_DtlGQEP7W1UqfK77it-avEIamk29KA9_Be1-WUDPBzxwo7R9d7qskTL352GuYQKJAzA0rhsgWczUVD6CACiwIeCgZ0LwfuW7GnYUikNHVqQEQws4gLto0o1CFGo5hahSjqouS_hD1HoXrqfKcxlyrPw=w49-h49" group-title="Variado",Telecentro
+https://fl1002.bozztv.com/ssh101/0013/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/telecanal-16.jpg" group-title="LOCALES",Telecanal Canal 12
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 
@@ -80,8 +98,14 @@ https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="LOCALES",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Digital 15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBpt336mJBl19PVZNMFeSz6Gd6qvAnUhPMTKGHVLwuv_LuiaVbsZRPuuhkR1RU8C4tcCzxFDoUcvFka38ZBfwuIkRqo_RQDZu15BkKGqDFwp8xuk-ukgScgvd-iBCKiYlyY3x30hgmsez0fvw0hwm3RO4nRWBSk0vyv6W5LdaBa1spYTDLAp3ivrVr1It9/w93-h56/digital15.png" group-title="Variado",Digital 15
+https://fl1002.bozztv.com/ssh101/0015/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="LOCALES",Noticias16 Canal 16
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+
+#EXTINF:-1 tvg-id="XTRATV" tvg-logo="https://i.imgur.com/csZfzwx.jpg" group-title="Variado",XTRATV
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="LOCALES",Mega Cine TV Canal 17
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -89,11 +113,17 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canal18tvrd.com/static/media/logo192.739e8877.png" group-title="LOCALES",TV 18
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
+#EXTINF:-1 tvg-id="GuaymateTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="Variado",Guaymate TV
+https://glb.bozztv.com/glb/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://canal18tvrd.com/static/media/logo192.739e8877.png" group-title="LOCALES",Sima Vision Canal 18
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/cinevision-canal-19-do.png" group-title="LOCALES",Cinevisión Canal 19  
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+
+#EXTINF:-1 tvg-id="ahoratv" tvg-logo="https://storage.googleapis.com/proceso-storage/atv/Menu/Rectangle%209.png" group-title="Variado",ahoratv
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a-/AD_cMMTR4KlhKu1aScaEbmrWH7aQPEl0O7grp6E2-Npd=w60-h60-p-rp-mo-br100" group-title="LOCALES",Dimelo TV
 https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
@@ -106,6 +136,10 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="Zol106.do" tvg-logo="https://i.imgur.com/xz4LQoD.png" group-title="LOCALES",Zol106 Canal 22
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="sanisidrotvlive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG_4LtXkLLe2e6BrOn_Pe4TzOuOhPyLmIhg&s" group-title="Variado",San Isidro TV
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/telefuturo_canal23.png" group-title="LOCALES",Telefuturo Canal 23 
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w719910685.m3u8
@@ -132,6 +166,26 @@ https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://lavozdeltropico.online/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-1.png" group-title="LOCALES",La Voz del Tropico
 https://ss2.domint.net:3226/vttv_str/tropicotv/chunklist_w1832586441.m3u8
+
+#EXTINF:-1 tvg-id="cibaena-tv-rd" tvg-logo="https://canalesdominicanos.live/template/images/radios/cibaena-tv-rd.jpg" group-title="Variado",CibaeñaTV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="colimdotvlive" tvg-logo="https://colimdotv.com/logo.fw.png" group-title="Variado",Colimdotv
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+
+#EXTINF:-1 tvg-id="cotubanamadigital" tvg-logo="https://cotubanamadigital.com/wp-content/uploads/2024/06/cotubanamatv.png.webp" group-title="Variado",CotubanamaTV
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="citricotvlive" tvg-logo="https://citricotv.com/wp-content/uploads/2023/11/cover-e1700190164822-300x246.png" group-title="Variado",CitricoTV
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+
+#EXTINF:-1 tvg-id="dantvlive" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipPY5Tm57fdw-vnKVt_tbV5AUQFeH2qpb2pNb8zt=w600-h321-p-k-no" group-title="Variado",Ts Telesiglo
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+
+#EXTINF:-1 tvg-id="ecovision" tvg-logo="https://video.americacableusa.com/upload/canales/ecovision.jpg" group-title="Variado",Ecovision
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/Telecanal-28.png" group-title="LOCALES",TeleCanal Canal 28
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
@@ -201,6 +255,39 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/TV-Montana-Canal-10.jpg" group-title="LOCALES",FV3 TV Canal 55
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8
+
+#EXTINF:-1 tvg-id="puertotv" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="Variado",EL PUERTO TV
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/chunklist_w386961114.m3u8
+
+#EXTINF:-1 tvg-id="fratatvlive" tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg" group-title="Variado",FRATA TV
+https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+
+#EXTINF:-1 tvg-id="telecontacto" tvg-logo="https://telecontacto.tv/TELE.png" group-title="Variado",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+
+#EXTINF:-1 tvg-id="galaxia-teve-canal-42" tvg-logo="https://canalesdominicanos.live/template/images/radios/galaxia-teve-canal-42.jpg" group-title="Variado",GalaxiaTV
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+
+#EXTINF:-1 tvg-id="gitelevision" tvg-logo="https://pbs.twimg.com/profile_images/1166758516037705728/CH6P91Fv_400x400.png" group-title="Variado",Gi Television
+https://ssh101.bozztv.com/ssh101/rctvhd103/chunks.m3u8
+
+#EXTINF:-1 tvg-id="channels Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8xqCHIJSzNI70EsuhtQoEt09ZtINf4z1wQ&s" group-title="Variado",Channels Global TV
+https://ss3.domint.net:3136/gtv_str/globalhd/chunklist_w148260659.m3u8
+
+#EXTINF:-1 tvg-id="kidstvlive" tvg-logo="https://nexxotv.com/wp-content/uploads/2023/12/KidsTV-1024x576.png" group-title="Variado",KIDS TV
+https://cdn3.streamgato.us:3966/live/kidstvlive.m3u8
+
+#EXTINF:-1 tvg-id="nexxotv" tvg-logo="https://nexxotv.com/wp-content/uploads/2023/12/cropped-LOGO-NEXXO-Blanco-1-1536x361.png" group-title="Variado",NEXXO TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
+#EXTINF:-1 tvg-id="TVMAX" tvg-logo="https://nexxotv.com/wp-content/uploads/2023/12/TXmax-1024x576.png" group-title="Variado",TVMAX
+https://cdn3.streamgato.us:3927/live/tvmaxlive.m3u8
+
+#EXTINF:-1 tvg-id="rdn" tvg-logo="https://rdn.com.do/wp-content/uploads/2023/11/logo2.png" group-title="Variado", RDN
+https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
+
+#EXTINF:-1 tvg-id="sensaciontvdigital" tvg-logo="http://sensaciontvdigital.com/images/sensacion_tv_logo_2017_sm.png" group-title="Variado",sensaciontvdigital
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6905d1d23b7032346b727e04f91e52985cd1dfdd4d4b26aaee89e0305c25d64c.png" group-title="LOCALES",HAY TV Canal 57 
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522.m3u8
