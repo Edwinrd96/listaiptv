@@ -39,6 +39,9 @@ https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2160/amlst:mainstre
 #EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="LOCALES",RTVD Canal 4 
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w728471709_b863840.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png" group-title="Local", Canal 4 CR
+https://d2n1dt6uwqq83r.cloudfront.net/live2/alba-cr-repretel-c11_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="LOCALES",Teleunion Canal 6
 https://server2grupocam.com/teleunion/TU/chunklist_w21121677.m3u8
 
