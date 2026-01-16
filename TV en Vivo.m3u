@@ -1,40 +1,93 @@
-#EXTM3U
+#EXTM3U user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" 
 
-RELIGIOSOS
+
+# --- CATEGORÍA: RELIGIOSOS ---
 
 #EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Religión", La Voz de María Canal 1 
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
-#EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religión",EWTN
-https://i.imgur.com/KvpMbkd.png
+#EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religión",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="Religión", RTVD Diocesana 
+#EXTINF:-1tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="Religión", RTVD Diocesana 
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/3/6/6/366-large_default.jpg" group-title="Religión", Maria Visión
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="Religión", Maria Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_11/large.TVFamilia2019.png.acbfcf628825a16d10838da6c5b5cc6f.png" group-title="Religión", TV Familia
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TV_Familia#/media/Archivo:Tvfamilia_logo.png" group-title="Religión", TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w1728626184.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TVCA_El_Salvador_2015.png/revision/latest?cb=20210621025948&path-prefix=es" group-title="Religión", TVCA
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8?fm=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="Religión", TVCA
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g2g0uTQNsekvn8GQ3DqLYoPtcsUzNz1eO3lB4hItUB-8vyfaE6-x0KxzptKnI03LJg" group-title="Religión", Monte Maria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religión", Monte Maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/televida.org.do/wp-content/uploads/2022/08/Recurso-1.png?fit=106%2C39&ssl=1" group-title="Religión", TeleVida
-https://stream.castr.com/65e9d7ae6864f59066d2a903/live_f0510d60e60611eeb1ab273ab8f330f3/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Religión", TeleVida
+https://fox.hostlagarto.com:8081/televida/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://ott.instantvideocloud.net/admin/storage/logos/uRdFeH9WoLB7noD2NxV4YYl9hbSANXJkKA9hgMBx.png" group-title="Religión", TeleVid
-https://liveingesta118.cdnmedia.tv/televidtvlive/test-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religión", TeleVid
+https://liveingesta318.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.moviefetv.com/logo%20moviefe.png" group-title="Religión", moviefetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Religión", moviefetv
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w641126850.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="Religión", RTVD
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="Religión",orbe21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962565220_b2211840.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="Religión",CristoVision
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w665690386_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="Religión",CristoVision RD
+https://live20.bozztv.com/akamaissh101/ssh101/codificador21/chunks.m3u8
+
+
+
+
+
+# --- CATEGORÍA: DOMINICANA ---
+
+#EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",Televiaducto - Canal 3 
+https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/atv/Ahora%20TV%20-%20Logo%20Original.png" group-title="Dominicana",Ahora TV Canal 3
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="Dominicana",Delta TV Canal 3
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-1.webp" group-title="Dominicana",RTVD Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151012015_b4628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="Dominicana",ContanzaTV Canal 8
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Dominicana",Dijital 15
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="Dominicana",NuevaVision Canal 14
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://rtvdclic.com/wp-content/uploads/2024/08/Recurso-6@2x-8.png" group-title="Dominicana",RTVD 17
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w881719082_b2416640.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWvVLhc.png group-title="Dominicana",AltantoTV
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",TNE - Canal 58
+https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="Dominicana",Alcarrizotv
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/LOGO-TV-MONTANA-2023-2-e1729441772688.png?resize=1536%2C1142&ssl=1" group-title="Dominicana",TV Montaña Contanza
+https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/chunks.m3u8
+
 
 LOCALES
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/571723b316068db62c1677f4560baddc.webp" group-title="LOCALES",Boing España 
@@ -400,6 +453,7 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w829808512.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Anime",Teleclasica
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
 
 
 
