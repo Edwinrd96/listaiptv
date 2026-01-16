@@ -7,7 +7,7 @@ tvg-id="lavozdemariatv.org" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-tit
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
 #EXTINF:-1 
-tvg-id="ewtn.com" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religión",EWTN
+tvg-id="ewtn.com" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religión",EWTN
 https://i.imgur.com/KvpMbkd.png
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 
@@ -403,4 +403,5 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w829808512.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Anime",Teleclasica
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
 
