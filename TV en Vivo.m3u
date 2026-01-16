@@ -2,13 +2,17 @@
 
 RELIGIOSOS
 
-#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Religión", La Voz de María Canal 1 
+#EXTINF:-1 
+tvg-id="lavozdemariatv.org" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Religión", La Voz de María Canal 1 
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewtn.es/wp-content/uploads/2023/01/ewtn.png" group-title="Religión", EWTN España
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/480/chunklist.m3u8
+#EXTINF:-1 
+tvg-id="ewtn.com" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="Religión",EWTN
+https://i.imgur.com/KvpMbkd.png
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="Religión", RTVD Diocesana 
+#EXTINF:-1 
+tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="Religión", RTVD Diocesana 
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://platcon.tv/img/p/3/6/6/366-large_default.jpg" group-title="Religión", Maria Visión
@@ -399,3 +403,4 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w829808512.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Anime",Teleclasica
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
