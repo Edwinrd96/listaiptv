@@ -27,11 +27,12 @@ https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Religión", TeleVida
 https://fox.hostlagarto.com:8081/televida/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religión", TeleVid
-https://liveingesta318.cdnmedia.tv/televidtvlive/rtmp01-1500/chunklist.m3u8
+#EXTINF:-1,Tele VID HD (Sesión Real)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Religión", moviefetv
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w641126850.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="Religión",orbe21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962565220_b2211840.m3u8
@@ -40,7 +41,8 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962565220_b22
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w665690386_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="Religión",CristoVision RD
-https://live20.bozztv.com/akamaissh101/ssh101/codificador21/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://constanzadigital.com
+https://live20.bozztv.com/akamaissh101/ssh101/codificador21/playlist.m3u8
 
 
 
@@ -48,8 +50,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/codificador21/chunks.m3u8
 
 # --- CATEGORÍA: DOMINICANA ---
 
-#EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",Televiaducto - Canal 3 
-https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",Televiaducto Canal 3 
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/atv/Ahora%20TV%20-%20Logo%20Original.png" group-title="Dominicana",Ahora TV Canal 3
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
@@ -57,17 +60,40 @@ https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="Dominicana",Delta TV Canal 3
 https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://rdomint.com/images/station/1075.jpg" group-title="Dominicana",TV Plata Canal 3
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-1.webp" group-title="Dominicana",RTVD Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151012015_b4628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_3.png" group-title="Dominicana",Telemicro canal 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="Dominicana",ContanzaTV Canal 8
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Dominicana",Dijital 15
-http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleantillas.com.do/wp-content/uploads/2025/03/LOGO-TELEANTILLAS-2-1.png" group-title="Dominicana",Tele Antillas Canal 10
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(RcWbft2bRCviaAboCK3yqtLu4ELTWBAQkfhD44w_iKXTd-UIzQG4KUva_nZGN1yYfQW8CFWTn0Pi1mr3VPgQrZ5nWZP9sZbzvsIVFegt6YZBoa1F6n1b66URUEayOSYy)/cloud/3/x8mwmvs/s/live-240.m3u8
+
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_2.png" group-title="Dominicana",Telecentro Canal 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/
+https://live4.telemicro.com.do/live/55/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",Real TV Canal 14
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="Dominicana",NuevaVision Canal 14
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Dominicana",Dijital 15
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+
 
 
 
@@ -78,8 +104,14 @@ https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w881719082_b2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWvVLhc.png group-title="Dominicana",AltantoTV
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",MOCAVISION - Canal 48
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="Dominicana",TNE - Canal 58
-https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/tracks-v1/index.fmp4.m3u8
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="Dominicana",Alcarrizotv
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
@@ -87,6 +119,7 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/LOGO-TV-MONTANA-2023-2-e1729441772688.png?resize=1536%2C1142&ssl=1" group-title="Dominicana",TV Montaña Contanza
 https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/chunks.m3u8
+
 
 
 LOCALES
@@ -453,6 +486,7 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w829808512.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Anime",Teleclasica
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
 
 
 
