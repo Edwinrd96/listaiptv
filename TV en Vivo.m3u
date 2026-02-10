@@ -66,10 +66,16 @@ https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-1.webp" group-title="Dominicana",RTVD Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151012015_b4628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_3.png" group-title="Dominicana",Telemicro canal 5
+#EXTINF:-1 tvg-logo="https://telemedios.com.do/cropped-Logo-Telemedios-8.png" group-title="Dominicana",Telemicro canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 https://live4.telemicro.com.do/live/55/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_3.png" group-title="Dominicana",Telemedios canal 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
+https://live.eu-north-1b.cf.dmcdn.net/sec2(hEeUgb0L8AyI-GAUFE1ucAlZTHI7_Dl57Y7UN_0eCExXdGve_FvAVjvHC6nhN-2-czThH6pYP_J3X0AL6YkSmY8D6nGUm3pQzW01m1DB6biM_zbA9hvT9Q3x9GzeZqPw)/dm/3/x9hvyy0/d/live-480.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="Dominicana",ContanzaTV Canal 8
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
@@ -486,6 +492,7 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w829808512.m3u8
 
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Anime",Teleclasica
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
 
 
 
