@@ -9,6 +9,57 @@
 
 
 # ========================
+# ✝️ RELIGIÓN
+# ========================
+
+#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-name="La Voz de María" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="✝️ Religión",La Voz de María
+#EXTVLCOPT:http-reconnect=true
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+
+#EXTINF:-1 tvg-id="ewtn.com" tvg-name="EWTN" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="✝️ Religión",EWTN
+#EXTVLCOPT:http-reconnect=true
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
+#EXTVLCOPT:http-reconnect=true
+https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+
+#EXTINF:-1 tvg-id="mariavision" tvg-name="María Visión" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="✝️ Religión",María Visión
+#EXTVLCOPT:http-reconnect=true
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF:-1 tvg-id="tvca.sv" tvg-name="TVCA El Salvador" tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="✝️ Religión",TVCA El Salvador
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+
+#EXTINF:-1 tvg-id="montemaria" tvg-name="Monte María" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="✝️ Religión",Monte María
+#EXTVLCOPT:http-reconnect=true
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="televida" tvg-name="TeleVida" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida
+#EXTVLCOPT:http-reconnect=true
+https://fox.hostlagarto.com:8081/televida/tracks-v1a1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="televidhd" tvg-name="Tele VID HD" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",Tele VID HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-reconnect=true
+https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="orbe21" tvg-name="Orbe 21" tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="✝️ Religión",Orbe 21
+#EXTVLCOPT:http-reconnect=true
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962565220_b2211840.m3u8
+#EXTINF:-1 tvg-id="cristovision" tvg-name="Cristo Visión" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="✝️ Religión",Cristo Visión
+#EXTVLCOPT:http-reconnect=true
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w665690386_DVR.m3u8
+
+#EXTINF:-1 tvg-id="cristovisionrd" tvg-name="Cristo Visión RD" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="✝️ Religión",Cristo Visión RD
+#EXTVLCOPT:http-referrer=https://constanzadigital.com
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/akamaissh101/ssh101/codificador21/playlist.m3u8
+
+
+# ========================
 # 🇩🇴 DOMINICANA
 # ========================
 
@@ -455,55 +506,6 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w1417025251
 #EXTVLCOPT:http-reconnect=true
 https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeespanoles16us-canelatvinternational/cb563f16657a66909fcf2167d5f062c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d14728498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d66bfb294757b90b395362dbe851b02003c683178a7e7cddb08c353b2b4758ce0f0ee1f20af7aeb75444ba3c9b9924996ee277cdb027aac621dede8d1fcb179615b545d9c7b3a9fb2ab0f8e04334837f5673350c728b9471d3e850b3c8936a38e61162264c138e2bf48fcdf97de303dcdadfb227567cd6359d1d212a589a0d9d5d8d338b248901aee24fa7a2812f232b0989cb41682bace4efdfb56573f551f2acedd2646fd9d8203816992388796b0f99f39d40df830dc0e278c5a67f476993c70bcbd4f2a4eab38645d3779a96a4c86c121f23220b9458a4957594788e2ee69e6154362773a49451cb91ca1e61323de1ae6a94424bf78bf1c6b56916c57a1256e461a32a2365de316a73fd6db4da0b6587220592267f9c7c309349e8b73cffc48ab754dbd43e35862109bb3807256c7c24141cfb1d43d3516a30/122/854x480_1707200/index.m3u8
 
-# ========================
-# ✝️ RELIGIÓN
-# ========================
-
-#EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-name="La Voz de María" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="✝️ Religión",La Voz de María
-#EXTVLCOPT:http-reconnect=true
-https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-
-#EXTINF:-1 tvg-id="ewtn.com" tvg-name="EWTN" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="✝️ Religión",EWTN
-#EXTVLCOPT:http-reconnect=true
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
-#EXTVLCOPT:http-reconnect=true
-https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-
-#EXTINF:-1 tvg-id="mariavision" tvg-name="María Visión" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="✝️ Religión",María Visión
-#EXTVLCOPT:http-reconnect=true
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
-
-#EXTINF:-1 tvg-id="tvca.sv" tvg-name="TVCA El Salvador" tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="✝️ Religión",TVCA El Salvador
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-
-#EXTINF:-1 tvg-id="montemaria" tvg-name="Monte María" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="✝️ Religión",Monte María
-#EXTVLCOPT:http-reconnect=true
-https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-
-#EXTINF:-1 tvg-id="televida" tvg-name="TeleVida" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida
-#EXTVLCOPT:http-reconnect=true
-https://fox.hostlagarto.com:8081/televida/tracks-v1a1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="televidhd" tvg-name="Tele VID HD" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",Tele VID HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-#EXTVLCOPT:http-reconnect=true
-https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="orbe21" tvg-name="Orbe 21" tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="✝️ Religión",Orbe 21
-#EXTVLCOPT:http-reconnect=true
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962565220_b2211840.m3u8
-#EXTINF:-1 tvg-id="cristovision" tvg-name="Cristo Visión" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="✝️ Religión",Cristo Visión
-#EXTVLCOPT:http-reconnect=true
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w665690386_DVR.m3u8
-
-#EXTINF:-1 tvg-id="cristovisionrd" tvg-name="Cristo Visión RD" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="✝️ Religión",Cristo Visión RD
-#EXTVLCOPT:http-referrer=https://constanzadigital.com
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/akamaissh101/ssh101/codificador21/playlist.m3u8
 
 
 # ========================
