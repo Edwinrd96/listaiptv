@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_DO.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-name="La Voz de María" tvg-logo="https://lavozdemaria.org/wp-content/uploads/2024/10/Logo.png" group-title="✝️ Religión",La Voz de María
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -100,7 +100,7 @@ https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTVLCOPT:http-reconnect=true
-https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=hhk9tZl6mCJEb-nFLF7G21BF0YBDCRrVj3ybRnPZSASX6x0v8YN02ywprohem_9LGedT1k_bMXFPOQneQJwCZA&dmTs=742282&dmV1st=8B2252A5A3FEB19FBF311067EC815EE9
+https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=eXR1JCrgwBLU1z9vz5eNVPDPQmQNz1uBFJWt0GIp4ygBZ8WrO6VvTWSP-x2DvMRW1TREJnX4QKK-cA-6I7A9KA&dmTs=455383&dmV1st=342D7DDE0BCC47945B7E1C53073F277F
 
 #EXTINF:-1 tvg-id="microvision10.do" tvg-name="Microvisión Canal 10" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/987-294x165-FFFFFF.jpg" group-title="🇩🇴 Dominicana",Microvisión Canal 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
