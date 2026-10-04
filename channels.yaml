@@ -15,7 +15,7 @@ settings:
   # URL pública de TU epg.xml.gz (cuando subas el repo). Vacío = usa las fuentes directas.
   # URL de tu Cloudflare Worker (opcional pero MUY recomendado): hace estables los enlaces de Dailymotion
   worker_url: ""
-  epg_public_url: ""
+  epg_public_url: "https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
   epg_sources:
     - https://epg.pw/xmltv/epg_DO.xml
     - https://www.epgshare01.online/epg/epgshare01.xml.gz
