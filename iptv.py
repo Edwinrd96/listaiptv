@@ -161,12 +161,20 @@ def notify(msg):
             pass
 
 # ---------------------------------------------------------------- check
+def dead_after(s):
+    return s.get("dead_after", 12)          # 12 revisiones seguidas con 404 (~24 h) antes de retirar un canal
+
+def is_dead(why):
+    return bool(re.search(r"HTTP (404|410)\b", why or ""))
+
 def cmd_check(args):
     s, chs = load()
     st = load_state()
     now = dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).isoformat(timespec="seconds")
 
     def work(ch):
+        if ch.get("check") is False:                # canal que no se valida (geobloqueado, etc.)
+            return ch, None, None, "omitido"
         h = headers_for(ch, s)
         why = "sin candidatos"
         cands = candidates(ch)
@@ -193,25 +201,35 @@ def cmd_check(args):
     with ThreadPoolExecutor(s.get("workers", 16)) as ex:
         results = list(ex.map(work, chs))
 
-    newly_down, alive = [], 0
+    limit = dead_after(s)
+    newly_down, alive, unreach, skipped = [], 0, 0, 0
     for ch, url, ok, why in results:
         e = st.setdefault(ch["id"], {"fails": 0})
-        was_down = e["fails"] >= s["max_fails"]
+        if ok is None:                              # omitido (check: false)
+            skipped += 1
+            e.update(status="skipped", fails=0)
+            continue
+        was_down = e["fails"] >= limit
         if ok:
             alive += 1
             if url != ch["url"]:
                 print(f"  ↻ {ch['name']}: URL reparada -> {url}")
-            e.update(fails=0, url=url, last_ok=now, why="ok", volatile=volatility(url))
-        else:
+            e.update(fails=0, unreach=0, status="ok", url=url, last_ok=now, why="ok", volatile=volatility(url))
+        elif is_dead(why):                          # 404/410: el servidor responde y dice que no existe
             e["fails"] += 1
-            e["why"] = why
-            print(f"  ✗ {ch['name']}: {why} (fallo {e['fails']}/{s['max_fails']})")
-            if e["fails"] == s["max_fails"] and not was_down:
+            e.update(status="dead", why=why)
+            print(f"  ✗ {ch['name']}: {why} (fallo {e['fails']}/{limit})")
+            if e["fails"] == limit and not was_down:
                 newly_down.append(ch["name"])
+        else:                                       # sin conexión / 403 / timeout: lo normal en streams solo-RD vistos desde EE.UU.
+            unreach += 1
+            e.update(fails=0, unreach=e.get("unreach", 0) + 1, status="unreachable", why=why)
+            print(f"  🌎 {ch['name']}: {why} (no verificable desde GitHub; se mantiene en la lista)")
     save_state(st)
-    print(f"\n{alive}/{len(chs)} canales activos")
+    print(f"\n{alive} activos · {unreach} no verificables desde GitHub (se conservan) · "
+          f"{len(chs) - alive - unreach - skipped} fallando (404) · {skipped} omitidos · total {len(chs)}")
     if newly_down:
-        notify("📺 Canales caídos: " + ", ".join(newly_down))
+        notify("📺 Canales caídos (404 sostenido): " + ", ".join(newly_down))
 
 # ---------------------------------------------------------------- build
 def esc(v):
@@ -243,6 +261,17 @@ def render(chs, s, st, vlc):
         out.append("")
     return "\n".join(out)
 
+def icon(c, e, is_down):
+    if c.get("check") is False or e.get("status") == "skipped":
+        return "⚪ sin verificar"
+    if is_down:
+        return "🔴 caído (404 sostenido)"
+    if e.get("status") == "unreachable":
+        return "🌎 no verificable desde GitHub"
+    if e.get("status") == "dead":
+        return f"🟠 404 ({e.get('fails', 0)}/{12})"
+    return "🟢 activo" if e.get("last_ok") else "⚪ sin probar"
+
 def cmd_build(args):
     s, chs = load()
     st = load_state()
@@ -259,7 +288,7 @@ def cmd_build(args):
     order = s.get("group_order", [])
     key = lambda c: order.index(c["group"]) if c["group"] in order else len(order)
     chs = sorted(chs, key=key)
-    down = lambda c: st.get(c["id"], {}).get("fails", 0) >= s["max_fails"]
+    down = lambda c: st.get(c["id"], {}).get("fails", 0) >= dead_after(s)
     live, dead = [c for c in chs if not down(c)], [c for c in chs if down(c)]
     DIST.mkdir(exist_ok=True)
     (DIST / "iptv.m3u").write_text(render(live, s, st, vlc=False), encoding="utf-8")
@@ -271,7 +300,7 @@ def cmd_build(args):
         e = st.get(c["id"], {})
         vol = volatility(e.get("url") or c["url"])
         kind = ("🔁 auto-renovado" if (dm_id(c) or c.get("resolve")) else "⏳ volátil: " + "; ".join(vol)) if vol or dm_id(c) or c.get("resolve") else "✅ estable"
-        rows.append(f"| {c['name']} | {c['group']} | {'🔴 caído' if down(c) else ('🟢' if e.get('last_ok') else '⚪ sin probar')} | {kind} | {e.get('last_ok','-')} |")
+        rows.append(f"| {c['name']} | {c['group']} | {icon(c, e, down(c))} | {kind} | {e.get('last_ok','-')} |")
     (DIST / "ESTADO.md").write_text("\n".join(rows), encoding="utf-8")
     print(f"✔ {len(live)} activos, {len(dead)} caídos -> {DIST}/")
 
