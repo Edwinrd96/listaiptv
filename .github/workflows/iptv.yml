@@ -1,29 +1,36 @@
-name: IPTV auto-mantenimiento
+
+name: IPTV Enterprise 
+# Cada 3 horas (y cuando editas channels.yaml o agregar.txt): procesa agregar.txt, verifica canales,
+# repara URLs caídas desde tus listas externas, genera la lista M3U y la guía EPG.
 on:
   schedule:
-    - cron: "17 */2 * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
   push:
-    paths: ["channels.yaml"]
+    paths: ["channels.yaml", "agregar.txt"]
 permissions:
   contents: write
+concurrency:
+  group: iptv
+  cancel-in-progress: false
 jobs:
-  update:
+  run:
     runs-on: ubuntu-24.04
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
-      - name: Validar canales
-        run: python iptv.py check
+      - name: Agregar, verificar, reparar, generar lista y EPG
+        run: python iptv.py run
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      - run: python iptv.py build
-      - run: python iptv.py epg
-      - name: Publicar
+      - name: Publicar cambios
         run: |
           git config user.name "iptv-bot"; git config user.email "bot@users.noreply.github.com"
-          git add dist state.json channels.yaml
-          git diff --cached --quiet || (git commit -m "auto: lista actualizada" && git push)
+          git add channels.yaml agregar.txt state.json dist
+          git diff --cached --quiet && exit 0
+          git commit -m "auto: lista, reparaciones y EPG"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
