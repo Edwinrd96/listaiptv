@@ -1,0 +1,275 @@
+{
+ "lavozdemariatv.org": {
+  "fails": 0,
+  "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "televida": {
+  "fails": 0,
+  "url": "https://cdnfox.hostlagarto.com/televida/index.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "cristovisionrd": {
+  "fails": 0,
+  "url": "https://live20.bozztv.com/akamaissh101/ssh101/codificador21/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "ewtn.com": {
+  "fails": 0,
+  "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "rtvd.org": {
+  "fails": 0,
+  "url": "https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "mariavision": {
+  "fails": 0,
+  "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "tvcaelsalvador.org": {
+  "fails": 0,
+  "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "montemaria": {
+  "fails": 0,
+  "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "televidhd": {
+  "fails": 0,
+  "url": "https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "orbe21": {
+  "fails": 0,
+  "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "cristovision": {
+  "fails": 0,
+  "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "ahoratv.do": {
+  "fails": 0,
+  "url": "https://stream.haislin.com/ahoratv/index.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "rtvd4.do": {
+  "fails": 1,
+  "why": "ConnectTimeout"
+ },
+ "telemicro5.do": {
+  "fails": 0,
+  "url": "https://live4.telemicro.com.do/live/55/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "elseis.do": {
+  "fails": 0,
+  "url": "https://stream.elseis.do/canal6/master.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "antena7.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "colorvision.do": {
+  "fails": 0,
+  "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=hhk9tZl6mCJEb-nFLF7G21BF0YBDCRrVj3ybRnPZSASX6x0v8YN02ywprohem_9LGedT1k_bMXFPOQneQJwCZA&dmTs=742282&dmV1st=8B2252A5A3FEB19FBF311067EC815EE9",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "microvision10.do": {
+  "fails": 0,
+  "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "teleantillas.do": {
+  "fails": 1,
+  "why": "HTTP 403"
+ },
+ "telesistema.do": {
+  "fails": 1,
+  "why": "HTTP 403"
+ },
+ "teleuniontvrd.com": {
+  "fails": 0,
+  "url": "https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "telecentro.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "digital15.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "rtvd17.do": {
+  "fails": 1,
+  "why": "ConnectTimeout"
+ },
+ "telever.com.do": {
+  "fails": 0,
+  "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "antena21.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "xtratv.do": {
+  "fails": 1,
+  "why": "ConnectTimeout"
+ },
+ "visiontv.do": {
+  "fails": 0,
+  "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "canaldelsol.com": {
+  "fails": 0,
+  "url": "https://stream.canaldelsol.com/sol26/master.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "rnn27.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "cdn37.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "ctn35.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "vtv32.do": {
+  "fails": 0,
+  "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "telecanalrd.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "teleuniverso.do": {
+  "fails": 1,
+  "why": "ConnectTimeout"
+ },
+ "cinevision19.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "ondatv30.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "telemediocanal25.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "tvo42.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "ame47.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "tni51.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "orbittv52.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "lunatv53.do": {
+  "fails": 0,
+  "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "haytv57.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "lamiatv59.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "ztv85.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "sensaciontv.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ },
+ "televiaducto3.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "deltatv3.do": {
+  "fails": 0,
+  "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
+  "last_ok": "2026-10-04T03:52:42",
+  "why": "ok",
+  "volatile": []
+ },
+ "tvplata3.do": {
+  "fails": 1,
+  "why": "HTTP 404"
+ },
+ "telenord8.do": {
+  "fails": 1,
+  "why": "ConnectionError"
+ }
+}
