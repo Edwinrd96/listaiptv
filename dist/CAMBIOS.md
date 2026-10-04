@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-04 21:22 UTC · 🔧 Digital 15: https://live2.telemicro.com.do/live/digital15/playlist. → https://live2.telemicro.com.do/live/digital15cast_1080p (de https://iptv-org.github.io/iptv/countries/do.m3u)
+- 2026-10-04 21:22 UTC · 🔧 El Seis Canal 6: https://stream.elseis.do/canal6/master.m3u8 → https://stream.elseis.do/canal6/live_1080.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-10-04 17:31 UTC · 🔧 RT en Español: https://rt-esp.rttv.com/live/rtespanol/playlist.m3u8 → https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8 (de https://iptv-org.github.io/iptv/countries/us.m3u)
 - 2026-10-04 17:31 UTC · 🔧 Caracol TV: https://jireh-4-hls-video-us-isp.dps.live/hls-video/53b → http://138.121.15.230:9002/CARACOL/index.m3u8 (de https://iptv-org.github.io/iptv/countries/co.m3u)
 - 2026-10-04 17:31 UTC · 🔧 Imagen Televisión: https://mdstrm.com/live-stream-playlist/5f03e6b8a34af12 → https://igd-it-runtime.otteravision.com/igd/it/it.m3u8 (de https://iptv-org.github.io/iptv/countries/mx.m3u)
