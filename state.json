@@ -2,7 +2,7 @@
  "lavozdemariatv.org": {
   "fails": 0,
   "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -11,7 +11,7 @@
  "televida": {
   "fails": 0,
   "url": "https://cdnfox.hostlagarto.com/televida/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -20,7 +20,7 @@
  "cristovisionrd": {
   "fails": 0,
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/codificador21/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -29,7 +29,7 @@
  "ewtn.com": {
   "fails": 0,
   "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -38,7 +38,7 @@
  "rtvd.org": {
   "fails": 0,
   "url": "https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -47,25 +47,25 @@
  "mariavision": {
   "fails": 0,
   "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok"
  },
  "tvcaelsalvador.org": {
-  "fails": 0,
+  "fails": 1,
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
   "last_ok": "2026-10-04T04:20:45",
-  "why": "ok",
+  "why": "HTTP 404",
   "volatile": [],
   "unreach": 0,
-  "status": "ok"
+  "status": "dead"
  },
  "montemaria": {
   "fails": 0,
   "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -74,7 +74,7 @@
  "televidhd": {
   "fails": 0,
   "url": "https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -83,7 +83,7 @@
  "orbe21": {
   "fails": 0,
   "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -92,7 +92,7 @@
  "cristovision": {
   "fails": 0,
   "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -101,7 +101,7 @@
  "ahoratv.do": {
   "fails": 0,
   "url": "https://stream.haislin.com/ahoratv/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -110,13 +110,13 @@
  "rtvd4.do": {
   "fails": 0,
   "why": "ConnectTimeout",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "telemicro5.do": {
   "fails": 0,
   "url": "https://live4.telemicro.com.do/live/55/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -125,7 +125,7 @@
  "elseis.do": {
   "fails": 0,
   "url": "https://stream.elseis.do/canal6/master.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -134,13 +134,13 @@
  "antena7.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "colorvision.do": {
   "fails": 0,
-  "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=CaqSfbO2LbcLMl88yqi_THhDT-R87TuID93ehTFKoN3pGJbjl6nlYsXk1JxgvBpF4GZqus1jby3EgWiAuc8q2w&dmTs=970075&dmV1st=27D24470955561D3C41A88113442D900",
-  "last_ok": "2026-10-04T04:20:45",
+  "url": "https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=gCHQ90F5cYlgeYSFgkdRm5FCW64qCl2Vjv2OVYBGtMTnlvFpCmJBoZgxWmZJCsD3tEeubWqxfrSBG5ZBhWhicw&dmTs=720404&dmV1st=C95A517F9D591901C22E2DBB7C2AF850",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -149,7 +149,7 @@
  "microvision10.do": {
   "fails": 0,
   "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -158,19 +158,19 @@
  "teleantillas.do": {
   "fails": 0,
   "why": "HTTP 403",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "telesistema.do": {
   "fails": 0,
   "why": "HTTP 403",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "teleuniontvrd.com": {
   "fails": 0,
   "url": "https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -182,7 +182,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live2.telemicro.com.do/live/telecentro/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "volatile": []
  },
  "digital15.do": {
@@ -191,19 +191,19 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live2.telemicro.com.do/live/digital15/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "volatile": []
  },
  "rtvd17.do": {
   "fails": 0,
   "why": "ConnectTimeout",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "telever.com.do": {
   "fails": 0,
   "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -212,19 +212,19 @@
  "antena21.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "xtratv.do": {
   "fails": 0,
   "why": "ConnectTimeout",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "visiontv.do": {
   "fails": 0,
   "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -233,32 +233,32 @@
  "canaldelsol.com": {
   "fails": 0,
   "url": "https://stream.canaldelsol.com/sol26/master.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok"
  },
  "rnn27.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "cdn37.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "ctn35.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "vtv32.do": {
   "fails": 0,
   "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
@@ -267,120 +267,123 @@
  "telecanalrd.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "teleuniverso.do": {
   "fails": 0,
   "why": "ConnectTimeout",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "cinevision19.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "ondatv30.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "telemediocanal25.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "tvo42.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "ame47.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "tni51.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "orbittv52.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "lunatv53.do": {
   "fails": 0,
   "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok"
  },
  "haytv57.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "lamiatv59.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "ztv85.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "sensaciontv.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "televiaducto3.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "deltatv3.do": {
   "fails": 0,
   "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok"
  },
  "tvplata3.do": {
-  "fails": 3,
+  "fails": 4,
   "why": "HTTP 404",
   "status": "dead"
  },
  "telenord8.do": {
   "fails": 0,
   "why": "ConnectionError",
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable"
  },
  "constanzatv8.do": {
   "fails": 0,
-  "unreach": 1,
-  "status": "unreachable",
-  "why": "HTTP 503"
+  "unreach": 0,
+  "status": "ok",
+  "why": "ok",
+  "url": "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8",
+  "last_ok": "2026-10-04T10:34:53",
+  "volatile": []
  },
  "telenord10.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -389,77 +392,77 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "telenord12.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "realTV14.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "nuevavision14.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "noticias16.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "megacinetv17.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "tv18.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "zol106.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "telefuturo23.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "telecanal28.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "hmtv33.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "cocotv34.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "ghtv38.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
@@ -468,7 +471,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -477,13 +480,13 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "gdmtv44.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -492,13 +495,13 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "agenda56.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
@@ -507,12 +510,12 @@
   "unreach": 0,
   "status": "ok",
   "url": "http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "vegatv.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
@@ -521,7 +524,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -530,47 +533,47 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "mocavision.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "tne58.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "acento.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "entelevision.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "bajotechotv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "cromtv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "bellavision.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -579,7 +582,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -588,28 +591,28 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "guaymatetv.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "sanisidrotv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "telecontacto.do": {
-  "fails": 0,
+  "fails": 1,
   "unreach": 0,
-  "status": "ok",
+  "status": "dead",
   "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
   "last_ok": "2026-10-04T04:20:45",
-  "why": "ok",
+  "why": "HTTP 404",
   "volatile": []
  },
  "galaxiatv.do": {
@@ -617,7 +620,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -626,24 +629,24 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "morrotv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "tvmontana.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "rdn.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
@@ -652,7 +655,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -661,7 +664,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://cloudvideo.servers10.com:8081/8108/tracks-v1a1/mono.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -670,7 +673,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -679,13 +682,13 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "citricotv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -694,12 +697,12 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "dimetv.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
@@ -708,52 +711,52 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "fratatv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "redsocialcodi.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "gitelevision.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "nexxotv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "tvmax.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "kidstv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "oromartv.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "segmento HTTP 404"
  },
  "channelsglobaltv.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -762,42 +765,42 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "televisiondeleste.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "vallenuevordo.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "teletropico.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "tstelesiglo.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "seotv86.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 403"
  },
  "fv3tv55.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -806,29 +809,29 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "clarotv60.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
  "fuegoTV.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "telesiglo.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "teletoppoint.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectTimeout"
  },
@@ -837,13 +840,13 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "tastemade.do": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 502"
  },
@@ -852,12 +855,12 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "televida-2": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
@@ -866,7 +869,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -875,7 +878,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -884,7 +887,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -893,13 +896,13 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "boing.es": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 403"
  },
@@ -908,18 +911,18 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "zol106noticias": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 400"
  },
  "oxigenotv": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
@@ -928,7 +931,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -937,25 +940,25 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/720p/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "toonzniños": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "toongoggles": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 400"
  },
  "romancechannel": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -964,13 +967,13 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "teleclasica": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -979,7 +982,7 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
@@ -988,176 +991,176 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "CanalRCN.co": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "Canal1.co": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "NTN24.co": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "ElHeraldoTV.mx": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "ImagenTelevision.mx": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "ForoTV.mx": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "AztecaNoticias.mx": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "VTV.ve": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "CVTV.ve": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "C5N.ar": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "TN.ar": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "TVPublicaAR.ar": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "SSLError"
  },
  "ATV.pe": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "AmericaTV.pe": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "24Horas.cl": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "T13.cl": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "RTVE.es": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "RTVE24h.es": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "TeleSur.ve": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "EstrellaTV.us": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 400"
  },
  "Antena3.us": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "caracoltv.com.co": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "canalrcn.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "senalcolombia.gov.co": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "telesur.net": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 502"
  },
  "lasestrellas.tv": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 400"
  },
  "aztecauno.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 403"
  },
  "azteca7.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 403"
  },
  "oncetv.ipn.mx": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -1166,77 +1169,77 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "telefe.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "tn.com.ar": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "c5n.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "chilevision.cl": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "t13.cl": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "tvn.cl": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "americatv.com.pe": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  },
  "latina.pe": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "vtv.gob.ve": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 403"
  },
  "televen.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "teleamazonas.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "rtve.es": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "segmento HTTP 403"
  },
@@ -1245,25 +1248,25 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://ztnr.rtve.es/ztnr/1688878.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "antena3.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
  "cuatro.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 403"
  },
  "cnn.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "ConnectionError"
  },
@@ -1272,18 +1275,18 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-  "last_ok": "2026-10-04T04:20:45",
+  "last_ok": "2026-10-04T10:34:53",
   "why": "ok",
   "volatile": []
  },
  "france24.com": {
   "fails": 0,
-  "unreach": 1,
+  "unreach": 2,
   "status": "unreachable",
   "why": "HTTP 400"
  },
  "rt.com": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404"
  }

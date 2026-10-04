@@ -118,7 +118,7 @@ https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTVLCOPT:http-reconnect=true
-https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=CaqSfbO2LbcLMl88yqi_THhDT-R87TuID93ehTFKoN3pGJbjl6nlYsXk1JxgvBpF4GZqus1jby3EgWiAuc8q2w&dmTs=970075&dmV1st=27D24470955561D3C41A88113442D900
+https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=gCHQ90F5cYlgeYSFgkdRm5FCW64qCl2Vjv2OVYBGtMTnlvFpCmJBoZgxWmZJCsD3tEeubWqxfrSBG5ZBhWhicw&dmTs=720404&dmV1st=C95A517F9D591901C22E2DBB7C2AF850
 
 #EXTINF:-1 tvg-id="microvision10.do" tvg-name="Microvisión Canal 10" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/987-294x165-FFFFFF.jpg" group-title="🇩🇴 Dominicana",Microvisión Canal 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
