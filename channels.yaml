@@ -1,14 +1,14 @@
 # ============================================================
 #  FUENTE ÚNICA DE VERDAD - Lista IPTV Edwin RD
-#  Edita aquí; nunca el .m3u (se genera solo con: python iptv.py build)
-#  Campos por canal: id, name, group, logo, url, referer
-#  Opcionales: ua, alt (URLs de respaldo), epg (id real en la guía XMLTV),
-#              resolve (página YouTube/Dailymotion), check: false (no validar; p.ej. solo-RD)
+#  Una línea por canal. Campos: id, name, group, logo, url, referer
+#  Opcionales: ua | alt (respaldos) | epg (id en la guía) | resolve | check:false
+#              chno (número) | catchup, catchup_source, catchup_days (TV en diferido)
+#  Para agregar/cambiar/quitar sin tocar este archivo: edita agregar.txt
 # ============================================================
 settings:
   ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
   workers: 32
-  timeout: 8
+  timeout: 5
   epg_days: 3
   encode_headers: true
   worker_url: ''
@@ -39,6 +39,26 @@ settings:
   - 🇵🇪 Perú
   - 🇪🇨 Ecuador
   dead_after: 12
+  dead_after_local: 2
+  channel_budget: 20
+  external_lists: []
+  iptv_org_fallback: true
+  repair_mode: promote
+  group_aliases: {}
+  catchup_defaults: []
+  logo_base: ''
+  epg_keep_desc: true
+  repair_countries:
+  - do
+  - mx
+  - co
+  - ar
+  - es
+  - cl
+  - ve
+  - pe
+  - ec
+  - us
 channels:
   - {"id": "lavozdemariatv.org", "name": "La Voz de María", "group": "✝️ Religión", "logo": "https://lavozdemaria.org/wp-content/uploads/2024/10/Logo.png", "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8", "referer": "https://lavozdemaria.org/"}
   - {"id": "televida", "name": "TeleVida", "group": "✝️ Religión", "logo": "https://i.imgur.com/S8Zdn41.png", "url": "https://cdnfox.hostlagarto.com/televida/index.m3u8", "referer": "https://fox.hostlagarto.com/"}
