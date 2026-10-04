@@ -7,7 +7,7 @@ https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8|User-Agent=Mozilla
 https://cdnfox.hostlagarto.com/televida/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://fox.hostlagarto.com/&Origin=https://fox.hostlagarto.com
 
 #EXTINF:-1 tvg-id="cristovisionrd" tvg-name="Cristo Visión RD" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="✝️ Religión",Cristo Visión RD
-https://live20.bozztv.com/akamaissh101/ssh101/codificador21/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://constanzadigital.com&Origin=https://constanzadigital.com
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="ewtn.com" tvg-name="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="✝️ Religión",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
@@ -37,7 +37,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://1601580044.rsc.cdn77.org/&Origin=https://1601580044.rsc.cdn77.org
 
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
-https://fox.hostlagarto.com:8081/televida/tracks-v1a1/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://fox.hostlagarto.com:8081/&Origin=https://fox.hostlagarto.com:8081
+https://cnn.hostlagarto.com/televida/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="cristovision-2" tvg-name="Cristo Visión (2)" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="✝️ Religión",Cristo Visión (2)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5fc584f3f19c9.streamlock.net/&Origin=https://5fc584f3f19c9.streamlock.net
@@ -115,7 +115,7 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8|User-Agent=Mozilla/5.0
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://teleuniversotv.com&Origin=https://teleuniversotv.com
 
 #EXTINF:-1 tvg-id="cinevision19.do" tvg-name="Cinevisión Canal 19" tvg-logo="https://cdn.teleon.tv/logo/cinevision-canal-19-do.png" group-title="🇩🇴 Dominicana",Cinevisión Canal 19
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cinevision.com.do&Origin=https://cinevision.com.do
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="ondatv30.do" tvg-name="Onda TV Canal 30" tvg-logo="https://cdn.teleon.tv/logo/ondatv.png" group-title="🇩🇴 Dominicana",Onda TV Canal 30
 https://ss5.domint.net:3176/otv_str/ondatv/chunklist_w1469329619.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ondatv.com.do&Origin=https://ondatv.com.do
@@ -262,7 +262,7 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8|User-Agent=Mozilla/5.0%20%28
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streamunoapp.com:3958/&Origin=https://streamunoapp.com:3958
 
 #EXTINF:-1 tvg-id="guaymatetv.do" tvg-name="Guaymate TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="📍 Locales RD",Guaymate TV
-https://glb.bozztv.com/glb/ssh101/guaymatetv/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://glb.bozztv.com/&Origin=https://glb.bozztv.com
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36
 
 #EXTINF:-1 tvg-id="sanisidrotv.do" tvg-name="San Isidro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG_4LtXkLLe2e6BrOn_Pe4TzOuOhPyLmIhg&s" group-title="📍 Locales RD",San Isidro TV
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rdn.essastream.com:3160/&Origin=https://rdn.essastream.com:3160
@@ -316,7 +316,7 @@ https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8|User-Agent=Mozilla/5.0%20%
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
 
 #EXTINF:-1 tvg-id="gitelevision.do" tvg-name="Gi Television" tvg-logo="https://pbs.twimg.com/profile_images/1166758516037705728/CH6P91Fv_400x400.png" group-title="📍 Locales RD",Gi Television
-https://ssh101.bozztv.com/ssh101/rctvhd103/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ssh101.bozztv.com/&Origin=https://ssh101.bozztv.com
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="nexxotv.do" tvg-name="NEXXO TV" tvg-logo="https://nexxotv.com/wp-content/uploads/2023/12/cropped-LOGO-NEXXO-Blanco-1-1536x361.png" group-title="📍 Locales RD",NEXXO TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn3.streamgato.us:3938/&Origin=https://cdn3.streamgato.us:3938
@@ -328,7 +328,7 @@ https://cdn3.streamgato.us:3927/live/tvmaxlive.m3u8|User-Agent=Mozilla/5.0%20%28
 https://cdn3.streamgato.us:3966/live/kidstvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn3.streamgato.us:3966/&Origin=https://cdn3.streamgato.us:3966
 
 #EXTINF:-1 tvg-id="oromartv.do" tvg-name="Oromar TV" tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV800.png" group-title="📍 Locales RD",Oromar TV
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.oromar.tv/&Origin=https://stream.oromar.tv
+http://45.224.97.181:9999/Oromar/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="channelsglobaltv.do" tvg-name="Channels Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8xqCHIJSzNI70EsuhtQoEt09ZtINf4z1wQ&s" group-title="📍 Locales RD",Channels Global TV
 https://ss3.domint.net:3136/gtv_str/globalhd/chunklist_w148260659.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ss3.domint.net:3136/&Origin=https://ss3.domint.net:3136
@@ -340,7 +340,7 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8|User-Agent=Mozilla/5.0%20%2
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vdo2.streamgato.us:3632/&Origin=https://vdo2.streamgato.us:3632
 
 #EXTINF:-1 tvg-id="vallenuevordo.do" tvg-name="Valle Nuevo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="📍 Locales RD",Valle Nuevo
-https://media.streambrothers.com:19360/8262/8262.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://media.streambrothers.com:19360/&Origin=https://media.streambrothers.com:19360
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="teletropico.do" tvg-name="La Voz del Trópico" tvg-logo="http://lavozdeltropico.online/wp-content/uploads/2017/10/Sin-t%C3%ADtulo-1.png" group-title="📍 Locales RD",La Voz del Trópico
 https://ss2.domint.net:3226/vttv_str/tropicotv/chunklist_w1832586441.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ss2.domint.net:3226/&Origin=https://ss2.domint.net:3226
@@ -361,7 +361,7 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8|User-Age
 https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vsrv2.az-streamingserver.com:3960/&Origin=https://vsrv2.az-streamingserver.com:3960
 
 #EXTINF:-1 tvg-id="fuegoTV.do" tvg-name="Fuego TV" tvg-logo="https://cdn.teleon.tv/logo/fuego-tv.png" group-title="📍 Locales RD",Fuego TV
-https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w462423881.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
+https://streamunoapp.com:3553/live/cromtvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
 https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.castr.com/&Origin=https://stream.castr.com
@@ -385,7 +385,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8|Use
 https://f24hls-i.akamaihd.net/hls/live/1080582/F24_ES_LO_HLS/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.france24.com/es/&Origin=https://www.france24.com
 
 #EXTINF:-1 tvg-id="rt.com" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/RT_logo_2020.svg/200px-RT_logo_2020.svg.png" group-title="🌐 Noticias Internacionales",RT en Español
-https://rt-esp.rttv.com/live/rtespanol/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://actualidad.rt.com/&Origin=https://actualidad.rt.com
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="zol106noticias" tvg-name="ZAZ Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQ8pKRdz9oagDR9VNf-ZC2q9HmPkqNHHCPzzVACii0-drVxmARoH89ANvvyO4sKAe16iFzXp3K9CM7mKvjpMw8KG_VDPDD7WmRxVm9jcKAhYbalQhlLa-JnG89CGpDmAPGvcZpZukJrHCI5Os4qp1Rg0V1nk545lF4P4ED7K0h9cKWFH6j2BfuN1PRw/s1280/zaz.jpg" group-title="📰 Noticias",ZAZ Noticias
 https://stream-us-east-1.getpublica.com/cl/250306cv4h6kmchkebjfgp0430/1280x720_1500000_0_f.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream-us-east-1.getpublica.com/&Origin=https://stream-us-east-1.getpublica.com
@@ -445,7 +445,7 @@ https://mdstrm.com/live-stream-playlist/5f3e0f8195d0d90e0c5c3f64.m3u8|User-Agent
 https://mdstrm.com/live-stream-playlist/5f5def1695d0d9233f8ee62b.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://mdstrm.com/&Origin=https://mdstrm.com
 
 #EXTINF:-1 tvg-id="ImagenTelevision.mx" tvg-name="Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Imagen_Televisión_logo_2016.svg/1200px-Imagen_Televisión_logo_2016.svg.png" group-title="🇲🇽 México",Imagen Televisión
-https://mdstrm.com/live-stream-playlist/5f03e6b8a34af1230cee1d97.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://mdstrm.com/&Origin=https://mdstrm.com
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Foro_tv_logo.svg/1200px-Foro_tv_logo.svg.png" group-title="🇲🇽 México",Foro TV
 https://livemx-linear-862781689.us-east-1.elb.amazonaws.com/v1/playlist/8ec51e0e9a5e4a4ba80a89f7ae9b67e7/foro-tv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://livemx-linear-862781689.us-east-1.elb.amazonaws.com/&Origin=https://livemx-linear-862781689.us-east-1.elb.amazonaws.com
@@ -475,7 +475,7 @@ https://d1mx6h6b0pgkqj.cloudfront.net/smil:canal1.smil/playlist.m3u8|User-Agent=
 https://d2w9zojnyc1ou2.cloudfront.net/out/v1/c8dc88b5d60647e5bade8f49f6c59ead/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://d2w9zojnyc1ou2.cloudfront.net/&Origin=https://d2w9zojnyc1ou2.cloudfront.net
 
 #EXTINF:-1 tvg-id="caracoltv.com.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Caracol_Television_2012.svg/250px-Caracol_Television_2012.svg.png" group-title="🇨🇴 Colombia",Caracol TV
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/53b2f39ebee8c4901e714bc31cf3735d7c18c4c2/caracoltv/caracoltv.smil/caracoltv/livestream1/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://caracoltv.com/envivo&Origin=https://caracoltv.com
+http://138.121.15.230:9002/CARACOL/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="canalrcn.com" tvg-name="RCN Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Television_HD.svg/250px-RCN_Television_HD.svg.png" group-title="🇨🇴 Colombia",RCN Colombia
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.canalrcn.com/envivo&Origin=https://www.canalrcn.com
