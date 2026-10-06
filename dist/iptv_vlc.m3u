@@ -102,9 +102,8 @@ https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://elseis.do
 #EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/master.m3u8
+https://stream.elseis.do/canal6/live_1080.m3u8
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -149,7 +148,7 @@ https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8
 https://live2.telemicro.com.do/live/telecentro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="digital15.do" tvg-name="Digital 15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBpt336mJBl19PVZNMFeSz6Gd6qvAnUhPMTKGHVLwuv_LuiaVbsZRPuuhkR1RU8C4tcCzxFDoUcvFka38ZBfwuIkRqo_RQDZu15BkKGqDFwp8xuk-ukgScgvd-iBCKiYlyY3x30hgmsez0fvw0hwm3RO4nRWBSk0vyv6W5LdaBa1spYTDLAp3ivrVr1It9/w93-h56/digital15.png" group-title="🇩🇴 Dominicana",Digital 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/15tv/index_pc.php
 #EXTVLCOPT:http-reconnect=true
 https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
@@ -190,23 +189,11 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://stream.canaldelsol.com/sol26/master.m3u8
 
-#EXTINF:-1 tvg-id="rnn27.do" tvg-name="RNN Canal 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="🇩🇴 Dominicana",RNN Canal 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rnn.com.do
-#EXTVLCOPT:http-reconnect=true
-https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="cdn37.do" tvg-name="CDN Canal 37" tvg-logo="https://1.bp.blogspot.com/-0muMBZSsBAI/XTyLKssEwYI/AAAAAAAAIHA/h2BrcJQLjoQ3DgC0HGLr2NW-_NuhCj_ggCLcBGAs/w700-h400-p-k-no-nu/CDN%2BCanal%2B37%2Ben%2Bvivo.png" group-title="🇩🇴 Dominicana",CDN Canal 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.com.do
 #EXTVLCOPT:http-reconnect=true
 http://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
-
-#EXTINF:-1 tvg-id="ctn35.do" tvg-name="CTN Canal 35" tvg-logo="https://ctn.com.do/wp-content/uploads/2023/06/Logo-CTN-New.png" group-title="🇩🇴 Dominicana",CTN Canal 35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ctn.com.do
-#EXTVLCOPT:http-reconnect=true
-https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w2127414869.m3u8
 
 #EXTINF:-1 tvg-id="vtv32.do" tvg-name="VTV Canal 32" tvg-logo="https://vtvcanal32.com.do/wp-content/uploads/2019/06/VTV-Logo-horizontal.png" group-title="🇩🇴 Dominicana",VTV Canal 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -243,12 +230,6 @@ https://ss5.domint.net:3176/otv_str/ondatv/chunklist_w1469329619.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w366368988.m3u8
 
-#EXTINF:-1 tvg-id="tvo42.do" tvg-name="TVO Canal 42" tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="🇩🇴 Dominicana",TVO Canal 42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvo.com.do
-#EXTVLCOPT:http-reconnect=true
-https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
-
 #EXTINF:-1 tvg-id="ame47.do" tvg-name="Amé Canal 47" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="🇩🇴 Dominicana",Amé Canal 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://amecanal47.com
@@ -273,12 +254,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1071742067.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1 tvg-id="haytv57.do" tvg-name="HAY TV Canal 57" tvg-logo="https://image.roku.com/developer_channels/prod/6905d1d23b7032346b727e04f91e52985cd1dfdd4d4b26aaee89e0305c25d64c.png" group-title="🇩🇴 Dominicana",HAY TV Canal 57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://5790d294af2dc.streamlock.net/
-#EXTVLCOPT:http-reconnect=true
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522.m3u8
-
 #EXTINF:-1 tvg-id="lamiatv59.do" tvg-name="LA MIA TV Canal 59" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2217-294x165-FFFFFF.jpg" group-title="🇩🇴 Dominicana",LA MIA TV Canal 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ss5.domint.net:3184/
@@ -296,12 +271,6 @@ https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTVLCOPT:http-referrer=https://ss5.domint.net:3002/
 #EXTVLCOPT:http-reconnect=true
 https://ss5.domint.net:3002/stv_str/sensaciontv/chunklist_w564759008.m3u8
-
-#EXTINF:-1 tvg-id="televiaducto3.do" tvg-name="Televiaducto Canal 3" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Televiaducto Canal 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="deltatv3.do" tvg-name="Delta TV Canal 3" tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="📍 Locales RD",Delta TV Canal 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36

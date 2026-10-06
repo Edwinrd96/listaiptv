@@ -1,1 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="rnn27.do" tvg-name="RNN Canal 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="🇩🇴 Dominicana",RNN Canal 27
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rnn.com.do&Origin=https://rnn.com.do
+
+#EXTINF:-1 tvg-id="ctn35.do" tvg-name="CTN Canal 35" tvg-logo="https://ctn.com.do/wp-content/uploads/2023/06/Logo-CTN-New.png" group-title="🇩🇴 Dominicana",CTN Canal 35
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w2127414869.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ctn.com.do&Origin=https://ctn.com.do
+
+#EXTINF:-1 tvg-id="tvo42.do" tvg-name="TVO Canal 42" tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="🇩🇴 Dominicana",TVO Canal 42
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://tvo.com.do&Origin=https://tvo.com.do
+
+#EXTINF:-1 tvg-id="haytv57.do" tvg-name="HAY TV Canal 57" tvg-logo="https://image.roku.com/developer_channels/prod/6905d1d23b7032346b727e04f91e52985cd1dfdd4d4b26aaee89e0305c25d64c.png" group-title="🇩🇴 Dominicana",HAY TV Canal 57
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5790d294af2dc.streamlock.net/&Origin=https://5790d294af2dc.streamlock.net
+
+#EXTINF:-1 tvg-id="televiaducto3.do" tvg-name="Televiaducto Canal 3" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Televiaducto Canal 3
+https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
