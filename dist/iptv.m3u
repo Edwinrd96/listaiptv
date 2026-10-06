@@ -52,7 +52,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151
 https://live4.telemicro.com.do/live/55/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telemicro.com.do/players/5tv/&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
-https://stream.elseis.do/canal6/live_1080.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
+https://stream.elseis.do/canal6/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://elseis.do&Origin=https://elseis.do
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://alba-do-antena7-antena7.stream.mediatiquestream.com/&Origin=https://alba-do-antena7-antena7.stream.mediatiquestream.com
@@ -76,7 +76,7 @@ https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8|User-Agent=Mozil
 https://live2.telemicro.com.do/live/telecentro/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telemicro.com.do/players/13bot/index_pc.php&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="digital15.do" tvg-name="Digital 15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBpt336mJBl19PVZNMFeSz6Gd6qvAnUhPMTKGHVLwuv_LuiaVbsZRPuuhkR1RU8C4tcCzxFDoUcvFka38ZBfwuIkRqo_RQDZu15BkKGqDFwp8xuk-ukgScgvd-iBCKiYlyY3x30hgmsez0fvw0hwm3RO4nRWBSk0vyv6W5LdaBa1spYTDLAp3ivrVr1It9/w93-h56/digital15.png" group-title="🇩🇴 Dominicana",Digital 15
-https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://telemicro.com.do/players/15tv/index_pc.php&Origin=https://telemicro.com.do
+https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv:152.0%29%20Gecko/20100101%20Firefox/152.0&Referer=https://telemicro.com.do/players/15tv/index_pc.php&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="rtvd17.do" tvg-name="RTVD Canal 17" tvg-logo="https://rtvdclic.com/wp-content/uploads/2024/08/Recurso-6@2x-8.png" group-title="🇩🇴 Dominicana",RTVD Canal 17
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w881719082_b2416640.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rtvdclic.com&Origin=https://rtvdclic.com
