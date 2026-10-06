@@ -14,3 +14,48 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522
 
 #EXTINF:-1 tvg-id="televiaducto3.do" tvg-name="Televiaducto Canal 3" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Televiaducto Canal 3
 https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
+
+#EXTINF:-1 tvg-id="realTV14.do" tvg-name="Real TV Canal 14" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Real TV Canal 14
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
+
+#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
+
+#EXTINF:-1 tvg-id="vegatv.do" tvg-name="Vega TV" tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="📍 Locales RD",Vega TV
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloud6.livescast.com:3797/&Origin=https://cloud6.livescast.com:3797
+
+#EXTINF:-1 tvg-id="mocavision.do" tvg-name="MOCAVISION Canal 48" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",MOCAVISION Canal 48
+https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
+
+#EXTINF:-1 tvg-id="tne58.do" tvg-name="TNE Canal 58" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",TNE Canal 58
+https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
+
+#EXTINF:-1 tvg-id="tvmontana.do" tvg-name="TV Montaña Constanza" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/LOGO-TV-MONTANA-2023-2-e1729441772688.png?resize=1536%2C1142&ssl=1" group-title="📍 Locales RD",TV Montaña Constanza
+https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
+
+#EXTINF:-1 tvg-id="dimetv.do" tvg-name="Dimelo TV" tvg-logo="https://lh3.googleusercontent.com/a-/AD_cMMTR4KlhKu1aScaEbmrWH7aQPEl0O7grp6E2-Npd=w60-h60-p-rp-mo-br100" group-title="📍 Locales RD",Dimelo TV
+https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloud2.streaminglivehd.com:19360/&Origin=https://cloud2.streaminglivehd.com:19360
+
+#EXTINF:-1 tvg-id="redsocialcodi.do" tvg-name="Red Social Codi" tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="📍 Locales RD",Red Social Codi
+https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
+
+#EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
+https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.castr.com/&Origin=https://stream.castr.com
+
+#EXTINF:-1 tvg-id="oxigenotv" tvg-name="Oxígeno" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3456-320x180-000000.jpg" group-title="🎬 Documentales",Oxígeno
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1591398628.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vcp.myplaytv.com/&Origin=https://vcp.myplaytv.com
+
+#EXTINF:-1 tvg-id="Antena3.us" tvg-name="Antena 3 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Antena_3_logo_2019.svg/1200px-Antena_3_logo_2019.svg.png" group-title="🇺🇸 USA Latino",Antena 3 USA
+https://mdstrm.com/live-stream-playlist/5f3e0f8195d0d90e0c5c3f64.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://mdstrm.com/&Origin=https://mdstrm.com
+
+#EXTINF:-1 tvg-id="ElHeraldoTV.mx" tvg-name="El Heraldo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/El_Heraldo_de_Mexico_Logo_2022.png/1200px-El_Heraldo_de_Mexico_Logo_2022.png" group-title="🇲🇽 México",El Heraldo TV
+https://mdstrm.com/live-stream-playlist/5f5def1695d0d9233f8ee62b.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://mdstrm.com/&Origin=https://mdstrm.com
+
+#EXTINF:-1 tvg-id="tn.com.ar" tvg-name="Todo Noticias TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Todo_Noticias_logo.svg/200px-Todo_Noticias_logo.svg.png" group-title="🇦🇷 Argentina",Todo Noticias TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://tn.com.ar/envivo&Origin=https://tn.com.ar
+
+#EXTINF:-1 tvg-id="T13.cl" tvg-name="T13 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/T13_Logo_2020.png/1200px-T13_Logo_2020.png" group-title="🇨🇱 Chile",T13 Chile
+https://mdstrm.com/live-stream-playlist/5f3e3a0095d0d90e0c5c54b8.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://mdstrm.com/&Origin=https://mdstrm.com
+
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-name="América TV Perú (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Am%C3%A9rica_Televisi%C3%B3n_2019.svg/200px-Am%C3%A9rica_Televisi%C3%B3n_2019.svg.png" group-title="🇵🇪 Perú",América TV Perú (2)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/americatv/americatv.smil/americatv/livestream1/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.americatv.com.pe/envivo&Origin=https://www.americatv.com.pe

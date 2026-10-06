@@ -102,9 +102,8 @@ https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://elseis.do
 #EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/master.m3u8
+https://stream.elseis.do/canal6/live_1080.m3u8
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -315,18 +314,6 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 
-#EXTINF:-1 tvg-id="realTV14.do" tvg-name="Real TV Canal 14" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Real TV Canal 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live20.bozztv.com/
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
-
 #EXTINF:-1 tvg-id="noticias16.do" tvg-name="Noticias 16 Canal 16" tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="📍 Locales RD",Noticias 16 Canal 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.essastream.com:3457/
@@ -417,12 +404,6 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 
-#EXTINF:-1 tvg-id="vegatv.do" tvg-name="Vega TV" tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="📍 Locales RD",Vega TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud6.livescast.com:3797/
-#EXTVLCOPT:http-reconnect=true
-https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
-
 #EXTINF:-1 tvg-id="tvcanalsur.do" tvg-name="TV Canal Sur" tvg-logo="https://tvcanalsur.com.do/wp-content/uploads/2022/12/canalsur-logo-w.png" group-title="📍 Locales RD",TV Canal Sur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtvs.tvcanalsur.com.do/
@@ -434,18 +415,6 @@ https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.streamingcpanel.com:3526/
 #EXTVLCOPT:http-reconnect=true
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-
-#EXTINF:-1 tvg-id="mocavision.do" tvg-name="MOCAVISION Canal 48" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",MOCAVISION Canal 48
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="tne58.do" tvg-name="TNE Canal 58" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",TNE Canal 58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="acento.do" tvg-name="Acento TV" tvg-logo="https://altanto.com.do/wp-content/uploads/2024/03/altanto-dominicana-logo.png.webp" group-title="📍 Locales RD",Acento TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -524,12 +493,6 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3257/live/morrotvlive.m3u8
 
-#EXTINF:-1 tvg-id="tvmontana.do" tvg-name="TV Montaña Constanza" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/LOGO-TV-MONTANA-2023-2-e1729441772688.png?resize=1536%2C1142&ssl=1" group-title="📍 Locales RD",TV Montaña Constanza
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live20.bozztv.com/
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/chunks.m3u8
-
 #EXTINF:-1 tvg-id="rdn.do" tvg-name="RDN" tvg-logo="https://rdn.com.do/wp-content/uploads/2023/11/logo2.png" group-title="📍 Locales RD",RDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vdo2.streamgato.us:3278/
@@ -572,12 +535,6 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="dimetv.do" tvg-name="Dimelo TV" tvg-logo="https://lh3.googleusercontent.com/a-/AD_cMMTR4KlhKu1aScaEbmrWH7aQPEl0O7grp6E2-Npd=w60-h60-p-rp-mo-br100" group-title="📍 Locales RD",Dimelo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cloud2.streaminglivehd.com:19360/
-#EXTVLCOPT:http-reconnect=true
-https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
-
 #EXTINF:-1 tvg-id="elpuertotv.do" tvg-name="El Puerto TV" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="📍 Locales RD",El Puerto TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://5bf8041cb3fed.streamlock.net/
@@ -589,12 +546,6 @@ https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cdn9.streamgato.us:3602/
 #EXTVLCOPT:http-reconnect=true
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
-
-#EXTINF:-1 tvg-id="redsocialcodi.do" tvg-name="Red Social Codi" tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="📍 Locales RD",Red Social Codi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://video.misistemareseller.com/
-#EXTVLCOPT:http-reconnect=true
-https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gitelevision.do" tvg-name="Gi Television" tvg-logo="https://pbs.twimg.com/profile_images/1166758516037705728/CH6P91Fv_400x400.png" group-title="📍 Locales RD",Gi Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -688,12 +639,6 @@ https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="teletoppoint.do" tvg-name="Somos Topo Point TV" tvg-logo="https://tvdom.unremedio.com/images/23483_live.png" group-title="📍 Locales RD",Somos Topo Point TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloudflare.streamgato.us:3901/
@@ -740,12 +685,6 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTVLCOPT:http-referrer=https://stream-us-east-1.getpublica.com/
 #EXTVLCOPT:http-reconnect=true
 https://stream-us-east-1.getpublica.com/cl/250306cv4h6kmchkebjfgp0430/1280x720_1500000_0_f.m3u8
-
-#EXTINF:-1 tvg-id="oxigenotv" tvg-name="Oxígeno" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3456-320x180-000000.jpg" group-title="🎬 Documentales",Oxígeno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vcp.myplaytv.com/
-#EXTVLCOPT:http-reconnect=true
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1591398628.m3u8
 
 #EXTINF:-1 tvg-id="loveplanet" tvg-name="Love The Planet" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/999031671dfbf04262fc9c57d42b8253.webp" group-title="🎬 Documentales",Love The Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -836,18 +775,6 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTVLCOPT:http-referrer=https://stream.ads.ottera.tv/
 #EXTVLCOPT:http-reconnect=true
 https://stream.ads.ottera.tv/cl/250306cv4h6p5vhbk6rpp3eag0/1280x720_3071200_0_f.m3u8
-
-#EXTINF:-1 tvg-id="Antena3.us" tvg-name="Antena 3 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Antena_3_logo_2019.svg/1200px-Antena_3_logo_2019.svg.png" group-title="🇺🇸 USA Latino",Antena 3 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mdstrm.com/
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/5f3e0f8195d0d90e0c5c3f64.m3u8
-
-#EXTINF:-1 tvg-id="ElHeraldoTV.mx" tvg-name="El Heraldo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/El_Heraldo_de_Mexico_Logo_2022.png/1200px-El_Heraldo_de_Mexico_Logo_2022.png" group-title="🇲🇽 México",El Heraldo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mdstrm.com/
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/5f5def1695d0d9233f8ee62b.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTelevision.mx" tvg-name="Imagen Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Imagen_Televisión_logo_2016.svg/1200px-Imagen_Televisión_logo_2016.svg.png" group-title="🇲🇽 México",Imagen Televisión
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -961,12 +888,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://live-01-01-telefe.vodgc.net/telefe/index.m3u8
 
-#EXTINF:-1 tvg-id="tn.com.ar" tvg-name="Todo Noticias TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Todo_Noticias_logo.svg/200px-Todo_Noticias_logo.svg.png" group-title="🇦🇷 Argentina",Todo Noticias TN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo
-#EXTVLCOPT:http-reconnect=true
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
 #EXTINF:-1 tvg-id="c5n.com" tvg-name="C5N Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/C5N_logo.svg/200px-C5N_logo.svg.png" group-title="🇦🇷 Argentina",C5N Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.c5n.com/envivo
@@ -1021,12 +942,6 @@ https://directos.mitele.es/orilinear03/live/linear03/main/main.isml/main-audio_s
 #EXTVLCOPT:http-reconnect=true
 https://tvn-live.cdn.espnplay.com/live/tvn24h/master.m3u8
 
-#EXTINF:-1 tvg-id="T13.cl" tvg-name="T13 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/T13_Logo_2020.png/1200px-T13_Logo_2020.png" group-title="🇨🇱 Chile",T13 Chile
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mdstrm.com/
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/5f3e3a0095d0d90e0c5c54b8.m3u8
-
 #EXTINF:-1 tvg-id="chilevision.cl" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chilevision_logo_2019.svg/200px-Chilevision_logo_2019.svg.png" group-title="🇨🇱 Chile",Chilevisión
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.chilevision.cl/envivo
@@ -1080,12 +995,6 @@ https://d2g5f8rwyh2ttf.cloudfront.net/out/v1/5f7cd35e8bb74a13ad4daa6e5cfc7f01/in
 #EXTVLCOPT:http-referrer=https://d1vg3jpr1ggkx5.cloudfront.net/
 #EXTVLCOPT:http-reconnect=true
 https://d1vg3jpr1ggkx5.cloudfront.net/i/AMERICATV_720@632661/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-name="América TV Perú (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Am%C3%A9rica_Televisi%C3%B3n_2019.svg/200px-Am%C3%A9rica_Televisi%C3%B3n_2019.svg.png" group-title="🇵🇪 Perú",América TV Perú (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.americatv.com.pe/envivo
-#EXTVLCOPT:http-reconnect=true
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/americatv/americatv.smil/americatv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina TV Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Latina_TV_%28Peru%29_Logo_2022.svg/200px-Latina_TV_%28Peru%29_Logo_2022.svg.png" group-title="🇵🇪 Perú",Latina TV Perú
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
