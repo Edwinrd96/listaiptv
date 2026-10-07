@@ -1,5 +1,6 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-07 01:27 UTC · URL cambiada: Telecentro Canal 13
 - 2026-10-07 01:19 UTC · Agregado: canalonce
 - 2026-10-04 21:22 UTC · 🔧 Digital 15: https://live2.telemicro.com.do/live/digital15/playlist. → https://live2.telemicro.com.do/live/digital15cast_1080p (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-10-04 21:22 UTC · 🔧 El Seis Canal 6: https://stream.elseis.do/canal6/master.m3u8 → https://stream.elseis.do/canal6/live_1080.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)

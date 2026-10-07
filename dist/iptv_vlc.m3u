@@ -21,7 +21,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.ewtn.com/
 #EXTVLCOPT:http-reconnect=true
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -145,7 +145,7 @@ https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13bot/index_pc.php
 #EXTVLCOPT:http-reconnect=true
-https://live2.telemicro.com.do/live/telecentro/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1791357921/ei/gZ_FasayGoP5ut0PqLm-mAc/ip/38.83.55.160/id/6qLANTPEgnk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AWzQHwoljKCjMI9vYUy2eNgPkuPT4jxzwoYb7kjzc00g7Ibwl9GNB9dkWDZxLFUdwy8rdqFMc_hk9EHZ/spc/I-rgIa5CejBSaEVb-N8EoUK5Ac9prNQ37ruEhgQYmSwbshNGSJVmtM7EVSvn/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52112905%2C52184231%2C52250513/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgSTOewwkDH39ZCgEVb_f4ess8I3Zjt5EdSUwt-nHo2-UCIEL_cXI2PleyeRab9xYZe8bb_bLd3hUuMDnTBeBUODtQ/file/index.m3u8
 
 #EXTINF:-1 tvg-id="digital15.do" tvg-name="Digital 15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBpt336mJBl19PVZNMFeSz6Gd6qvAnUhPMTKGHVLwuv_LuiaVbsZRPuuhkR1RU8C4tcCzxFDoUcvFka38ZBfwuIkRqo_RQDZu15BkKGqDFwp8xuk-ukgScgvd-iBCKiYlyY3x30hgmsez0fvw0hwm3RO4nRWBSk0vyv6W5LdaBa1spYTDLAp3ivrVr1It9/w93-h56/digital15.png" group-title="🇩🇴 Dominicana",Digital 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
@@ -623,7 +623,7 @@ https://seo.tv.bo/tv/SEO-TV-1.m3u8
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8
 
 #EXTINF:-1 tvg-id="readytv54.do" tvg-name="Ready TV Canal 54" tvg-logo="https://cdn.teleon.tv/logo/ready-tv.png" group-title="📍 Locales RD",Ready TV Canal 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA 4K GB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streaming.telecablecentral.com.do/
 #EXTVLCOPT:http-reconnect=true
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
