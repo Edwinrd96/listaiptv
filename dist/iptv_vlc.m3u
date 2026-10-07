@@ -833,7 +833,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://envivo.tvazteca.com/
 #EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/6a5edb21023aba100ce35791.m3u8
+https://iptvedwin.edwinrd01.workers.dev/azteca/6a5edb21023aba100ce35791.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RCN_TV_Logo.svg/1200px-RCN_TV_Logo.svg.png" group-title="🇨🇴 Colombia",Canal RCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36

@@ -8,4 +8,4 @@
 #   GRUPO | nombre del canal | nuevo grupo                      -> mueve un canal de grupo
 # Ejemplo:  Mi Canal | https://sitio.com/live/playlist.m3u8 | dominicana | https://sitio.com/
 # ==================================================
-CAMBIAR | TV Azteca | https://iptvedwin.edwinrd01.workers.dev/azteca/6a5edb21023aba100ce35791.m3u8
+

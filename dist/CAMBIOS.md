@@ -1,5 +1,6 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-07 02:53 UTC · URL cambiada: TV Azteca
 - 2026-10-07 02:35 UTC · Agregado: TV Azteca (sin verificar: GitHub no ve canales solo-RD)
 - 2026-10-07 02:35 UTC · Agregado: TV Más
 - 2026-10-07 01:27 UTC · URL cambiada: Telecentro Canal 13

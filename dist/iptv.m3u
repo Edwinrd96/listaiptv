@@ -421,7 +421,7 @@ https://d24gnwkqxkyjln.cloudfront.net/out/v1/0e06e29a28df40318278e3c72e616ca0/in
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.tvmas.mx/&Origin=https://www.tvmas.mx
 
 #EXTINF:-1 tvg-id="tvazteca" tvg-name="TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg" group-title="🇲🇽 México",TV Azteca
-https://mdstrm.com/live-stream-playlist/6a5edb21023aba100ce35791.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://envivo.tvazteca.com/&Origin=https://envivo.tvazteca.com
+https://iptvedwin.edwinrd01.workers.dev/azteca/6a5edb21023aba100ce35791.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://envivo.tvazteca.com/&Origin=https://envivo.tvazteca.com
 
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RCN_TV_Logo.svg/1200px-RCN_TV_Logo.svg.png" group-title="🇨🇴 Colombia",Canal RCN
 https://rcn.live.ott.kaltura.com/api_v3/service/playManifest/entryId/0_9nzbn77f/format/applehttp/protocol/https/a.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.canalrcn.com/&Origin=https://www.canalrcn.com
