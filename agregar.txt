@@ -8,4 +8,4 @@
 #   GRUPO | nombre del canal | nuevo grupo                      -> mueve un canal de grupo
 # Ejemplo:  Mi Canal | https://sitio.com/live/playlist.m3u8 | dominicana | https://sitio.com/
 # ==================================================
-
+CAMBIAR | Telecentro | 	https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1791357921/ei/gZ_FasayGoP5ut0PqLm-mAc/ip/38.83.55.160/id/6qLANTPEgnk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AWzQHwoljKCjMI9vYUy2eNgPkuPT4jxzwoYb7kjzc00g7Ibwl9GNB9dkWDZxLFUdwy8rdqFMc_hk9EHZ/spc/I-rgIa5CejBSaEVb-N8EoUK5Ac9prNQ37ruEhgQYmSwbshNGSJVmtM7EVSvn/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52112905%2C52184231%2C52250513/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgSTOewwkDH39ZCgEVb_f4ess8I3Zjt5EdSUwt-nHo2-UCIEL_cXI2PleyeRab9xYZe8bb_bLd3hUuMDnTBeBUODtQ/file/index.m3u8
