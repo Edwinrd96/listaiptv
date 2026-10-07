@@ -1,4 +1,4 @@
- # ===== AGREGAR / CAMBIAR CANALES DESDE TEXTO =====
+# ===== AGREGAR / CAMBIAR CANALES DESDE TEXTO =====
 # Escribe UNA línea por acción debajo de este bloque y guarda (Commit). El sistema la procesa solo y la borra de aquí.
 #   Nombre | URL | grupo | referer(opcional) | logo(opcional)   -> añade un canal   (pon ! delante del nombre para no validarlo)
 #   LISTA | URL                                                 -> añade una lista externa (de ahí salen las URLs de reemplazo)
@@ -8,6 +8,4 @@
 #   GRUPO | nombre del canal | nuevo grupo                      -> mueve un canal de grupo
 # Ejemplo:  Mi Canal | https://sitio.com/live/playlist.m3u8 | dominicana | https://sitio.com/
 # ==================================================
-#   Nombre | URL | grupo | referer(opcional) | logo(opcional) 
-canalonce | https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8 | Internacional | https://canalonce.mx/REST/data/images/logoonce3-transparent.png
-       
+

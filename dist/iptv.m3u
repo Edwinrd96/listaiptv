@@ -10,7 +10,7 @@ https://cdnfox.hostlagarto.com/televida/index.m3u8|User-Agent=Mozilla/5.0%20%28W
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="ewtn.com" tvg-name="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="✝️ Religión",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
 
 #EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.emitstream.com/&Origin=https://player.emitstream.com
@@ -316,7 +316,7 @@ https://seo.tv.bo/tv/SEO-TV-1.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ss3.domint.net:3102/&Origin=https://ss3.domint.net:3102
 
 #EXTINF:-1 tvg-id="readytv54.do" tvg-name="Ready TV Canal 54" tvg-logo="https://cdn.teleon.tv/logo/ready-tv.png" group-title="📍 Locales RD",Ready TV Canal 54
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streaming.telecablecentral.com.do/&Origin=https://streaming.telecablecentral.com.do
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Linux%3B%20Android%2011%3B%20BRAVIA%204K%20GB%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/110.0.0.0%20Safari/537.36&Referer=https://streaming.telecablecentral.com.do/&Origin=https://streaming.telecablecentral.com.do
 
 #EXTINF:-1 tvg-id="clarotv60.do" tvg-name="Claro TV Dominicana Canal 60" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2866-294x165-FFFFFF.jpg" group-title="📍 Locales RD",Claro TV Dominicana Canal 60
 https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vsrv2.az-streamingserver.com:3960/&Origin=https://vsrv2.az-streamingserver.com:3960
@@ -389,6 +389,9 @@ https://directos.mitele.es/orilinear11/live/linear11/main/main.isml/main-audio_s
 
 #EXTINF:-1 tvg-id="tvhispanic" tvg-name="TV Hispanic" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="🌍 Internacional",TV Hispanic
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://livetv.305streamhd.com:3504/&Origin=https://livetv.305streamhd.com:3504
+
+#EXTINF:-1 tvg-id="canalonce" tvg-name="canalonce" tvg-logo="" group-title="🌍 Internacional",canalonce
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://canalonce.mx/REST/data/images/logoonce3-transparent.png&Origin=https://canalonce.mx
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/EstrellaTV_logo.svg/1200px-EstrellaTV_logo.svg.png" group-title="🇺🇸 USA Latino",Estrella TV
 https://stream.ads.ottera.tv/cl/250306cv4h6p5vhbk6rpp3eag0/1280x720_3071200_0_f.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.ads.ottera.tv/&Origin=https://stream.ads.ottera.tv

@@ -21,7 +21,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.ewtn.com/
 #EXTVLCOPT:http-reconnect=true
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -623,7 +623,7 @@ https://seo.tv.bo/tv/SEO-TV-1.m3u8
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8
 
 #EXTINF:-1 tvg-id="readytv54.do" tvg-name="Ready TV Canal 54" tvg-logo="https://cdn.teleon.tv/logo/ready-tv.png" group-title="📍 Locales RD",Ready TV Canal 54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA 4K GB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streaming.telecablecentral.com.do/
 #EXTVLCOPT:http-reconnect=true
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
@@ -769,6 +769,12 @@ https://directos.mitele.es/orilinear11/live/linear11/main/main.isml/main-audio_s
 #EXTVLCOPT:http-referrer=https://livetv.305streamhd.com:3504/
 #EXTVLCOPT:http-reconnect=true
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+
+#EXTINF:-1 tvg-id="canalonce" tvg-name="canalonce" tvg-logo="" group-title="🌍 Internacional",canalonce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canalonce.mx/REST/data/images/logoonce3-transparent.png
+#EXTVLCOPT:http-reconnect=true
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/EstrellaTV_logo.svg/1200px-EstrellaTV_logo.svg.png" group-title="🇺🇸 USA Latino",Estrella TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
