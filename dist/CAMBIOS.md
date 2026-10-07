@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-07 02:35 UTC · Agregado: TV Azteca (sin verificar: GitHub no ve canales solo-RD)
+- 2026-10-07 02:35 UTC · Agregado: TV Más
 - 2026-10-07 01:27 UTC · URL cambiada: Telecentro Canal 13
 - 2026-10-07 01:19 UTC · Agregado: canalonce
 - 2026-10-04 21:22 UTC · 🔧 Digital 15: https://live2.telemicro.com.do/live/digital15/playlist. → https://live2.telemicro.com.do/live/digital15cast_1080p (de https://iptv-org.github.io/iptv/countries/do.m3u)

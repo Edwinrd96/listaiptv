@@ -8,5 +8,4 @@
 #   GRUPO | nombre del canal | nuevo grupo                      -> mueve un canal de grupo
 # Ejemplo:  Mi Canal | https://sitio.com/live/playlist.m3u8 | dominicana | https://sitio.com/
 # ==================================================
-TV Más | 	https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8 |México | https://www.tvmas.mx/ | https://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png
-TV Azteca | https://mdstrm.com/live-stream-playlist/6a5edb21023aba100ce35791.m3u8 | México | https://envivo.tvazteca.com/ | https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg
+
