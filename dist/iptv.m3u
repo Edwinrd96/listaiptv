@@ -342,9 +342,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8|Use
 #EXTINF:-1 tvg-id="france24.com" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/France_24_2013.svg/200px-France_24_2013.svg.png" group-title="🌐 Noticias Internacionales",France 24 Español
 https://f24hls-i.akamaihd.net/hls/live/1080582/F24_ES_LO_HLS/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.france24.com/es/&Origin=https://www.france24.com
 
-#EXTINF:-1 tvg-id="rt.com" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/RT_logo_2020.svg/200px-RT_logo_2020.svg.png" group-title="🌐 Noticias Internacionales",RT en Español
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
-
 #EXTINF:-1 tvg-id="zol106noticias" tvg-name="ZAZ Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQ8pKRdz9oagDR9VNf-ZC2q9HmPkqNHHCPzzVACii0-drVxmARoH89ANvvyO4sKAe16iFzXp3K9CM7mKvjpMw8KG_VDPDD7WmRxVm9jcKAhYbalQhlLa-JnG89CGpDmAPGvcZpZukJrHCI5Os4qp1Rg0V1nk545lF4P4ED7K0h9cKWFH6j2BfuN1PRw/s1280/zaz.jpg" group-title="📰 Noticias",ZAZ Noticias
 https://stream-us-east-1.getpublica.com/cl/250306cv4h6kmchkebjfgp0430/1280x720_1500000_0_f.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream-us-east-1.getpublica.com/&Origin=https://stream-us-east-1.getpublica.com
 
@@ -379,7 +376,7 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8|User-Agent
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live.presstv.ir/&Origin=https://live.presstv.ir
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-294x165-FFFFFF.jpg" group-title="🌍 Internacional",Ecuavisa
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://jireh-5-hls-video-us-isp.dps.live/&Origin=https://jireh-5-hls-video-us-isp.dps.live
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://jireh-5-hls-video-us-isp.dps.live/&Origin=https://jireh-5-hls-video-us-isp.dps.live
 
 #EXTINF:-1 tvg-id="azteca" tvg-name="Azteca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="🌍 Internacional",Azteca
 https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://azt-mun.otteravision.com/&Origin=https://azt-mun.otteravision.com
