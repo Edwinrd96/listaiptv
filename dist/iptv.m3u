@@ -34,7 +34,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8|User-Agent
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://conceptoweb-studio.com&Origin=https://conceptoweb-studio.com
 
 #EXTINF:-1 tvg-id="mariavision-2" tvg-name="María Visión (2)" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="✝️ Religión",María Visión (2)
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://1601580044.rsc.cdn77.org/&Origin=https://1601580044.rsc.cdn77.org
+http://200.122.223.13:55000/play/a022/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
 https://cnn.hostlagarto.com/televida/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
@@ -385,7 +385,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8|User-Agent=Mozilla/5
 https://directos.mitele.es/orilinear11/live/linear11/main/main.isml/main-audio_spa=128000-video=1500000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://directos.mitele.es/&Origin=https://directos.mitele.es
 
 #EXTINF:-1 tvg-id="tvhispanic" tvg-name="TV Hispanic" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="🌍 Internacional",TV Hispanic
-https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://livetv.305streamhd.com:3504/&Origin=https://livetv.305streamhd.com:3504
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager&Referer=https://livetv.305streamhd.com:3504/&Origin=https://livetv.305streamhd.com:3504
 
 #EXTINF:-1 tvg-id="canalonce" tvg-name="canalonce" tvg-logo="" group-title="🌍 Internacional",canalonce
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://canalonce.mx/REST/data/images/logoonce3-transparent.png&Origin=https://canalonce.mx

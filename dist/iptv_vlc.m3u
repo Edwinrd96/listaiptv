@@ -67,9 +67,8 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 
 #EXTINF:-1 tvg-id="mariavision-2" tvg-name="María Visión (2)" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="✝️ Religión",María Visión (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://1601580044.rsc.cdn77.org/
 #EXTVLCOPT:http-reconnect=true
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+http://200.122.223.13:55000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -760,7 +759,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8
 https://directos.mitele.es/orilinear11/live/linear11/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 
 #EXTINF:-1 tvg-id="tvhispanic" tvg-name="TV Hispanic" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="🌍 Internacional",TV Hispanic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://livetv.305streamhd.com:3504/
 #EXTVLCOPT:http-reconnect=true
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
