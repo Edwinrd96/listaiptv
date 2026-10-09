@@ -4,7 +4,7 @@
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://lavozdemaria.org/&Origin=https://lavozdemaria.org
 
 #EXTINF:-1 tvg-id="televida" tvg-name="TeleVida" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida
-https://cdnfox.hostlagarto.com/televida/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://fox.hostlagarto.com/&Origin=https://fox.hostlagarto.com
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="cristovisionrd" tvg-name="Cristo Visión RD" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="✝️ Religión",Cristo Visión RD
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
@@ -37,7 +37,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 http://200.122.223.13:55000/play/a022/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
-https://cnn.hostlagarto.com/televida/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="cristovision-2" tvg-name="Cristo Visión (2)" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="✝️ Religión",Cristo Visión (2)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5fc584f3f19c9.streamlock.net/&Origin=https://5fc584f3f19c9.streamlock.net
@@ -203,6 +203,9 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8|User-Agent=Mozill
 
 #EXTINF:-1 tvg-id="dijital15.do" tvg-name="Dijital 15" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="📍 Locales RD",Dijital 15
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://190.122.104.210:5080/&Origin=https://190.122.104.210:5080
+
+#EXTINF:-1 tvg-id="vegatv.do" tvg-name="Vega TV" tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="📍 Locales RD",Vega TV
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloud6.livescast.com:3797/&Origin=https://cloud6.livescast.com:3797
 
 #EXTINF:-1 tvg-id="tvcanalsur.do" tvg-name="TV Canal Sur" tvg-logo="https://tvcanalsur.com.do/wp-content/uploads/2022/12/canalsur-logo-w.png" group-title="📍 Locales RD",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streamtvs.tvcanalsur.com.do/&Origin=https://streamtvs.tvcanalsur.com.do

@@ -8,9 +8,8 @@ https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
 #EXTINF:-1 tvg-id="televida" tvg-name="TeleVida" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fox.hostlagarto.com/
 #EXTVLCOPT:http-reconnect=true
-https://cdnfox.hostlagarto.com/televida/index.m3u8
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cristovisionrd" tvg-name="Cristo Visión RD" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2025/08/cristo-vision.jpg?w=1280&ssl=1" group-title="✝️ Religión",Cristo Visión RD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -73,7 +72,7 @@ http://200.122.223.13:55000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://cnn.hostlagarto.com/televida/playlist.m3u8
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cristovision-2" tvg-name="Cristo Visión (2)" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="✝️ Religión",Cristo Visión (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -401,6 +400,12 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTVLCOPT:http-referrer=https://190.122.104.210:5080/
 #EXTVLCOPT:http-reconnect=true
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+
+#EXTINF:-1 tvg-id="vegatv.do" tvg-name="Vega TV" tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="📍 Locales RD",Vega TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cloud6.livescast.com:3797/
+#EXTVLCOPT:http-reconnect=true
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
 
 #EXTINF:-1 tvg-id="tvcanalsur.do" tvg-name="TV Canal Sur" tvg-logo="https://tvcanalsur.com.do/wp-content/uploads/2022/12/canalsur-logo-w.png" group-title="📍 Locales RD",TV Canal Sur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36

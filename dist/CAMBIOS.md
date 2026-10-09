@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-09 10:30 UTC · 🔧 TeleVida (2): https://cnn.hostlagarto.com/televida/playlist.m3u8 → https://tls-cl.cdnz.cl/televida/live/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/cl.m3u)
+- 2026-10-09 10:30 UTC · 🔧 TeleVida: https://cdnfox.hostlagarto.com/televida/index.m3u8 → https://tls-cl.cdnz.cl/televida/live/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/cl.m3u)
 - 2026-10-09 01:13 UTC · 🔧 Visión TV: https://cdn.streamhispanatv.net:3076/live/visiontvlive. → https://cloudvideo.servers10.com:8081/8016/index.m3u8 (de https://iptv-org.github.io/iptv/countries/mx.m3u)
 - 2026-10-08 18:51 UTC · 🔧 María Visión (2): https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Maria → http://200.122.223.13:55000/play/a022/index.m3u8 (de https://iptv-org.github.io/iptv/countries/mx.m3u)
 - 2026-10-07 02:53 UTC · URL cambiada: TV Azteca
