@@ -16,7 +16,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8|User-A
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.emitstream.com/&Origin=https://player.emitstream.com
 
 #EXTINF:-1 tvg-id="mariavision" tvg-name="María Visión" tvg-logo="https://static.wixstatic.com/media/ae9e39_e3e155b656ca4bbf913ff80b1e7d5ea5~mv2.jpeg/v1/fill/w_243,h_243,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20mexico%20mv.jpeg" group-title="✝️ Religión",María Visión
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://www-mariavision-com.filesusr.com/&Origin=https://www-mariavision-com.filesusr.com
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www-mariavision-com.filesusr.com/&Origin=https://www-mariavision-com.filesusr.com
 
 #EXTINF:-1 tvg-id="tvcaelsalvador.org" tvg-name="TVCA El Salvador" tvg-logo="https://e37379c613.clvaw-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200001100-5dfbe5dfc0/700/Logo%20Hostia%20TVCa-4.webp" group-title="✝️ Religión",TVCA El Salvador
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://tvcaelsalvador.org/&Origin=https://tvcaelsalvador.org
@@ -25,7 +25,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8|User-
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://conceptoweb-studio.com/&Origin=https://conceptoweb-studio.com
 
 #EXTINF:-1 tvg-id="televidhd" tvg-name="Tele VID HD" tvg-logo="https://televid.tv/wp-content/uploads/2022/05/LOGO-TELE-VID-BLANCO-3.png" group-title="✝️ Religión",Tele VID HD
-https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.instantvideocloud.net/&Origin=https://player.instantvideocloud.net
+https://cnn.hostlagarto.com/televida/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="orbe21" tvg-name="Orbe 21" tvg-logo="https://i0.wp.com/canalorbe21.com/wp-content/uploads/2024/02/cropped-ID-2024-Orbe21-14.png" group-title="✝️ Religión",Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://arcast.net/&Origin=https://arcast.net
@@ -34,7 +34,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8|User-Agent
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://conceptoweb-studio.com&Origin=https://conceptoweb-studio.com
 
 #EXTINF:-1 tvg-id="mariavision-2" tvg-name="María Visión (2)" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="✝️ Religión",María Visión (2)
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://1601580044.rsc.cdn77.org/&Origin=https://1601580044.rsc.cdn77.org
+http://200.122.223.13:55000/play/a022/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
@@ -52,7 +52,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151
 https://live4.telemicro.com.do/live/55/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telemicro.com.do/players/5tv/&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
-https://stream.elseis.do/canal6/live_1080.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
+https://stream.elseis.do/canal6/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://elseis.do&Origin=https://elseis.do
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://alba-do-antena7-antena7.stream.mediatiquestream.com/&Origin=https://alba-do-antena7-antena7.stream.mediatiquestream.com

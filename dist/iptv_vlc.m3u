@@ -29,7 +29,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
 
 #EXTINF:-1 tvg-id="mariavision" tvg-name="María Visión" tvg-logo="https://static.wixstatic.com/media/ae9e39_e3e155b656ca4bbf913ff80b1e7d5ea5~mv2.jpeg/v1/fill/w_243,h_243,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20mexico%20mv.jpeg" group-title="✝️ Religión",María Visión
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www-mariavision-com.filesusr.com/
 #EXTVLCOPT:http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
@@ -48,9 +48,8 @@ https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="televidhd" tvg-name="Tele VID HD" tvg-logo="https://televid.tv/wp-content/uploads/2022/05/LOGO-TELE-VID-BLANCO-3.png" group-title="✝️ Religión",Tele VID HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTVLCOPT:http-reconnect=true
-https://liveingesta318.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
+https://cnn.hostlagarto.com/televida/playlist.m3u8
 
 #EXTINF:-1 tvg-id="orbe21" tvg-name="Orbe 21" tvg-logo="https://i0.wp.com/canalorbe21.com/wp-content/uploads/2024/02/cropped-ID-2024-Orbe21-14.png" group-title="✝️ Religión",Orbe 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -66,9 +65,8 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 
 #EXTINF:-1 tvg-id="mariavision-2" tvg-name="María Visión (2)" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="✝️ Religión",María Visión (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://1601580044.rsc.cdn77.org/
 #EXTVLCOPT:http-reconnect=true
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+http://200.122.223.13:55000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="televida-2" tvg-name="TeleVida (2)" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -101,8 +99,9 @@ https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://elseis.do
 #EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/live_1080.m3u8
+https://stream.elseis.do/canal6/master.m3u8
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
