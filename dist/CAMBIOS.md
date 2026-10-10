@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-10 21:41 UTC · 🔧 María Visión (2): http://200.122.223.13:55000/play/a022/index.m3u8 → https://soportedvb.click:3877/live/merlavisionlive.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
+- 2026-10-10 21:41 UTC · 🔧 María Visión: https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariav → https://soportedvb.click:3877/live/merlavisionlive.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-10-10 00:48 UTC · 🔧 Tele VID HD: https://liveingesta318.cdnmedia.tv/televidtvlive/smil:r → https://cnn.hostlagarto.com/televida/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-10-09 10:30 UTC · 🔧 TeleVida (2): https://cnn.hostlagarto.com/televida/playlist.m3u8 → https://tls-cl.cdnz.cl/televida/live/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/cl.m3u)
 - 2026-10-09 10:30 UTC · 🔧 TeleVida: https://cdnfox.hostlagarto.com/televida/index.m3u8 → https://tls-cl.cdnz.cl/televida/live/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/cl.m3u)
