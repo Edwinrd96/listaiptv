@@ -36,9 +36,6 @@ https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent
 #EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
 https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.castr.com/&Origin=https://stream.castr.com
 
-#EXTINF:-1 tvg-id="rt.com" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/RT_logo_2020.svg/200px-RT_logo_2020.svg.png" group-title="🌐 Noticias Internacionales",RT en Español
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
-
 #EXTINF:-1 tvg-id="oxigenotv" tvg-name="Oxígeno" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3456-320x180-000000.jpg" group-title="🎬 Documentales",Oxígeno
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1591398628.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vcp.myplaytv.com/&Origin=https://vcp.myplaytv.com
 

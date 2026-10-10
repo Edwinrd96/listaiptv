@@ -2,12 +2,12 @@
  "lavozdemariatv.org": {
   "fails": 0,
   "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
   "referer": "https://lavozdemaria.org/",
@@ -22,8 +22,8 @@
   "src": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -35,34 +35,34 @@
   "src": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
  "ewtn.com": {
   "fails": 0,
   "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
   "referer": "https://www.ewtn.com/",
   "ua": ""
  },
  "rtvd.org": {
-  "fails": 2,
+  "fails": 3,
   "url": "https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8",
   "last_ok": "2026-10-09T10:29:38",
   "why": "HTTP 404",
   "volatile": [],
   "unreach": 0,
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8",
   "referer": "https://player.emitstream.com/",
@@ -72,12 +72,12 @@
  "mariavision": {
   "fails": 0,
   "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8",
   "referer": "https://www-mariavision-com.filesusr.com/",
@@ -86,12 +86,12 @@
  "tvcaelsalvador.org": {
   "fails": 0,
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 1,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
   "referer": "https://tvcaelsalvador.org/",
@@ -101,12 +101,12 @@
  "montemaria": {
   "fails": 0,
   "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
   "referer": "https://conceptoweb-studio.com/",
@@ -120,20 +120,20 @@
   "src": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:38",
-  "checked": "2026-10-10T00:48:38",
-  "why": "ok (URL reparada)",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
+  "why": "ok",
   "volatile": []
  },
  "orbe21": {
-  "fails": 2,
+  "fails": 3,
   "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
   "last_ok": "2026-10-09T10:29:38",
   "why": "HTTP 404",
   "volatile": [],
   "unreach": 0,
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962565220_b2211840.m3u8",
   "referer": "https://arcast.net/",
@@ -143,12 +143,12 @@
  "cristovision": {
   "fails": 0,
   "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
   "referer": "https://conceptoweb-studio.com",
@@ -157,12 +157,12 @@
  "ahoratv.do": {
   "fails": 0,
   "url": "https://stream.haislin.com/ahoratv/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://stream.haislin.com/ahoratv/index.m3u8",
   "referer": "https://ahoratv.com.do",
@@ -173,18 +173,18 @@
   "why": "ConnectTimeout (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telemicro5.do": {
   "fails": 0,
   "url": "https://live4.telemicro.com.do/live/55/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live4.telemicro.com.do/live/55/playlist.m3u8",
   "referer": "https://telemicro.com.do/players/5tv/",
@@ -194,12 +194,12 @@
   "status": "ok",
   "fails": 0,
   "down": false,
-  "url": "https://stream.elseis.do/canal6/master.m3u8",
+  "url": "https://stream.elseis.do/canal6/live_1080.m3u8",
   "src": "https://stream.elseis.do/canal6/live_1080.m3u8",
-  "referer": "https://elseis.do",
+  "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -208,7 +208,7 @@
   "why": "ConnectionError",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "colorvision.do": {
@@ -219,18 +219,18 @@
   "volatile": [],
   "unreach": 0,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "microvision10.do": {
   "fails": 0,
   "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w761022265.m3u8",
   "referer": "https://streaming.telecablecentral.com.do/",
@@ -241,7 +241,7 @@
   "why": "HTTP 403",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telesistema.do": {
@@ -249,18 +249,18 @@
   "why": "HTTP 403",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "teleuniontvrd.com": {
   "fails": 0,
   "url": "https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8",
   "referer": "https://www.teleuniontvrd.com/",
@@ -274,7 +274,7 @@
   "url": "https://live2.telemicro.com.do/live/telecentro/playlist.m3u8",
   "last_ok": "2026-10-07T00:41:50",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live2.telemicro.com.do/live/telecentro/playlist.m3u8",
   "referer": "https://telemicro.com.do/players/13bot/index_pc.php",
@@ -289,8 +289,8 @@
   "src": "https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
   "referer": "https://telemicro.com.do/players/15tv/index_pc.php",
   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -299,18 +299,18 @@
   "why": "ConnectTimeout (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telever.com.do": {
-  "fails": 1,
+  "fails": 0,
   "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
-  "last_ok": "2026-10-09T18:20:51",
-  "why": "HTTP 404",
+  "last_ok": "2026-10-10T09:47:25",
+  "why": "ok",
   "volatile": [],
   "unreach": 0,
-  "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "status": "ok",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://soportedvb.click:3413/live/televerlive.m3u8",
   "referer": "https://telever.com.do/",
@@ -322,7 +322,7 @@
   "why": "ConnectionError",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "xtratv.do": {
@@ -330,7 +330,7 @@
   "why": "ConnectTimeout",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "visiontv.do": {
@@ -341,20 +341,20 @@
   "src": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
  "canaldelsol.com": {
   "fails": 0,
   "url": "https://stream.canaldelsol.com/sol26/master.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": false,
   "src": "https://stream.canaldelsol.com/sol26/master.m3u8",
@@ -362,10 +362,10 @@
   "ua": ""
  },
  "rnn27.do": {
-  "fails": 28,
+  "fails": 29,
   "why": "HTTP 404",
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -374,26 +374,26 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "ctn35.do": {
-  "fails": 28,
+  "fails": 29,
   "why": "HTTP 404",
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
  "vtv32.do": {
   "fails": 0,
   "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
   "referer": "https://vtvcanal32.com.do",
@@ -404,7 +404,7 @@
   "why": "ConnectionError",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "teleuniverso.do": {
@@ -412,7 +412,7 @@
   "why": "ConnectTimeout",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "cinevision19.do": {
@@ -423,8 +423,8 @@
   "src": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -433,7 +433,7 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telemediocanal25.do": {
@@ -441,14 +441,14 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tvo42.do": {
-  "fails": 28,
+  "fails": 29,
   "why": "HTTP 404",
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -457,7 +457,7 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tni51.do": {
@@ -465,7 +465,7 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "orbittv52.do": {
@@ -473,28 +473,28 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "lunatv53.do": {
   "fails": 0,
   "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
   "referer": "https://tv.wracanal10.com:3671/",
   "ua": ""
  },
  "haytv57.do": {
-  "fails": 28,
+  "fails": 29,
   "why": "HTTP 404",
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -503,21 +503,21 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "ztv85.do": {
   "fails": 0,
   "why": "ok",
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": false,
   "url": "https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8",
   "src": "https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8",
   "referer": "https://lb00zdigital.streamprolive.com/",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "volatile": []
  },
  "sensaciontv.do": {
@@ -525,26 +525,26 @@
   "why": "ConnectionError (presupuesto agotado)",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "televiaducto3.do": {
-  "fails": 28,
+  "fails": 29,
   "why": "HTTP 404",
   "status": "dead",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
  "deltatv3.do": {
   "fails": 0,
   "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "unreach": 0,
   "status": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": false,
   "src": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
@@ -557,9 +557,9 @@
   "status": "ok",
   "unreach": 0,
   "url": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
   "referer": "https://ss2.tvrdomi.com:1936/",
@@ -570,7 +570,7 @@
   "why": "ConnectionError",
   "unreach": 3,
   "status": "unreachable",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "constanzatv8.do": {
@@ -579,9 +579,9 @@
   "status": "ok",
   "why": "ok",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8",
   "referer": "https://live20.bozztv.com/",
@@ -592,7 +592,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "vallevision10.do": {
@@ -600,10 +600,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w267981770.m3u8",
   "referer": "https://streaming.telecablecentral.com.do/",
@@ -614,22 +614,22 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "realTV14.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
  "nuevavision14.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -638,7 +638,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "megacinetv17.do": {
@@ -646,7 +646,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tv18.do": {
@@ -654,7 +654,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "zol106.do": {
@@ -662,7 +662,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError (presupuesto agotado)",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telefuturo23.do": {
@@ -670,7 +670,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError (presupuesto agotado)",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telecanal28.do": {
@@ -678,7 +678,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "hmtv33.do": {
@@ -686,7 +686,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "cocotv34.do": {
@@ -694,7 +694,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "ghtv38.do": {
@@ -702,7 +702,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "iutv39.do": {
@@ -710,10 +710,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
   "referer": "https://imagenuniversaltv.net:3771/",
@@ -724,10 +724,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
   "referer": "https://videoserver.tmcreativos.com:19360/",
@@ -738,18 +738,18 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError (presupuesto agotado)",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "alcarrizotv.do": {
-  "fails": 1,
+  "fails": 2,
   "unreach": 0,
   "status": "dead",
   "url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
   "last_ok": "2026-10-09T18:20:51",
   "why": "HTTP 404",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
   "referer": "https://5790d294af2dc.streamlock.net/",
@@ -761,7 +761,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "dijital15.do": {
@@ -769,10 +769,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8",
   "referer": "https://190.122.104.210:5080/",
@@ -782,14 +782,14 @@
   "fails": 0,
   "status": "ok",
   "why": "ok",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": false,
   "url": "https://cloud6.livescast.com:3797/live/vegatevelive.m3u8",
   "src": "https://cloud6.livescast.com:3797/live/vegatevelive.m3u8",
   "referer": "https://cloud6.livescast.com:3797/",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "volatile": []
  },
  "tvcanalsur.do": {
@@ -797,10 +797,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8",
   "referer": "https://streamtvs.tvcanalsur.com.do/",
@@ -811,10 +811,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
   "referer": "https://cdn.streamingcpanel.com:3526/",
@@ -822,18 +822,18 @@
   "limit": 12
  },
  "mocavision.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
  "tne58.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -842,7 +842,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "SSLError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "entelevision.do": {
@@ -850,7 +850,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "bajotechotv.do": {
@@ -858,7 +858,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "cromtv.do": {
@@ -866,7 +866,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "bellavision.do": {
@@ -874,7 +874,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "altantotv.do": {
@@ -882,10 +882,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
   "referer": "https://stream.haislin.com/",
@@ -896,10 +896,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
   "referer": "https://streamunoapp.com:3958/",
@@ -914,8 +914,8 @@
   "src": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
   "referer": "",
   "ua": "Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "limit": 12
@@ -925,7 +925,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telecontacto.do": {
@@ -933,10 +933,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
   "referer": "https://streaming.grupomediosdelnorte.com:19360/",
@@ -948,10 +948,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
   "referer": "https://streaming.grupomediosdelnorte.com:19360/",
@@ -963,10 +963,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
   "referer": "https://streaming.grupomediosdelnorte.com:19360/",
@@ -977,14 +977,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tvmontana.do": {
-  "fails": 1,
+  "fails": 2,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": false
  },
@@ -993,7 +993,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "puruwatv.do": {
@@ -1001,10 +1001,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1968842333.m3u8",
   "referer": "https://live.tvcontrolcp.com:1936/",
@@ -1015,10 +1015,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://cloudvideo.servers10.com:8081/8108/tracks-v1a1/mono.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://cloudvideo.servers10.com:8081/8108/tracks-v1a1/mono.m3u8",
   "referer": "https://cloudvideo.servers10.com:8081/",
@@ -1030,10 +1030,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
   "referer": "https://cnn.livestreaminggroup.info:3132/",
@@ -1044,10 +1044,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
   "referer": "https://host.streamingnation.live/",
@@ -1058,7 +1058,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "fmtv.do": {
@@ -1066,10 +1066,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
   "referer": "https://s2.tvdatta.com:3307/",
@@ -1077,10 +1077,10 @@
   "limit": 12
  },
  "dimetv.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1089,10 +1089,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/chunklist_w386961114.m3u8",
   "referer": "https://5bf8041cb3fed.streamlock.net/",
@@ -1103,14 +1103,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "redsocialcodi.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1122,8 +1122,8 @@
   "src": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "limit": 12
@@ -1133,7 +1133,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tvmax.do": {
@@ -1141,7 +1141,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "kidstv.do": {
@@ -1149,7 +1149,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "oromartv.do": {
@@ -1160,8 +1160,8 @@
   "src": "http://45.224.97.181:9999/Oromar/index.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -1170,7 +1170,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError (presupuesto agotado)",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "alegretv.do": {
@@ -1178,10 +1178,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
   "referer": "https://streamunoapp.com:3149/",
@@ -1192,28 +1192,29 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "vallenuevordo.do": {
-  "status": "ok",
-  "fails": 0,
+  "status": "dead",
+  "fails": 1,
   "down": false,
   "url": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8",
   "src": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8",
   "referer": "",
   "ua": "",
   "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
-  "why": "ok",
-  "volatile": []
+  "checked": "2026-10-10T09:47:25",
+  "why": "HTTP 404",
+  "volatile": [],
+  "limit": 12
  },
  "teletropico.do": {
   "fails": 0,
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError (presupuesto agotado)",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tstelesiglo.do": {
@@ -1221,7 +1222,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "seotv86.do": {
@@ -1229,7 +1230,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "fv3tv55.do": {
@@ -1237,7 +1238,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError (presupuesto agotado)",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "readytv54.do": {
@@ -1245,10 +1246,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
   "referer": "https://streaming.telecablecentral.com.do/",
@@ -1259,7 +1260,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "fuegoTV.do": {
@@ -1270,17 +1271,17 @@
   "src": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
   "limit": 12
  },
  "telesiglo.do": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1289,7 +1290,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectTimeout",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "valetv.do": {
@@ -1297,10 +1298,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w1417025251.m3u8",
   "referer": "https://59d39900ebfb8.streamlock.net/",
@@ -1311,7 +1312,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 502",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "mariavision-2": {
@@ -1322,8 +1323,8 @@
   "src": "http://200.122.223.13:55000/play/a022/index.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -1335,8 +1336,8 @@
   "src": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -1345,10 +1346,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w665690386_DVR.m3u8",
   "referer": "https://5fc584f3f19c9.streamlock.net/",
@@ -1359,10 +1360,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
   "referer": "https://live.presstv.ir/",
@@ -1373,10 +1374,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8",
   "referer": "https://jireh-5-hls-video-us-isp.dps.live/",
@@ -1387,10 +1388,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8",
   "referer": "https://azt-mun.otteravision.com/",
@@ -1401,7 +1402,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tvhispanic": {
@@ -1409,10 +1410,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
   "referer": "https://livetv.305streamhd.com:3504/",
@@ -1423,14 +1424,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 400",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "oxigenotv": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1439,10 +1440,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8",
   "referer": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/",
@@ -1453,10 +1454,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/720p/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/720p/index.m3u8",
   "referer": "https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/",
@@ -1467,7 +1468,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "toongoggles": {
@@ -1475,7 +1476,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 400",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "romancechannel": {
@@ -1483,7 +1484,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "xtremaaccion": {
@@ -1491,10 +1492,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w829808512.m3u8",
   "referer": "https://stmv6.voxtvhd.com.br/",
@@ -1505,7 +1506,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "aztv": {
@@ -1513,10 +1514,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
   "referer": "https://stmv1.srvif.com/",
@@ -1528,10 +1529,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
   "referer": "https://mdstrm.com/",
@@ -1542,7 +1543,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "Canal1.co": {
@@ -1550,7 +1551,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "NTN24.co": {
@@ -1558,14 +1559,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "ElHeraldoTV.mx": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1577,8 +1578,8 @@
   "src": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -1587,7 +1588,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "AztecaNoticias.mx": {
@@ -1595,7 +1596,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "VTV.ve": {
@@ -1603,7 +1604,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "CVTV.ve": {
@@ -1611,7 +1612,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "C5N.ar": {
@@ -1619,7 +1620,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "TN.ar": {
@@ -1627,7 +1628,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "TVPublicaAR.ar": {
@@ -1635,7 +1636,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "SSLError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "ATV.pe": {
@@ -1643,7 +1644,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "AmericaTV.pe": {
@@ -1651,7 +1652,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "24Horas.cl": {
@@ -1659,14 +1660,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "T13.cl": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1675,7 +1676,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "RTVE24h.es": {
@@ -1683,7 +1684,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "TeleSur.ve": {
@@ -1691,7 +1692,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "EstrellaTV.us": {
@@ -1699,14 +1700,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 400",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "Antena3.us": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1718,8 +1719,8 @@
   "src": "http://138.121.15.230:9002/CARACOL/index.m3u8",
   "referer": "",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
-  "checked": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
+  "checked": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
@@ -1728,7 +1729,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "senalcolombia.gov.co": {
@@ -1736,7 +1737,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "telesur.net": {
@@ -1744,7 +1745,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 502",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "lasestrellas.tv": {
@@ -1752,7 +1753,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 400",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "aztecauno.com": {
@@ -1760,7 +1761,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "azteca7.com": {
@@ -1768,7 +1769,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "oncetv.ipn.mx": {
@@ -1776,7 +1777,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "eltrece.tv": {
@@ -1784,10 +1785,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
   "referer": "https://www.eltrecetv.com.ar/vivo",
@@ -1798,14 +1799,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tn.com.ar": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1814,7 +1815,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "chilevision.cl": {
@@ -1822,7 +1823,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "t13.cl": {
@@ -1830,7 +1831,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "tvn.cl": {
@@ -1838,14 +1839,14 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "americatv.com.pe": {
-  "fails": 26,
+  "fails": 27,
   "status": "dead",
   "why": "HTTP 404",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "limit": 12,
   "down": true
  },
@@ -1854,7 +1855,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "vtv.gob.ve": {
@@ -1862,7 +1863,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "televen.com": {
@@ -1870,7 +1871,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "teleamazonas.com": {
@@ -1878,7 +1879,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "rtve.es": {
@@ -1886,7 +1887,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "segmento HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "rtve.es-2": {
@@ -1894,10 +1895,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://ztnr.rtve.es/ztnr/1688878.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://ztnr.rtve.es/ztnr/1688878.m3u8",
   "referer": "https://www.rtve.es/directo/la-2",
@@ -1908,7 +1909,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "cuatro.com": {
@@ -1916,7 +1917,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 403",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "cnn.com": {
@@ -1924,7 +1925,7 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "ConnectionError",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "dw.com": {
@@ -1932,10 +1933,10 @@
   "unreach": 0,
   "status": "ok",
   "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": [],
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false,
   "src": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
   "referer": "https://www.dw.com/es/",
@@ -1946,58 +1947,58 @@
   "unreach": 3,
   "status": "unreachable",
   "why": "HTTP 400",
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "down": false
  },
  "rt.com": {
-  "status": "dead",
-  "fails": 18,
-  "down": true,
+  "status": "unreachable",
+  "fails": 0,
+  "down": false,
   "url": "https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8",
   "src": "https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8",
   "referer": "",
   "ua": "",
   "last_ok": "2026-10-05T14:32:00",
-  "checked": "2026-10-10T00:48:10",
-  "why": "HTTP 404",
+  "checked": "2026-10-10T09:47:25",
+  "why": "ReadTimeout",
   "volatile": [],
   "limit": 12
  },
  "_meta": {
-  "last_check": "2026-10-10T00:48:10",
-  "last_repair": "2026-10-10T00:48:38",
+  "last_check": "2026-10-10T09:47:25",
+  "last_repair": "2026-10-10T09:47:53",
   "epg_sig": "fef460a5eccb",
   "epg_at": "2026-10-10T00:48:40"
  },
  "canalonce": {
   "fails": 0,
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "status": "ok",
   "down": false,
   "url": "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
   "src": "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
   "referer": "https://canalonce.mx/REST/data/images/logoonce3-transparent.png",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
  "tvmas": {
   "fails": 0,
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "status": "ok",
   "down": false,
   "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
   "src": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
   "referer": "https://www.tvmas.mx/",
   "ua": "",
-  "last_ok": "2026-10-10T00:48:10",
+  "last_ok": "2026-10-10T09:47:25",
   "why": "ok",
   "volatile": []
  },
  "tvazteca": {
   "fails": 0,
-  "checked": "2026-10-10T00:48:10",
+  "checked": "2026-10-10T09:47:25",
   "status": "unreachable",
   "why": "HTTP 502",
   "down": false
