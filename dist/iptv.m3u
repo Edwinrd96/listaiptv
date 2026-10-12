@@ -19,7 +19,7 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 https://soportedvb.click:3877/live/merlavisionlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="tvcaelsalvador.org" tvg-name="TVCA El Salvador" tvg-logo="https://e37379c613.clvaw-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200001100-5dfbe5dfc0/700/Logo%20Hostia%20TVCa-4.webp" group-title="✝️ Religión",TVCA El Salvador
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Linux%3B%20Android%2011%3B%20BRAVIA%204K%20GB%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/110.0.0.0%20Safari/537.36&Referer=https://tvcaelsalvador.org/&Origin=https://tvcaelsalvador.org
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://tvcaelsalvador.org/&Origin=https://tvcaelsalvador.org
 
 #EXTINF:-1 tvg-id="montemaria" tvg-name="Monte María" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="✝️ Religión",Monte María
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://conceptoweb-studio.com/&Origin=https://conceptoweb-studio.com
@@ -91,7 +91,7 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8|User-Agent
 https://cnn.essastream.com:3387/live/xtratvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://xtratv.com.do&Origin=https://xtratv.com.do
 
 #EXTINF:-1 tvg-id="visiontv.do" tvg-name="Visión TV" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="🇩🇴 Dominicana",Visión TV
-https://cloudvideo.servers10.com:8081/8016/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://visiontv.com.do&Origin=https://visiontv.com.do
 
 #EXTINF:-1 tvg-id="canaldelsol.com" tvg-name="Canal del Sol 26" tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="🇩🇴 Dominicana",Canal del Sol 26
 https://stream.canaldelsol.com/sol26/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://canaldelsol.com/&Origin=https://canaldelsol.com
@@ -352,7 +352,7 @@ https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/pl
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cnnespanol.cnn.com/&Origin=https://cnnespanol.cnn.com
 
 #EXTINF:-1 tvg-id="dw.com" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="🌐 Noticias Internacionales",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager&Referer=https://www.dw.com/es/&Origin=https://www.dw.com
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.dw.com/es/&Origin=https://www.dw.com
 
 #EXTINF:-1 tvg-id="france24.com" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/France_24_2013.svg/200px-France_24_2013.svg.png" group-title="🌐 Noticias Internacionales",France 24 Español
 https://f24hls-i.akamaihd.net/hls/live/1080582/F24_ES_LO_HLS/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.france24.com/es/&Origin=https://www.france24.com
