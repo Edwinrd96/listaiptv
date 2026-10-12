@@ -175,9 +175,8 @@ https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 
 #EXTINF:-1 tvg-id="visiontv.do" tvg-name="Visión TV" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="🇩🇴 Dominicana",Visión TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visiontv.com.do
 #EXTVLCOPT:http-reconnect=true
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
 
 #EXTINF:-1 tvg-id="canaldelsol.com" tvg-name="Canal del Sol 26" tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="🇩🇴 Dominicana",Canal del Sol 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -287,7 +286,7 @@ https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 
 #EXTINF:-1 tvg-id="constanzatv8.do" tvg-name="Constanza TV Canal 8" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="📍 Locales RD",Constanza TV Canal 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA 4K GB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live20.bozztv.com/
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
@@ -309,6 +308,12 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vdo1.streamgato.us:3345/
 #EXTVLCOPT:http-reconnect=true
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+
+#EXTINF:-1 tvg-id="realTV14.do" tvg-name="Real TV Canal 14" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Real TV Canal 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-reconnect=true
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -653,6 +658,12 @@ https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
 
+#EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://stream.castr.com/
+#EXTVLCOPT:http-reconnect=true
+https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="teletoppoint.do" tvg-name="Somos Topo Point TV" tvg-logo="https://tvdom.unremedio.com/images/23483_live.png" group-title="📍 Locales RD",Somos Topo Point TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloudflare.streamgato.us:3901/
@@ -678,7 +689,7 @@ https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/pl
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dw.com" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="🌐 Noticias Internacionales",DW Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dw.com/es/
 #EXTVLCOPT:http-reconnect=true
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
