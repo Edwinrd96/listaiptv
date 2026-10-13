@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import "@fontsource-variable/instrument-sans";
+
+/* Sala de control: tinta nocturna + papel de pantalla. Los estados salen de las barras de color SMPTE. */
+@theme {
+  --font-sans: "Instrument Sans Variable", ui-sans-serif, system-ui, sans-serif;
+  --color-ink: #0d1726;
+  --color-ink-2: #14233a;
+  --color-ink-3: #1d3150;
+  --color-line: #2a4064;
+  --color-paper: #e9e4d8;
+  --color-dim: #94a3bb;
+  --color-ok: #35c27a;
+  --color-warn: #f0b429;
+  --color-down: #e5484d;
+  --color-mute: #7c8aa0;
+  --color-focus: #6cb6ff;
+}
+
+html, body, #root { height: 100%; }
+body { background: var(--color-ink); color: var(--color-paper); font-family: var(--font-sans); font-feature-settings: "tnum" 1, "cv11" 1; -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 2px; border-radius: 4px; }
+::selection { background: var(--color-focus); color: var(--color-ink); }
+.scroll-thin { scrollbar-width: thin; scrollbar-color: var(--color-line) transparent; }
+
+@keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.strip-seg { transform-origin: left; animation: sweep .7s cubic-bezier(.2,.8,.2,1) both; }
+@keyframes pulse-dot { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+.pulse { animation: pulse-dot 1.2s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) { .strip-seg, .pulse { animation: none; } }

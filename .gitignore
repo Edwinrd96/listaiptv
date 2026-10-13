@@ -1,0 +1,13 @@
+node_modules/
+.env
+engine/.env
+__pycache__/
+.pytest_cache/
+.wrangler/
+seed.sql
+
+.dev.vars
+worker/.dev.vars
+ui/.env
+ALL_IN_ONE_PRIVATE.sql
+respaldo*.sql

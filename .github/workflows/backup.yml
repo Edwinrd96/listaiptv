@@ -1,0 +1,29 @@
+name: Copia de seguridad semanal de la base (opcional)
+# Hace un volcado de tu base de Supabase y lo guarda 30 días como «artefacto» del repositorio (SOLO usa esto en un repo PRIVADO:
+# el volcado incluye datos de usuarios). Necesita el secreto SUPABASE_DB_URL (Project Settings → Database → Connection string → «Session pooler», con tu contraseña).
+on:
+  schedule: [{ cron: "23 5 * * 0" }]      # domingos 05:23 UTC
+  workflow_dispatch:
+jobs:
+  dump:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - name: Instalar pg_dump 17
+        run: |
+          sudo install -d /usr/share/postgresql-common/pgdg
+          sudo curl -fsSL -o /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc https://www.postgresql.org/media/keys/ACCC4CF8.asc
+          echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt noble-pgdg main" | sudo tee /etc/apt/sources.list.d/pgdg.list
+          sudo apt-get update -qq && sudo apt-get install -y -qq postgresql-client-17
+      - name: Volcado
+        env:
+          DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: |
+          test -n "$DB_URL" || { echo "Falta el secreto SUPABASE_DB_URL"; exit 1; }
+          /usr/lib/postgresql/17/bin/pg_dump "$DB_URL" --no-owner --no-privileges --schema=public --table=auth.users -Fc -f respaldo.dump
+          ls -l respaldo.dump
+      - uses: actions/upload-artifact@v4
+        with:
+          name: respaldo-${{ github.run_number }}
+          path: respaldo.dump
+          retention-days: 30

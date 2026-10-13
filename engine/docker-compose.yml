@@ -1,0 +1,6 @@
+services:
+  engine:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    # Para verificar canales visibles solo en tu país, ejecútalo en un PC/servidor de ESE país (VANTAGE=local-do).

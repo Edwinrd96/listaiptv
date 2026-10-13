@@ -1,0 +1,24 @@
+name: Motor IPTV (SOLO manual / emergencia)
+# El motor ahora corre en un VPS gratuito (ver engine/deploy y docs/GUIA_VPS_GRATIS.md). Este workflow ya NO se ejecuta solo,
+# para no gastar los 2000 minutos gratis del repositorio privado. Sirve como plan B: Actions -> «Motor IPTV» -> Run workflow.
+on:
+  workflow_dispatch:
+concurrency: { group: engine, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip, cache-dependency-path: engine/requirements.txt }
+      - run: pip install -r engine/requirements.txt
+      - run: python -m iptv_engine run-once --scheduled
+        working-directory: engine
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          ENGINE_ID: github-actions
+          VANTAGE: github
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

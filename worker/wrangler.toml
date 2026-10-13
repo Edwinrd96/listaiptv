@@ -1,0 +1,25 @@
+name = "iptv-engine"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+# Dominio propio (recomendado desde el día 1):
+# routes = [{ pattern = "play.TUDOMINIO.com/*", zone_name = "TUDOMINIO.com" }]
+
+[triggers]
+crons = ["17 4 * * *"]          # mantenimiento diario (purga + evita que Supabase Free se pause)
+
+[vars]
+ALLOWED_ORIGINS = "http://localhost:5173"      # añade aquí el dominio de tu panel
+PLAYER_PROXY_ENABLED = "true"
+# GITHUB_REPO = "Edwinrd96/listaiptv"
+# GITHUB_WORKFLOW = "engine.yml"
+
+# Secretos (NO van aquí). Se cargan con:  wrangler secret put NOMBRE
+#   SUPABASE_URL, SUPABASE_ANON_KEY, SUPABASE_SERVICE_KEY, SIGNING_SECRET
+#   SUPABASE_JWT_SECRET   (solo si tu proyecto usa claves HS256; si no, se usa JWKS automáticamente)
+#   GITHUB_DISPATCH_TOKEN (opcional)
+
+# Opcional: guía EPG. Opción A: R2 (el motor la sube con EPG_STORAGE=s3). Opción B (VPS/MinIO/CDN): variable EPG_PUBLIC_BASE=https://tu-almacen/publico
+# [[r2_buckets]]
+# binding = "EPG_BUCKET"
+# bucket_name = "iptv-epg"

@@ -1,0 +1,4 @@
+requests[socks]>=2.32
+urllib3>=2
+defusedxml>=0.7
+boto3>=1.34      # solo si EPG_STORAGE=s3 (R2, MinIO...)

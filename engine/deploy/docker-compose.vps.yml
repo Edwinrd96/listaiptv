@@ -1,0 +1,30 @@
+# Motor en un VPS gratuito (Oracle Always Free / Google e2-micro). Uso: ver deploy/install.sh
+services:
+  engine:
+    build: ..                     # la carpeta engine/
+    image: iptv-engine:local
+    container_name: iptv-engine
+    restart: unless-stopped
+    env_file: ../.env
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - epg-data:/data/epg        # solo se usa con EPG_STORAGE=file
+      - tmp-data:/tmp             # descargas temporales de la guía EPG (en disco, no en RAM)
+    mem_limit: ${ENGINE_MEM_LIMIT:-600m}     # en un VPS de 1 GB deja aire al sistema; súbelo en Oracle Arm (12 GB)
+    cpus: ${ENGINE_CPUS:-1.0}
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: [ALL]
+    read_only: true               # el contenedor no puede escribir fuera de lo declarado
+    logging:
+      driver: json-file
+      options: { max-size: "10m", max-file: "3" }     # los logs no llenan el disco
+    healthcheck:
+      test: ["CMD", "python", "-m", "iptv_engine", "doctor"]
+      interval: 5m
+      timeout: 30s
+      retries: 3
+      start_period: 30s
+volumes:
+  epg-data:
+  tmp-data:
