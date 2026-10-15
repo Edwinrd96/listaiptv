@@ -10,7 +10,7 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28W
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="ewtn.com" tvg-name="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="✝️ Religión",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
 
 #EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.emitstream.com/&Origin=https://player.emitstream.com
