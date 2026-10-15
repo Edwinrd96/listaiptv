@@ -20,7 +20,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.ewtn.com/
 #EXTVLCOPT:http-reconnect=true
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -310,12 +310,6 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vdo1.streamgato.us:3345/
 #EXTVLCOPT:http-reconnect=true
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-
-#EXTINF:-1 tvg-id="realTV14.do" tvg-name="Real TV Canal 14" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Real TV Canal 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -659,12 +653,6 @@ https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
-
-#EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream.castr.com/
-#EXTVLCOPT:http-reconnect=true
-https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="teletoppoint.do" tvg-name="Somos Topo Point TV" tvg-logo="https://tvdom.unremedio.com/images/23483_live.png" group-title="📍 Locales RD",Somos Topo Point TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36

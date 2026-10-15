@@ -15,6 +15,9 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522
 #EXTINF:-1 tvg-id="televiaducto3.do" tvg-name="Televiaducto Canal 3" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Televiaducto Canal 3
 https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
 
+#EXTINF:-1 tvg-id="realTV14.do" tvg-name="Real TV Canal 14" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Real TV Canal 14
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
+
 #EXTINF:-1 tvg-id="mocavision.do" tvg-name="MOCAVISION Canal 48" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",MOCAVISION Canal 48
 https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
 
@@ -26,6 +29,9 @@ https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8|User-Agent=Mozilla/5.0%2
 
 #EXTINF:-1 tvg-id="redsocialcodi.do" tvg-name="Red Social Codi" tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="📍 Locales RD",Red Social Codi
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
+
+#EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
+https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.castr.com/&Origin=https://stream.castr.com
 
 #EXTINF:-1 tvg-id="oxigenotv" tvg-name="Oxígeno" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3456-320x180-000000.jpg" group-title="🎬 Documentales",Oxígeno
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1591398628.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vcp.myplaytv.com/&Origin=https://vcp.myplaytv.com
