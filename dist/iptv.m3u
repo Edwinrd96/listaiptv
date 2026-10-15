@@ -250,7 +250,7 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8|U
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streaming.grupomediosdelnorte.com:19360/&Origin=https://streaming.grupomediosdelnorte.com:19360
 
 #EXTINF:-1 tvg-id="ecovision.do" tvg-name="Eco Visión" tvg-logo="https://video.americacableusa.com/upload/canales/ecovision.jpg" group-title="📍 Locales RD",Eco Visión
-https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streaming.grupomediosdelnorte.com:19360/&Origin=https://streaming.grupomediosdelnorte.com:19360
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://streaming.grupomediosdelnorte.com:19360/&Origin=https://streaming.grupomediosdelnorte.com:19360
 
 #EXTINF:-1 tvg-id="morrotv.do" tvg-name="Morro TV" tvg-logo="https://www.morrodigital.com/wp-content/uploads/2022/02/cropped-photo_2022-02-10_09-46-23.jpg" group-title="📍 Locales RD",Morro TV
 https://soportedvb.click:3257/live/morrotvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://soportedvb.click:3257/&Origin=https://soportedvb.click:3257
