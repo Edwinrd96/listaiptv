@@ -10,7 +10,7 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28W
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="ewtn.com" tvg-name="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="✝️ Religión",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/720/chunklist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.ewtn.com/&Origin=https://www.ewtn.com
 
 #EXTINF:-1 tvg-id="rtvd.org" tvg-name="RTVD Diocesana" tvg-logo="https://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/rtvd_logo.jpg" group-title="✝️ Religión",RTVD Diocesana
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.emitstream.com/&Origin=https://player.emitstream.com
@@ -158,9 +158,6 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8|User
 
 #EXTINF:-1 tvg-id="telenord12.do" tvg-name="Telenord Canal 12" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/bb/Telenordcom_Logo_Oficial-04-bb000634.webp" group-title="📍 Locales RD",Telenord Canal 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vdo1.streamgato.us:3345/&Origin=https://vdo1.streamgato.us:3345
-
-#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
-https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
 
 #EXTINF:-1 tvg-id="noticias16.do" tvg-name="Noticias 16 Canal 16" tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="📍 Locales RD",Noticias 16 Canal 16
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn.essastream.com:3457/&Origin=https://cdn.essastream.com:3457
