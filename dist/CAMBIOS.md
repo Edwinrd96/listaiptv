@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-18 23:09 UTC · 🔧 Oromar TV: http://45.224.97.181:9999/Oromar/index.m3u8 → https://stream.oromar.tv/hls/camriva/index.m3u8 (de https://iptv-org.github.io/iptv/countries/ec.m3u)
+- 2026-10-18 23:09 UTC · 🔧 Visión TV: https://cloudvideo.servers10.com:8081/8016/index.m3u8 → https://lbgo.bozztv.com/ssh101/ssh101/visiononline/play (de https://iptv-org.github.io/iptv/countries/pe.m3u)
 - 2026-10-17 20:34 UTC · 🔧 TV Más: https://5ca9af4645e15.streamlock.net/rtv/videortv/playl → https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/pl (de https://iptv-org.github.io/iptv/countries/pe.m3u)
 - 2026-10-11 05:43 UTC · 🔧 Caracol TV: http://138.121.15.230:9002/CARACOL/index.m3u8 → https://wifispeed.trapemn.tv:1936/comunales/caracola-tv (de https://iptv-org.github.io/iptv/countries/cl.m3u)
 - 2026-10-10 21:41 UTC · 🔧 María Visión (2): http://200.122.223.13:55000/play/a022/index.m3u8 → https://soportedvb.click:3877/live/merlavisionlive.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
