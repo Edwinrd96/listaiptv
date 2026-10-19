@@ -99,6 +99,9 @@ https://stream.canaldelsol.com/sol26/master.m3u8|User-Agent=Mozilla/5.0%20%28Win
 #EXTINF:-1 tvg-id="cdn37.do" tvg-name="CDN Canal 37" tvg-logo="https://1.bp.blogspot.com/-0muMBZSsBAI/XTyLKssEwYI/AAAAAAAAIHA/h2BrcJQLjoQ3DgC0HGLr2NW-_NuhCj_ggCLcBGAs/w700-h400-p-k-no-nu/CDN%2BCanal%2B37%2Ben%2Bvivo.png" group-title="🇩🇴 Dominicana",CDN Canal 37
 http://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn.com.do&Origin=https://cdn.com.do
 
+#EXTINF:-1 tvg-id="vtv32.do" tvg-name="VTV Canal 32" tvg-logo="https://vtvcanal32.com.do/wp-content/uploads/2019/06/VTV-Logo-horizontal.png" group-title="🇩🇴 Dominicana",VTV Canal 32
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vtvcanal32.com.do&Origin=https://vtvcanal32.com.do
+
 #EXTINF:-1 tvg-id="telecanalrd.do" tvg-name="Telecanal Canal 12" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-294x165-FFFFFF.jpg" group-title="🇩🇴 Dominicana",Telecanal Canal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telecanal12.com.do&Origin=https://telecanal12.com.do
 

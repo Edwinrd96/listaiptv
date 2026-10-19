@@ -6,9 +6,6 @@ https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8|User-Age
 #EXTINF:-1 tvg-id="ctn35.do" tvg-name="CTN Canal 35" tvg-logo="https://ctn.com.do/wp-content/uploads/2023/06/Logo-CTN-New.png" group-title="🇩🇴 Dominicana",CTN Canal 35
 https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w2127414869.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ctn.com.do&Origin=https://ctn.com.do
 
-#EXTINF:-1 tvg-id="vtv32.do" tvg-name="VTV Canal 32" tvg-logo="https://vtvcanal32.com.do/wp-content/uploads/2019/06/VTV-Logo-horizontal.png" group-title="🇩🇴 Dominicana",VTV Canal 32
-https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vtvcanal32.com.do&Origin=https://vtvcanal32.com.do
-
 #EXTINF:-1 tvg-id="tvo42.do" tvg-name="TVO Canal 42" tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="🇩🇴 Dominicana",TVO Canal 42
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://tvo.com.do&Origin=https://tvo.com.do
 
