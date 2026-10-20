@@ -52,7 +52,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151
 https://live4.telemicro.com.do/live/55/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telemicro.com.do/players/5tv/&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
-https://stream.elseis.do/canal6/live_1080.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
+https://stream.elseis.do/canal6/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://elseis.do&Origin=https://elseis.do
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://alba-do-antena7-antena7.stream.mediatiquestream.com/&Origin=https://alba-do-antena7-antena7.stream.mediatiquestream.com
@@ -148,7 +148,7 @@ https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8|User-Agent=Mozilla/5.
 https://rdn.essastream.com:3170/live/telenord8live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rdn.essastream.com:3170/&Origin=https://rdn.essastream.com:3170
 
 #EXTINF:-1 tvg-id="constanzatv8.do" tvg-name="Constanza TV Canal 8" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="📍 Locales RD",Constanza TV Canal 8
-https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
 
 #EXTINF:-1 tvg-id="telenord10.do" tvg-name="Telenord Canal 10" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/bb/Telenordcom_Logo_Oficial-04-bb000634.webp" group-title="📍 Locales RD",Telenord Canal 10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rdn.essastream.com:3676/&Origin=https://rdn.essastream.com:3676
@@ -394,7 +394,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8|User-Agent=Mozilla/5
 https://directos.mitele.es/orilinear11/live/linear11/main/main.isml/main-audio_spa=128000-video=1500000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://directos.mitele.es/&Origin=https://directos.mitele.es
 
 #EXTINF:-1 tvg-id="tvhispanic" tvg-name="TV Hispanic" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="🌍 Internacional",TV Hispanic
-https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://livetv.305streamhd.com:3504/&Origin=https://livetv.305streamhd.com:3504
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://livetv.305streamhd.com:3504/&Origin=https://livetv.305streamhd.com:3504
 
 #EXTINF:-1 tvg-id="canalonce" tvg-name="canalonce" tvg-logo="" group-title="🌍 Internacional",canalonce
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://canalonce.mx/REST/data/images/logoonce3-transparent.png&Origin=https://canalonce.mx

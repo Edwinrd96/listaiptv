@@ -100,8 +100,9 @@ https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://elseis.do
 #EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/live_1080.m3u8
+https://stream.elseis.do/canal6/master.m3u8
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -288,7 +289,7 @@ https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 
 #EXTINF:-1 tvg-id="constanzatv8.do" tvg-name="Constanza TV Canal 8" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="📍 Locales RD",Constanza TV Canal 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live20.bozztv.com/
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
@@ -774,7 +775,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_720p_high.m3u8
 https://directos.mitele.es/orilinear11/live/linear11/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 
 #EXTINF:-1 tvg-id="tvhispanic" tvg-name="TV Hispanic" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="🌍 Internacional",TV Hispanic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-referrer=https://livetv.305streamhd.com:3504/
 #EXTVLCOPT:http-reconnect=true
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
