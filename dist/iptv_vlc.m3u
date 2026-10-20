@@ -303,12 +303,6 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 
-#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live20.bozztv.com/
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
-
 #EXTINF:-1 tvg-id="noticias16.do" tvg-name="Noticias 16 Canal 16" tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="📍 Locales RD",Noticias 16 Canal 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.essastream.com:3457/
@@ -826,9 +820,8 @@ https://d24gnwkqxkyjln.cloudfront.net/out/v1/0e06e29a28df40318278e3c72e616ca0/in
 
 #EXTINF:-1 tvg-id="tvmas" tvg-name="TV Más" tvg-logo="https://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="🇲🇽 México",TV Más
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tvmas.mx/
 #EXTVLCOPT:http-reconnect=true
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvazteca" tvg-name="TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg" group-title="🇲🇽 México",TV Azteca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
