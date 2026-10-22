@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-10-22 21:33 UTC · 🔧 Visión TV: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/play → https://videostream.chileservidores.com:8081/tome/index (de https://iptv-org.github.io/iptv/countries/cl.m3u)
+- 2026-10-22 21:33 UTC · 🔧 TeleVida: https://tls-cl.cdnz.cl/televida/live/playlist.m3u8 → https://cnn.hostlagarto.com/televida/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-10-18 23:09 UTC · 🔧 Oromar TV: http://45.224.97.181:9999/Oromar/index.m3u8 → https://stream.oromar.tv/hls/camriva/index.m3u8 (de https://iptv-org.github.io/iptv/countries/ec.m3u)
 - 2026-10-18 23:09 UTC · 🔧 Visión TV: https://cloudvideo.servers10.com:8081/8016/index.m3u8 → https://lbgo.bozztv.com/ssh101/ssh101/visiononline/play (de https://iptv-org.github.io/iptv/countries/pe.m3u)
 - 2026-10-17 20:34 UTC · 🔧 TV Más: https://5ca9af4645e15.streamlock.net/rtv/videortv/playl → https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/pl (de https://iptv-org.github.io/iptv/countries/pe.m3u)
