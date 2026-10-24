@@ -159,6 +159,9 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8|User
 #EXTINF:-1 tvg-id="telenord12.do" tvg-name="Telenord Canal 12" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/bb/Telenordcom_Logo_Oficial-04-bb000634.webp" group-title="📍 Locales RD",Telenord Canal 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vdo1.streamgato.us:3345/&Origin=https://vdo1.streamgato.us:3345
 
+#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
+
 #EXTINF:-1 tvg-id="noticias16.do" tvg-name="Noticias 16 Canal 16" tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="📍 Locales RD",Noticias 16 Canal 16
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn.essastream.com:3457/&Origin=https://cdn.essastream.com:3457
 
@@ -274,7 +277,7 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8|User-Agent=Mozilla/5.0%2
 https://s2.tvdatta.com:3307/hybrid/play.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://s2.tvdatta.com:3307/&Origin=https://s2.tvdatta.com:3307
 
 #EXTINF:-1 tvg-id="elpuertotv.do" tvg-name="El Puerto TV" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="📍 Locales RD",El Puerto TV
-https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://5bf8041cb3fed.streamlock.net/&Origin=https://5bf8041cb3fed.streamlock.net
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5bf8041cb3fed.streamlock.net/&Origin=https://5bf8041cb3fed.streamlock.net
 
 #EXTINF:-1 tvg-id="fratatv.do" tvg-name="FRATA TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg" group-title="📍 Locales RD",FRATA TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn9.streamgato.us:3602/&Origin=https://cdn9.streamgato.us:3602
