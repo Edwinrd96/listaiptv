@@ -1,68 +1,68 @@
 # Estado de la lista
-Actualizado: 2026-10-25 23:15 UTC · 🟢 70 activos · 🔴 18 caídos · total 193
+Actualizado: 2026-10-26 04:42 UTC · 🟢 70 activos · 🔴 18 caídos · total 193
 
 | Canal | Grupo | Estado | Motivo | Último OK |
 |---|---|---|---|---|
-| La Voz de María | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| TeleVida | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Cristo Visión RD | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| EWTN | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| RTVD Diocesana | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| María Visión | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| TVCA El Salvador | ✝️ Religión | 🌎 no verificable desde GitHub | HTTP 503 | 2026-10-25T16:13:09 |
-| Monte María | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Tele VID HD | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Orbe 21 | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Cristo Visión (alterno) | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| María Visión (2) | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| TeleVida (2) | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Cristo Visión (2) | ✝️ Religión | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Ahora TV Canal 35 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| La Voz de María | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| TeleVida | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Cristo Visión RD | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| EWTN | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| RTVD Diocesana | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| María Visión | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| TVCA El Salvador | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Monte María | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Tele VID HD | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Orbe 21 | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Cristo Visión (alterno) | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| María Visión (2) | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| TeleVida (2) | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Cristo Visión (2) | ✝️ Religión | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Ahora TV Canal 35 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | RTVD Canal 4 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectTimeout (presupuesto agotado) | - |
-| Telemicro Canal 5 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| El Seis Canal 6 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Telemicro Canal 5 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| El Seis Canal 6 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Antena 7 Canal 7 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Color Visión Canal 9 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | HTTP 403 | 2026-10-04T16:50:57 |
-| Microvisión Canal 10 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Microvisión Canal 10 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Tele Antillas Canal 10 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | HTTP 403 | - |
 | Telesistema Canal 11 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | HTTP 403 | - |
-| Teleunión Canal 12 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Teleunión Canal 12 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telecentro Canal 13 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | HTTP 403 | 2026-10-07T00:41:50 |
-| Digital 15 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Digital 15 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | RTVD Canal 17 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectTimeout (presupuesto agotado) | - |
-| Telever | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Telever | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Antena Canal 21 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError | - |
 | XTRA TV | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Visión TV | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Canal del Sol 26 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Visión TV | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Canal del Sol 26 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | RNN Canal 27 | 🇩🇴 Dominicana | 🔴 caído | HTTP 404 | - |
 | CDN Canal 37 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | CTN Canal 35 | 🇩🇴 Dominicana | 🔴 caído | HTTP 404 | - |
-| VTV Canal 32 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| VTV Canal 32 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telecanal Canal 12 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | Teleuniverso Canal 29 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Cinevisión Canal 19 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Cinevisión Canal 19 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Onda TV Canal 30 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | Telemedio Canal 25 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | TVO Canal 42 | 🇩🇴 Dominicana | 🔴 caído | HTTP 404 | - |
 | Amé Canal 47 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | TNI Canal 51 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | Orbit TV Canal 52 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
-| Luna TV Canal 53 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Luna TV Canal 53 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | HAY TV Canal 57 | 🇩🇴 Dominicana | 🔴 caído | HTTP 404 | - |
 | LA MIA TV Canal 59 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
-| ZTV Canal 85 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| ZTV Canal 85 | 🇩🇴 Dominicana | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Sensación TV Canal 76 | 🇩🇴 Dominicana | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | Televiaducto Canal 3 | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
-| Delta TV Canal 3 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| TV Plata Canal 3 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Delta TV Canal 3 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| TV Plata Canal 3 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telenord Canal 8 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Constanza TV Canal 8 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Constanza TV Canal 8 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telenord Canal 10 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Vallevisión Canal 10 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Vallevisión Canal 10 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telenord Canal 12 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | Real TV Canal 14 | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
-| NuevaVisión Canal 14 | 📍 Locales RD | 🟠 falló 1/12 | HTTP 404 | - |
+| NuevaVisión Canal 14 | 📍 Locales RD | 🟠 falló 2/12 | HTTP 404 | - |
 | Noticias 16 Canal 16 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | Mega Cine TV Canal 17 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | Canal 18 TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
@@ -72,15 +72,15 @@ Actualizado: 2026-10-25 23:15 UTC · 🟢 70 activos · 🔴 18 caídos · total
 | Hermanas Mirabal Canal 33 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | COCO TV Canal 34 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | GH Television Canal 38 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Imagen Universal TV Canal 39 | 📍 Locales RD | 🟠 falló 9/12 | segmento HTTP 404 | 2026-10-24T04:32:35 |
-| Romana TV Canal 43 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Imagen Universal TV Canal 39 | 📍 Locales RD | 🟠 falló 10/12 | segmento HTTP 404 | 2026-10-24T04:32:35 |
+| Romana TV Canal 43 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | GDMTV Canal 44 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
-| Alcarrizo TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Alcarrizo TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Agenda 56 Canal 58 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Dijital 15 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Vega TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| TV Canal Sur | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Naranja TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Dijital 15 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Vega TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| TV Canal Sur | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Naranja TV | 📍 Locales RD | 🟠 falló 1/12 | HTTP 404 | 2026-10-25T23:14:43 |
 | MOCAVISION Canal 48 | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
 | TNE Canal 58 | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
 | Acento TV | 📍 Locales RD | 🌎 no verificable desde GitHub | SSLError | - |
@@ -88,90 +88,90 @@ Actualizado: 2026-10-25 23:15 UTC · 🟢 70 activos · 🔴 18 caídos · total
 | Bajo Techo TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | Crom TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | BellaVisión | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| AltantoTV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Cibaeña TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Guaymate TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| AltantoTV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Cibaeña TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Guaymate TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | San Isidro TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Telecontacto | 📍 Locales RD | 🟠 falló 2/12 | HTTP 404 | 2026-10-25T16:13:09 |
-| Galaxia TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Eco Visión | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Telecontacto | 📍 Locales RD | 🟠 falló 3/12 | HTTP 404 | 2026-10-25T16:13:09 |
+| Galaxia TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Eco Visión | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Morro TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError | - |
 | TV Montaña Constanza | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
 | RDN | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Puruwa TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Afortunadas TV | 📍 Locales RD | 🟠 falló 9/12 | HTTP 404 | 2026-10-24T04:32:35 |
-| Colimdotv | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Cotubanamatv | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Puruwa TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Afortunadas TV | 📍 Locales RD | 🟠 falló 10/12 | HTTP 404 | 2026-10-24T04:32:35 |
+| Colimdotv | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Cotubanamatv | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Cítrico TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| FMTV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| FMTV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Dimelo TV | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
-| El Puerto TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| El Puerto TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | FRATA TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | Red Social Codi | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
-| Gi Television | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Gi Television | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | NEXXO TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError | - |
 | TV MAX | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError | - |
 | KIDS TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError | - |
-| Oromar TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Oromar TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Channels Global TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
-| Alegre TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Alegre TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Televisión del Este | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Valle Nuevo | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Valle Nuevo | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | La Voz del Trópico | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
 | Ts Telesiglo | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | SEO TV Canal 86 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
 | FV3 TV Canal 55 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectionError (presupuesto agotado) | - |
-| Ready TV Canal 54 | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Ready TV Canal 54 | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Claro TV Dominicana Canal 60 | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| Fuego TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Fuego TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telenovisa | 📍 Locales RD | 🔴 caído | HTTP 404 | - |
 | Somos Topo Point TV | 📍 Locales RD | 🌎 no verificable desde GitHub | ConnectTimeout | - |
-| VALE TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| VALE TV | 📍 Locales RD | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Tastemade | 📍 Locales RD | 🌎 no verificable desde GitHub | HTTP 502 | - |
 | CNN en Español | 🌐 Noticias Internacionales | 🌎 no verificable desde GitHub | ConnectionError | - |
-| DW Español | 🌐 Noticias Internacionales | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| DW Español | 🌐 Noticias Internacionales | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | France 24 Español | 🌐 Noticias Internacionales | 🌎 no verificable desde GitHub | HTTP 400 | - |
-| RT en Español | 🌐 Noticias Internacionales | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| RT en Español | 🌐 Noticias Internacionales | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | ZAZ Noticias | 📰 Noticias | 🌎 no verificable desde GitHub | HTTP 400 | - |
 | Oxígeno | 🎬 Documentales | 🔴 caído | HTTP 404 | - |
-| Love The Planet | 🎬 Documentales | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Love Wine | 🎬 Documentales | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Love The Planet | 🎬 Documentales | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Love Wine | 🎬 Documentales | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Toonz Niños | 👶 Infantil | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Toon Goggles | 👶 Infantil | 🌎 no verificable desde GitHub | HTTP 400 | - |
 | Romance Channel | 🎭 Entretenimiento | 🌎 no verificable desde GitHub | ConnectionError | - |
-| Xtrema Acción | 🎭 Entretenimiento | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Xtrema Acción | 🎭 Entretenimiento | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Teleclásica | 🎭 Entretenimiento | 🌎 no verificable desde GitHub | ConnectionError | - |
-| AZTV | 🎭 Entretenimiento | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Platzi TV | 🎭 Entretenimiento | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| HispanTV | 🌍 Internacional | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Ecuavisa | 🌍 Internacional | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| Azteca | 🌍 Internacional | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| AZTV | 🎭 Entretenimiento | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Platzi TV | 🎭 Entretenimiento | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| HispanTV | 🌍 Internacional | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Ecuavisa | 🌍 Internacional | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| Azteca | 🌍 Internacional | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Boing España | 🌍 Internacional | 🌎 no verificable desde GitHub | HTTP 403 | - |
-| TV Hispanic | 🌍 Internacional | 🟢 activo | ok | 2026-10-25T23:14:43 |
-| canalonce | 🌍 Internacional | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| TV Hispanic | 🌍 Internacional | 🟢 activo | ok | 2026-10-26T04:42:23 |
+| canalonce | 🌍 Internacional | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Estrella TV | 🇺🇸 USA Latino | 🌎 no verificable desde GitHub | HTTP 400 | - |
 | Antena 3 USA | 🇺🇸 USA Latino | 🔴 caído | HTTP 404 | - |
 | El Heraldo TV | 🇲🇽 México | 🔴 caído | HTTP 404 | - |
-| Imagen Televisión | 🇲🇽 México | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Imagen Televisión | 🇲🇽 México | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Foro TV | 🇲🇽 México | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Azteca Noticias | 🇲🇽 México | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Canal Las Estrellas | 🇲🇽 México | 🌎 no verificable desde GitHub | HTTP 400 | - |
 | Azteca Uno | 🇲🇽 México | 🌎 no verificable desde GitHub | HTTP 403 | - |
 | Azteca 7 | 🇲🇽 México | 🌎 no verificable desde GitHub | HTTP 403 | - |
 | Once TV México | 🇲🇽 México | 🌎 no verificable desde GitHub | ConnectionError | - |
-| TV Más | 🇲🇽 México | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| TV Más | 🇲🇽 México | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | TV Azteca | 🇲🇽 México | 🌎 no verificable desde GitHub | HTTP 502 | - |
 | Canal RCN | 🇨🇴 Colombia | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Canal 1 Colombia | 🇨🇴 Colombia | 🌎 no verificable desde GitHub | ConnectionError | - |
 | NTN24 | 🇨🇴 Colombia | 🌎 no verificable desde GitHub | ConnectionError | - |
-| Caracol TV | 🇨🇴 Colombia | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| Caracol TV | 🇨🇴 Colombia | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | RCN Colombia | 🇨🇴 Colombia | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Señal Colombia | 🇨🇴 Colombia | 🌎 no verificable desde GitHub | ConnectionError | - |
 | TeleSUR (2) | 🇨🇴 Colombia | 🌎 no verificable desde GitHub | HTTP 502 | - |
 | C5N | 🇦🇷 Argentina | 🌎 no verificable desde GitHub | ConnectionError | - |
 | TN Todo Noticias | 🇦🇷 Argentina | 🌎 no verificable desde GitHub | ConnectionError | - |
 | TV Pública Argentina | 🇦🇷 Argentina | 🌎 no verificable desde GitHub | SSLError | - |
-| El Trece Argentina | 🇦🇷 Argentina | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| El Trece Argentina | 🇦🇷 Argentina | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Telefe Argentina | 🇦🇷 Argentina | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Todo Noticias TN | 🇦🇷 Argentina | 🔴 caído | HTTP 404 | - |
 | C5N Argentina | 🇦🇷 Argentina | 🌎 no verificable desde GitHub | ConnectionError | - |
@@ -179,7 +179,7 @@ Actualizado: 2026-10-25 23:15 UTC · 🟢 70 activos · 🔴 18 caídos · total
 | RTVE 24h Noticias | 🇪🇸 España | 🌎 no verificable desde GitHub | ConnectionError | - |
 | TeleSur | 🇪🇸 España | 🌎 no verificable desde GitHub | ConnectionError | - |
 | RTVE La 1 (2) | 🇪🇸 España | 🌎 no verificable desde GitHub | segmento HTTP 403 | - |
-| RTVE La 2 | 🇪🇸 España | 🟢 activo | ok | 2026-10-25T23:14:43 |
+| RTVE La 2 | 🇪🇸 España | 🟢 activo | ok | 2026-10-26T04:42:23 |
 | Antena 3 España | 🇪🇸 España | 🌎 no verificable desde GitHub | ConnectionError | - |
 | Cuatro España | 🇪🇸 España | 🌎 no verificable desde GitHub | HTTP 403 | - |
 | 24 Horas TVN | 🇨🇱 Chile | 🌎 no verificable desde GitHub | ConnectionError | - |

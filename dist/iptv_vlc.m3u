@@ -34,7 +34,7 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
 
 #EXTINF:-1 tvg-id="tvcaelsalvador.org" tvg-name="TVCA El Salvador" tvg-logo="https://e37379c613.clvaw-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200001100-5dfbe5dfc0/700/Logo%20Hostia%20TVCa-4.webp" group-title="✝️ Religión",TVCA El Salvador
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA 4K GB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcaelsalvador.org/
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
