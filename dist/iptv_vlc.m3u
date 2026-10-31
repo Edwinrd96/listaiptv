@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-name="La Voz de María" tvg-logo="https://lavozdemaria.org/wp-content/uploads/2024/10/Logo.png" group-title="✝️ Religión",La Voz de María
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://lavozdemaria.org/
 #EXTVLCOPT:http-reconnect=true
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
@@ -309,6 +309,12 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 
+#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live20.bozztv.com/
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="noticias16.do" tvg-name="Noticias 16 Canal 16" tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="📍 Locales RD",Noticias 16 Canal 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdn.essastream.com:3457/
@@ -460,7 +466,7 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="guaymatetv.do" tvg-name="Guaymate TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="📍 Locales RD",Guaymate TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 
@@ -826,9 +832,8 @@ https://d24gnwkqxkyjln.cloudfront.net/out/v1/0e06e29a28df40318278e3c72e616ca0/in
 
 #EXTINF:-1 tvg-id="tvmas" tvg-name="TV Más" tvg-logo="https://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="🇲🇽 México",TV Más
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tvmas.mx/
 #EXTVLCOPT:http-reconnect=true
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvazteca" tvg-name="TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg" group-title="🇲🇽 México",TV Azteca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36

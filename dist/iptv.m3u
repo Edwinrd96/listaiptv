@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-name="La Voz de María" tvg-logo="https://lavozdemaria.org/wp-content/uploads/2024/10/Logo.png" group-title="✝️ Religión",La Voz de María
-https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://lavozdemaria.org/&Origin=https://lavozdemaria.org
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager&Referer=https://lavozdemaria.org/&Origin=https://lavozdemaria.org
 
 #EXTINF:-1 tvg-id="televida" tvg-name="TeleVida" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="✝️ Religión",TeleVida
 https://cnn.hostlagarto.com/televida/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
@@ -159,6 +159,9 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8|User
 #EXTINF:-1 tvg-id="telenord12.do" tvg-name="Telenord Canal 12" tvg-logo="https://www.telenord.com.do/templates/yootheme/cache/bb/Telenordcom_Logo_Oficial-04-bb000634.webp" group-title="📍 Locales RD",Telenord Canal 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vdo1.streamgato.us:3345/&Origin=https://vdo1.streamgato.us:3345
 
+#EXTINF:-1 tvg-id="nuevavision14.do" tvg-name="NuevaVisión Canal 14" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-14-17-49-34-scaled.jpg?resize=1536%2C1287&ssl=1" group-title="📍 Locales RD",NuevaVisión Canal 14
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live20.bozztv.com/&Origin=https://live20.bozztv.com
+
 #EXTINF:-1 tvg-id="noticias16.do" tvg-name="Noticias 16 Canal 16" tvg-logo="https://noticias16.com.do/wp-content/uploads/2021/11/cropped-Logo-N16-2-5.jpg" group-title="📍 Locales RD",Noticias 16 Canal 16
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn.essastream.com:3457/&Origin=https://cdn.essastream.com:3457
 
@@ -235,7 +238,7 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8|User-Agent=Mozilla/5.0%20%28
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streamunoapp.com:3958/&Origin=https://streamunoapp.com:3958
 
 #EXTINF:-1 tvg-id="guaymatetv.do" tvg-name="Guaymate TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="📍 Locales RD",Guaymate TV
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36
 
 #EXTINF:-1 tvg-id="sanisidrotv.do" tvg-name="San Isidro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG_4LtXkLLe2e6BrOn_Pe4TzOuOhPyLmIhg&s" group-title="📍 Locales RD",San Isidro TV
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rdn.essastream.com:3160/&Origin=https://rdn.essastream.com:3160
@@ -421,7 +424,7 @@ https://azt-mun.otteravision.com/azt/7/7_720p_high.m3u8|User-Agent=Mozilla/5.0%2
 https://d24gnwkqxkyjln.cloudfront.net/out/v1/0e06e29a28df40318278e3c72e616ca0/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://oncetv.ipn.mx/en-vivo&Origin=https://oncetv.ipn.mx
 
 #EXTINF:-1 tvg-id="tvmas" tvg-name="TV Más" tvg-logo="https://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="🇲🇽 México",TV Más
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.tvmas.mx/&Origin=https://www.tvmas.mx
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="tvazteca" tvg-name="TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg" group-title="🇲🇽 México",TV Azteca
 https://iptvedwin.edwinrd01.workers.dev/azteca/6a5edb21023aba100ce35791.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://envivo.tvazteca.com/&Origin=https://envivo.tvazteca.com
