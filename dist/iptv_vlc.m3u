@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="lavozdemariatv.org" tvg-name="La Voz de María" tvg-logo="https://lavozdemaria.org/wp-content/uploads/2024/10/Logo.png" group-title="✝️ Religión",La Voz de María
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lavozdemaria.org/
 #EXTVLCOPT:http-reconnect=true
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
@@ -286,7 +286,7 @@ https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 
 #EXTINF:-1 tvg-id="constanzatv8.do" tvg-name="Constanza TV Canal 8" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="📍 Locales RD",Constanza TV Canal 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live20.bozztv.com/
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
