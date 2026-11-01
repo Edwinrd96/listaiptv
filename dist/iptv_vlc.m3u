@@ -653,7 +653,7 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
 
 #EXTINF:-1 tvg-id="valetv.do" tvg-name="VALE TV" tvg-logo="https://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png" group-title="📍 Locales RD",VALE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-referrer=https://59d39900ebfb8.streamlock.net/
 #EXTVLCOPT:http-reconnect=true
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
