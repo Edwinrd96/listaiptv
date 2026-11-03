@@ -394,7 +394,7 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 #EXTINF:-1 tvg-id="dijital15.do" tvg-name="Dijital 15" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="📍 Locales RD",Dijital 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://190.122.104.210:5080/
 #EXTVLCOPT:http-reconnect=true
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
@@ -460,7 +460,7 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="guaymatetv.do" tvg-name="Guaymate TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="📍 Locales RD",Guaymate TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 

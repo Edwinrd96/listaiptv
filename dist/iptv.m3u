@@ -202,7 +202,7 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8|Use
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloudflare.streamgato.us:3148/&Origin=https://cloudflare.streamgato.us:3148
 
 #EXTINF:-1 tvg-id="dijital15.do" tvg-name="Dijital 15" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="📍 Locales RD",Dijital 15
-http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://190.122.104.210:5080/&Origin=https://190.122.104.210:5080
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://190.122.104.210:5080/&Origin=https://190.122.104.210:5080
 
 #EXTINF:-1 tvg-id="vegatv.do" tvg-name="Vega TV" tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="📍 Locales RD",Vega TV
 https://cloud6.livescast.com:3797/live/vegatevelive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloud6.livescast.com:3797/&Origin=https://cloud6.livescast.com:3797
@@ -235,7 +235,7 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8|User-Agent=Mozilla/5.0%20%28
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streamunoapp.com:3958/&Origin=https://streamunoapp.com:3958
 
 #EXTINF:-1 tvg-id="guaymatetv.do" tvg-name="Guaymate TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="📍 Locales RD",Guaymate TV
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36
 
 #EXTINF:-1 tvg-id="sanisidrotv.do" tvg-name="San Isidro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG_4LtXkLLe2e6BrOn_Pe4TzOuOhPyLmIhg&s" group-title="📍 Locales RD",San Isidro TV
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rdn.essastream.com:3160/&Origin=https://rdn.essastream.com:3160
