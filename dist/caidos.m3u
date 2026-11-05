@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Edwinrd96/listaiptv/main/dist/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="tvcaelsalvador.org" tvg-name="TVCA El Salvador" tvg-logo="https://e37379c613.clvaw-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200001100-5dfbe5dfc0/700/Logo%20Hostia%20TVCa-4.webp" group-title="✝️ Religión",TVCA El Salvador
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://tvcaelsalvador.org/&Origin=https://tvcaelsalvador.org
-
 #EXTINF:-1 tvg-id="rnn27.do" tvg-name="RNN Canal 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="🇩🇴 Dominicana",RNN Canal 27
 https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rnn.com.do&Origin=https://rnn.com.do
 
@@ -35,9 +32,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/chunks.m3u8|User-Agent
 
 #EXTINF:-1 tvg-id="redsocialcodi.do" tvg-name="Red Social Codi" tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="📍 Locales RD",Red Social Codi
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
-
-#EXTINF:-1 tvg-id="seotv86.do" tvg-name="SEO TV Canal 86" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="📍 Locales RD",SEO TV Canal 86
-https://seo.tv.bo/tv/SEO-TV-1.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://seo.tv.bo/&Origin=https://seo.tv.bo
 
 #EXTINF:-1 tvg-id="telesiglo.do" tvg-name="Telenovisa" tvg-logo="https://telenovisa43.com/wp-content/uploads/2022/07/TELENOVISA-43-VERSION-2.png" group-title="📍 Locales RD",Telenovisa
 https://stream.castr.com/6596360f8738a7e5762486ef/live_8e600750ebb511ee90c173bee1197da0/tracks-a1/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://stream.castr.com/&Origin=https://stream.castr.com

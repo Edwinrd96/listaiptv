@@ -33,6 +33,12 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 #EXTVLCOPT:http-reconnect=true
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
 
+#EXTINF:-1 tvg-id="tvcaelsalvador.org" tvg-name="TVCA El Salvador" tvg-logo="https://e37379c613.clvaw-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200001100-5dfbe5dfc0/700/Logo%20Hostia%20TVCa-4.webp" group-title="✝️ Religión",TVCA El Salvador
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcaelsalvador.org/
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+
 #EXTINF:-1 tvg-id="montemaria" tvg-name="Monte María" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="✝️ Religión",Monte María
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://conceptoweb-studio.com/
@@ -70,7 +76,7 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://5fc584f3f19c9.streamlock.net/
 #EXTVLCOPT:http-reconnect=true
-https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/chunklist_w665690386_DVR.m3u8
 
 #EXTINF:-1 tvg-id="ahoratv.do" tvg-name="Ahora TV Canal 35" tvg-logo="https://storage.googleapis.com/proceso-storage/atv/Ahora%20TV%20-%20Logo%20Original.png" group-title="🇩🇴 Dominicana",Ahora TV Canal 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -611,6 +617,12 @@ https://ss2.domint.net:3226/vttv_str/tropicotv/chunklist_w1832586441.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
+#EXTINF:-1 tvg-id="seotv86.do" tvg-name="SEO TV Canal 86" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="📍 Locales RD",SEO TV Canal 86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://seo.tv.bo/
+#EXTVLCOPT:http-reconnect=true
+https://seo.tv.bo/tv/SEO-TV-1.m3u8
+
 #EXTINF:-1 tvg-id="fv3tv55.do" tvg-name="FV3 TV Canal 55" tvg-logo="https://cdn.teleon.tv/logo/TV-Montana-Canal-10.jpg" group-title="📍 Locales RD",FV3 TV Canal 55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ss3.domint.net:3102/
@@ -819,9 +831,10 @@ https://azt-mun.otteravision.com/azt/7/7_720p_high.m3u8
 https://d24gnwkqxkyjln.cloudfront.net/out/v1/0e06e29a28df40318278e3c72e616ca0/index.m3u8
 
 #EXTINF:-1 tvg-id="tvmas" tvg-name="TV Más" tvg-logo="https://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="🇲🇽 México",TV Más
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tvmas.mx/
 #EXTVLCOPT:http-reconnect=true
-https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvazteca" tvg-name="TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg" group-title="🇲🇽 México",TV Azteca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
