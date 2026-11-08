@@ -34,7 +34,7 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
 
 #EXTINF:-1 tvg-id="tvcaelsalvador.org" tvg-name="TVCA El Salvador" tvg-logo="https://e37379c613.clvaw-cdnwnd.com/8191f8fb2663827d6832f15f6cac7288/200001100-5dfbe5dfc0/700/Logo%20Hostia%20TVCa-4.webp" group-title="✝️ Religión",TVCA El Salvador
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcaelsalvador.org/
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
@@ -98,8 +98,9 @@ https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://elseis.do
 #EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/live_1080.m3u8
+https://stream.elseis.do/canal6/master.m3u8
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -176,7 +177,7 @@ https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 #EXTINF:-1 tvg-id="visiontv.do" tvg-name="Visión TV" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="🇩🇴 Dominicana",Visión TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
+https://videostream.chileservidores.com:8081/tome/index.m3u8
 
 #EXTINF:-1 tvg-id="canaldelsol.com" tvg-name="Canal del Sol 26" tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="🇩🇴 Dominicana",Canal del Sol 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
