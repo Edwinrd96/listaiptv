@@ -617,12 +617,6 @@ https://ss2.domint.net:3226/vttv_str/tropicotv/chunklist_w1832586441.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
-#EXTINF:-1 tvg-id="seotv86.do" tvg-name="SEO TV Canal 86" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="📍 Locales RD",SEO TV Canal 86
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://seo.tv.bo/
-#EXTVLCOPT:http-reconnect=true
-https://seo.tv.bo/tv/SEO-TV-1.m3u8
-
 #EXTINF:-1 tvg-id="fv3tv55.do" tvg-name="FV3 TV Canal 55" tvg-logo="https://cdn.teleon.tv/logo/TV-Montana-Canal-10.jpg" group-title="📍 Locales RD",FV3 TV Canal 55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ss3.domint.net:3102/
