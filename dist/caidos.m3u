@@ -24,6 +24,9 @@ https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de
 #EXTINF:-1 tvg-id="tne58.do" tvg-name="TNE Canal 58" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",TNE Canal 58
 https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
 
+#EXTINF:-1 tvg-id="guaymatetv.do" tvg-name="Guaymate TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpzmPZRxmb7qfJ8wobWgGnRQHzGMmoVFYbImuUKW2tOqywCmqic75UkSmxCDTbKuwe5eC6cY8jfbWJhDkOCktez0m3kS703TlsJWWhWdiDZTnsbg4BXlxnvs8rzebHaVbKBfTU9PWnzMJsy2jdRswcgzO-Wub0NmK8GskvGah9uFEtjHQW5OqZsguTTA/s200/GuaymateTV.png" group-title="📍 Locales RD",Guaymate TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36
+
 #EXTINF:-1 tvg-id="redsocialcodi.do" tvg-name="Red Social Codi" tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="📍 Locales RD",Red Social Codi
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
 
