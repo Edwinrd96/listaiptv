@@ -176,7 +176,7 @@ https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 #EXTINF:-1 tvg-id="visiontv.do" tvg-name="Visión TV" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="🇩🇴 Dominicana",Visión TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
+https://videostream.chileservidores.com:8081/tome/index.m3u8
 
 #EXTINF:-1 tvg-id="canaldelsol.com" tvg-name="Canal del Sol 26" tvg-logo="https://canaldelsol.com/img/logo-canaldelsol.png" group-title="🇩🇴 Dominicana",Canal del Sol 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -743,7 +743,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="platziTV" tvg-name="Platzi TV" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="🎭 Entretenimiento",Platzi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mdstrm.com/
 #EXTVLCOPT:http-reconnect=true
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -833,8 +833,9 @@ https://d24gnwkqxkyjln.cloudfront.net/out/v1/0e06e29a28df40318278e3c72e616ca0/in
 
 #EXTINF:-1 tvg-id="tvmas" tvg-name="TV Más" tvg-logo="https://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="🇲🇽 México",TV Más
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tvmas.mx/
 #EXTVLCOPT:http-reconnect=true
-https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvazteca" tvg-name="TV Azteca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Azteca_Uno_2018.svg" group-title="🇲🇽 México",TV Azteca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
