@@ -276,9 +276,6 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8|User-Agent=Mozilla/5.0%2
 #EXTINF:-1 tvg-id="fmtv.do" tvg-name="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="📍 Locales RD",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://s2.tvdatta.com:3307/&Origin=https://s2.tvdatta.com:3307
 
-#EXTINF:-1 tvg-id="dimetv.do" tvg-name="Dimelo TV" tvg-logo="https://lh3.googleusercontent.com/a-/AD_cMMTR4KlhKu1aScaEbmrWH7aQPEl0O7grp6E2-Npd=w60-h60-p-rp-mo-br100" group-title="📍 Locales RD",Dimelo TV
-https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloud2.streaminglivehd.com:19360/&Origin=https://cloud2.streaminglivehd.com:19360
-
 #EXTINF:-1 tvg-id="elpuertotv.do" tvg-name="El Puerto TV" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="📍 Locales RD",El Puerto TV
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5bf8041cb3fed.streamlock.net/&Origin=https://5bf8041cb3fed.streamlock.net
 
@@ -481,7 +478,7 @@ https://cdn2.telesur.ultravideos.com/videos/telesurMedium@601641/index.m3u8|User
 https://ztnr.rtve.es/ztnr/1688877.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.rtve.es/directo/la-1&Origin=https://www.rtve.es
 
 #EXTINF:-1 tvg-id="rtve.es-2" tvg-name="RTVE La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/La_2_2021.svg/200px-La_2_2021.svg.png" group-title="🇪🇸 España",RTVE La 2
-https://ztnr.rtve.es/ztnr/1688878.m3u8|User-Agent=Mozilla/5.0%20%28Linux%3B%20Android%2011%3B%20BRAVIA%204K%20GB%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/110.0.0.0%20Safari/537.36&Referer=https://www.rtve.es/directo/la-2&Origin=https://www.rtve.es
+https://ztnr.rtve.es/ztnr/1688878.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.rtve.es/directo/la-2&Origin=https://www.rtve.es
 
 #EXTINF:-1 tvg-id="antena3.com" tvg-name="Antena 3 España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Antena_3_logo_2022.svg/200px-Antena_3_logo_2022.svg.png" group-title="🇪🇸 España",Antena 3 España
 https://directos.atresmedia.com/antena3/live/antena3/main/main.isml/main-audio_spa=128000-video=2000000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://www.antena3.com/directo/antena3&Origin=https://www.antena3.com
