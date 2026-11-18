@@ -52,7 +52,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151
 https://live4.telemicro.com.do/live/55/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telemicro.com.do/players/5tv/&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
-https://stream.elseis.do/canal6/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://elseis.do&Origin=https://elseis.do
+https://stream.elseis.do/canal6/live_1080.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://alba-do-antena7-antena7.stream.mediatiquestream.com/&Origin=https://alba-do-antena7-antena7.stream.mediatiquestream.com
@@ -278,9 +278,6 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8|User-Agent=Mozilla/5.0%2
 
 #EXTINF:-1 tvg-id="fmtv.do" tvg-name="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="📍 Locales RD",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://s2.tvdatta.com:3307/&Origin=https://s2.tvdatta.com:3307
-
-#EXTINF:-1 tvg-id="elpuertotv.do" tvg-name="El Puerto TV" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="📍 Locales RD",El Puerto TV
-https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5bf8041cb3fed.streamlock.net/&Origin=https://5bf8041cb3fed.streamlock.net
 
 #EXTINF:-1 tvg-id="fratatv.do" tvg-name="FRATA TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg" group-title="📍 Locales RD",FRATA TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn9.streamgato.us:3602/&Origin=https://cdn9.streamgato.us:3602

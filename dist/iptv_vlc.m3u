@@ -100,9 +100,8 @@ https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://elseis.do
 #EXTVLCOPT:http-reconnect=true
-https://stream.elseis.do/canal6/master.m3u8
+https://stream.elseis.do/canal6/live_1080.m3u8
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -550,12 +549,6 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 #EXTVLCOPT:http-referrer=https://s2.tvdatta.com:3307/
 #EXTVLCOPT:http-reconnect=true
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="elpuertotv.do" tvg-name="El Puerto TV" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="📍 Locales RD",El Puerto TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://5bf8041cb3fed.streamlock.net/
-#EXTVLCOPT:http-reconnect=true
-https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fratatv.do" tvg-name="FRATA TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg" group-title="📍 Locales RD",FRATA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
