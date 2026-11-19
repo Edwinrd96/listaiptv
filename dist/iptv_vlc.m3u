@@ -93,7 +93,7 @@ https://stream.haislin.com/ahoratv/index.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151012015_b4628000.m3u8
 
 #EXTINF:-1 tvg-id="telemicro5.do" tvg-name="Telemicro Canal 5" tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_3.png" group-title="🇩🇴 Dominicana",Telemicro Canal 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 #EXTVLCOPT:http-reconnect=true
 https://live4.telemicro.com.do/live/55/playlist.m3u8
