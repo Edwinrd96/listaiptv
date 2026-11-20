@@ -1,5 +1,7 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-11-20 02:18 UTC · 🔧 María Visión (2): https://soportedvb.click:3877/live/merlavisionlive.m3u8 → https://edge.essastream.com/miavisiontv/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
+- 2026-11-20 02:18 UTC · 🔧 María Visión: https://soportedvb.click:3877/live/merlavisionlive.m3u8 → https://edge.essastream.com/miavisiontv/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-11-17 07:51 UTC · 🔧 Guaymate TV: https://live20.bozztv.com/akamaissh101/ssh101/guaymatet → https://183.giatvcdn.com/ssh101/ssh101/guaymatetv/playl (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-10-22 21:33 UTC · 🔧 Visión TV: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/play → https://videostream.chileservidores.com:8081/tome/index (de https://iptv-org.github.io/iptv/countries/cl.m3u)
 - 2026-10-22 21:33 UTC · 🔧 TeleVida: https://tls-cl.cdnz.cl/televida/live/playlist.m3u8 → https://cnn.hostlagarto.com/televida/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)

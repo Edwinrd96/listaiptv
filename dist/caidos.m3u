@@ -12,6 +12,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8|User-Agent=Mo
 #EXTINF:-1 tvg-id="haytv57.do" tvg-name="HAY TV Canal 57" tvg-logo="https://image.roku.com/developer_channels/prod/6905d1d23b7032346b727e04f91e52985cd1dfdd4d4b26aaee89e0305c25d64c.png" group-title="🇩🇴 Dominicana",HAY TV Canal 57
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1603896522.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5790d294af2dc.streamlock.net/&Origin=https://5790d294af2dc.streamlock.net
 
+#EXTINF:-1 tvg-id="ztv85.do" tvg-name="ZTV Canal 85" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="🇩🇴 Dominicana",ZTV Canal 85
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://lb00zdigital.streamprolive.com/&Origin=https://lb00zdigital.streamprolive.com
+
 #EXTINF:-1 tvg-id="televiaducto3.do" tvg-name="Televiaducto Canal 3" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Televiaducto Canal 3
 https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
 
