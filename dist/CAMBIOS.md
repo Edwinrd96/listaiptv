@@ -1,5 +1,6 @@
 # Cambios automáticos (URLs reparadas, canales agregados)
 
+- 2026-11-21 10:57 UTC · 🔧 Dijital 15: http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8 → https://live2.telemicro.com.do/live/digital15cast_1080p (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-11-20 02:18 UTC · 🔧 María Visión (2): https://soportedvb.click:3877/live/merlavisionlive.m3u8 → https://edge.essastream.com/miavisiontv/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-11-20 02:18 UTC · 🔧 María Visión: https://soportedvb.click:3877/live/merlavisionlive.m3u8 → https://edge.essastream.com/miavisiontv/playlist.m3u8 (de https://iptv-org.github.io/iptv/countries/do.m3u)
 - 2026-11-17 07:51 UTC · 🔧 Guaymate TV: https://live20.bozztv.com/akamaissh101/ssh101/guaymatet → https://183.giatvcdn.com/ssh101/ssh101/guaymatetv/playl (de https://iptv-org.github.io/iptv/countries/do.m3u)
