@@ -21,6 +21,9 @@ https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c41013
 #EXTINF:-1 tvg-id="realTV14.do" tvg-name="Real TV Canal 14" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",Real TV Canal 14
 https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
 
+#EXTINF:-1 tvg-id="vegatv.do" tvg-name="Vega TV" tvg-logo="https://vegateve.com/wp-content/uploads/2023/10/cropped-LOGO_VEGATEVEWEB-horizontal-160x43.png" group-title="📍 Locales RD",Vega TV
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloud6.livescast.com:3797/&Origin=https://cloud6.livescast.com:3797
+
 #EXTINF:-1 tvg-id="mocavision.do" tvg-name="MOCAVISION Canal 48" tvg-logo="https://www.televiaducto.com.do/images/A.png" group-title="📍 Locales RD",MOCAVISION Canal 48
 https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://player.castr.com/&Origin=https://player.castr.com
 
