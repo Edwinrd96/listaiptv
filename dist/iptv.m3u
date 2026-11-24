@@ -273,6 +273,9 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8|User-Agent=Mozilla/5.0%2
 #EXTINF:-1 tvg-id="fmtv.do" tvg-name="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="📍 Locales RD",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://s2.tvdatta.com:3307/&Origin=https://s2.tvdatta.com:3307
 
+#EXTINF:-1 tvg-id="elpuertotv.do" tvg-name="El Puerto TV" tvg-logo="https://elpuerto.tv/wp-content/uploads/2020/09/Logo-el-3.jpg" group-title="📍 Locales RD",El Puerto TV
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5bf8041cb3fed.streamlock.net/&Origin=https://5bf8041cb3fed.streamlock.net
+
 #EXTINF:-1 tvg-id="fratatv.do" tvg-name="FRATA TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg" group-title="📍 Locales RD",FRATA TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn9.streamgato.us:3602/&Origin=https://cdn9.streamgato.us:3602
 
