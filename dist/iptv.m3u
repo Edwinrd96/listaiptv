@@ -43,7 +43,7 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8|User-Agent=Mozilla/5.0%20%28W
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://5fc584f3f19c9.streamlock.net/&Origin=https://5fc584f3f19c9.streamlock.net
 
 #EXTINF:-1 tvg-id="ahoratv.do" tvg-name="Ahora TV Canal 35" tvg-logo="https://storage.googleapis.com/proceso-storage/atv/Ahora%20TV%20-%20Logo%20Original.png" group-title="🇩🇴 Dominicana",Ahora TV Canal 35
-https://stream.haislin.com/ahoratv/index.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://ahoratv.com.do&Origin=https://ahoratv.com.do
+https://stream.haislin.com/ahoratv/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ahoratv.com.do&Origin=https://ahoratv.com.do
 
 #EXTINF:-1 tvg-id="rtvd4.do" tvg-name="RTVD Canal 4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-1.webp" group-title="🇩🇴 Dominicana",RTVD Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151012015_b4628000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://rtvd.gob.do&Origin=https://rtvd.gob.do
