@@ -52,7 +52,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1151
 https://live4.telemicro.com.do/live/55/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://telemicro.com.do/players/5tv/&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="elseis.do" tvg-name="El Seis Canal 6" tvg-logo="https://elseis.do/img/logo-header.png" group-title="🇩🇴 Dominicana",El Seis Canal 6
-https://stream.elseis.do/canal6/live_1080.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
+https://stream.elseis.do/canal6/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://elseis.do&Origin=https://elseis.do
 
 #EXTINF:-1 tvg-id="antena7.do" tvg-name="Antena 7 Canal 7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="🇩🇴 Dominicana",Antena 7 Canal 7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://alba-do-antena7-antena7.stream.mediatiquestream.com/&Origin=https://alba-do-antena7-antena7.stream.mediatiquestream.com
@@ -256,7 +256,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/chunks.m3u8|User-Agent
 https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vdo2.streamgato.us:3278/&Origin=https://vdo2.streamgato.us:3278
 
 #EXTINF:-1 tvg-id="puruwatv.do" tvg-name="Puruwa TV" tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="📍 Locales RD",Puruwa TV
-https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://live.tvcontrolcp.com:1936/&Origin=https://live.tvcontrolcp.com:1936
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Web0S%3B%20Linux/SmartTV%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/94.0.4606.128%20Safari/537.36%20WebAppManager&Referer=https://live.tvcontrolcp.com:1936/&Origin=https://live.tvcontrolcp.com:1936
 
 #EXTINF:-1 tvg-id="afortunadastv.do" tvg-name="Afortunadas TV" tvg-logo="https://www.afortunadastv.com/wp-content/uploads/2022/03/AFOTUNADASTVLOGO-svg.svg" group-title="📍 Locales RD",Afortunadas TV
 https://cloudvideo.servers10.com:8081/8108/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cloudvideo.servers10.com:8081/&Origin=https://cloudvideo.servers10.com:8081
@@ -278,6 +278,9 @@ https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8|User-Agent=
 
 #EXTINF:-1 tvg-id="fratatv.do" tvg-name="FRATA TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg" group-title="📍 Locales RD",FRATA TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn9.streamgato.us:3602/&Origin=https://cdn9.streamgato.us:3602
+
+#EXTINF:-1 tvg-id="redsocialcodi.do" tvg-name="Red Social Codi" tvg-logo="https://redsocialcodi.com/wp-content/uploads/2019/09/codir-1.jpg" group-title="📍 Locales RD",Red Social Codi
+https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://video.misistemareseller.com/&Origin=https://video.misistemareseller.com
 
 #EXTINF:-1 tvg-id="gitelevision.do" tvg-name="Gi Television" tvg-logo="https://pbs.twimg.com/profile_images/1166758516037705728/CH6P91Fv_400x400.png" group-title="📍 Locales RD",Gi Television
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36
@@ -311,6 +314,9 @@ https://ss2.domint.net:3226/vttv_str/tropicotv/chunklist_w1832586441.m3u8|User-A
 
 #EXTINF:-1 tvg-id="tstelesiglo.do" tvg-name="Ts Telesiglo" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipPY5Tm57fdw-vnKVt_tbV5AUQFeH2qpb2pNb8zt=w600-h321-p-k-no" group-title="📍 Locales RD",Ts Telesiglo
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://vdo2.streamgato.us:3562/&Origin=https://vdo2.streamgato.us:3562
+
+#EXTINF:-1 tvg-id="seotv86.do" tvg-name="SEO TV Canal 86" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="📍 Locales RD",SEO TV Canal 86
+https://seo.tv.bo/tv/SEO-TV-1.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://seo.tv.bo/&Origin=https://seo.tv.bo
 
 #EXTINF:-1 tvg-id="fv3tv55.do" tvg-name="FV3 TV Canal 55" tvg-logo="https://cdn.teleon.tv/logo/TV-Montana-Canal-10.jpg" group-title="📍 Locales RD",FV3 TV Canal 55
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://ss3.domint.net:3102/&Origin=https://ss3.domint.net:3102
