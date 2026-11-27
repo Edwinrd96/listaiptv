@@ -205,7 +205,7 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8|User-Agent=Mozill
 https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8|User-Agent=Mozilla/5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv:152.0%29%20Gecko/20100101%20Firefox/152.0&Referer=https://telemicro.com.do/players/15tv/index_pc.php&Origin=https://telemicro.com.do
 
 #EXTINF:-1 tvg-id="tvcanalsur.do" tvg-name="TV Canal Sur" tvg-logo="https://tvcanalsur.com.do/wp-content/uploads/2022/12/canalsur-logo-w.png" group-title="📍 Locales RD",TV Canal Sur
-https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://streamtvs.tvcanalsur.com.do/&Origin=https://streamtvs.tvcanalsur.com.do
+https://streamtvs.tvcanalsur.com.do/hls/stream.m3u8|User-Agent=Mozilla/5.0%20%28SMART-TV%3B%20LINUX%3B%20Tizen%206.5%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%2085.0.4183.93/6.5%20TV%20Safari/537.36&Referer=https://streamtvs.tvcanalsur.com.do/&Origin=https://streamtvs.tvcanalsur.com.do
 
 #EXTINF:-1 tvg-id="naranjaTV.do" tvg-name="Naranja TV" tvg-logo="https://naranjatv.net/wp-content/uploads/2023/05/275x275-transparente.png" group-title="📍 Locales RD",Naranja TV
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/141.0.0.0%20Safari/537.36&Referer=https://cdn.streamingcpanel.com:3526/&Origin=https://cdn.streamingcpanel.com:3526
